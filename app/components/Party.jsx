@@ -79,6 +79,12 @@ class Party extends React.Component {
               </span>
             </div>
           </div>
+          <div className={ legendSection }>
+            <div><b>ขนาดทุนจดทะเบียน (หน่วย: บาท)</b></div>
+            <div>
+              <img src="https://i.imgur.com/xR5hKD6.png" width="80"/>
+            </div>
+          </div>
         </div>
         <div className={ clear }></div>
       </div>

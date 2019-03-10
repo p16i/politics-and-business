@@ -1,5 +1,6 @@
 import React from 'react'
 
+import Party from './Party';
 import { app, logo, footerContainer } from './app.css'
 
 const App = React.createClass({
@@ -7,7 +8,7 @@ const App = React.createClass({
     return (
       <main className={ app }>
         <div><img className={ logo } src="https://elect.in.th/wp-content/uploads/2018/10/site-logo.png"/></div>
-        {this.props.children}
+        <Party/>
         <div className={ footerContainer }>
           ขอบคุณข้อมูลจาก <a href="#"><b>Creden.co</b></a>
         </div>
