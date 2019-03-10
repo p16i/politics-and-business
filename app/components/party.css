@@ -1,0 +1,50 @@
+.party {
+  padding: 5px 10px;
+  position: relative;
+}
+
+.title {
+  text-align: right;
+}
+
+.descBox {
+  float: right;
+}
+
+.description {
+  text-align: right;
+}
+
+.d3Container {
+  text-align: center;
+  margin-left: 10%;
+}
+
+
+.legendContainer {
+  padding: 5px;
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+  opacity: 0.1;
+  max-width: 250px;
+
+  transition: opacity 0.2s ease-in-out;
+}
+
+.legendContainer:hover {
+  opacity: 1;
+}
+
+.legendSection {
+  margin-top: 10px;
+}
+
+.clear { 
+  clear: both;
+}
+
+.legendColorCode {
+  margin-right: 5px;
+  display: inline-block;
+}

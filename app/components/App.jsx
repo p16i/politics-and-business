@@ -1,14 +1,16 @@
 import React from 'react'
 
-import { app } from './app.css'
-import { mastHead } from './shared/typography'
+import { app, logo, footerContainer } from './app.css'
 
 const App = React.createClass({
   render() {
     return (
       <main className={ app }>
-        <h1 className={ mastHead }>Test Application</h1>
+        <div><img className={ logo } src="https://elect.in.th/wp-content/uploads/2018/10/site-logo.png"/></div>
         {this.props.children}
+        <div className={ footerContainer }>
+          ขอบคุณข้อมูลจาก <a href="#"><b>Creden.co</b></a>
+        </div>
       </main>
     );
   }

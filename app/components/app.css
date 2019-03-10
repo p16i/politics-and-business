@@ -1,3 +1,17 @@
 .app {
-  composes: centered from "./shared/layout.css";
+    margin: 0px;
+}
+
+.logo {
+    padding: 20px;
+    width: 200px;
+}
+
+.footerContainer {
+    padding: 20px;
+}
+
+.footerContainer a {
+    color: black;
+    text-decoration: none;
 }
