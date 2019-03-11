@@ -135,8 +135,6 @@ class Party extends React.Component {
       }
     }
 
-    console.log(selectedObject);
-
     return (
       <div className={ partyStyle.party }>
         <div className={ partyStyle.descBox }>
