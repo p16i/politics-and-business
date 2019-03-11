@@ -15,7 +15,8 @@ const config = {
         }
     },
     availableParties: [
-
+        'พลังประชารัฐ',
+        'อนาคตใหม่',
     ]
 }
 

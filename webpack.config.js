@@ -19,6 +19,10 @@ const copyPlugin = new CopyWebpackPlugin([
   { from: 'app/assets', to: 'assets' }
 ])
 
+const definePlugin = new webpack.DefinePlugin({
+  'process.env.publicPath': JSON.stringify(process.env.PUBLIC_PATH || '127.0.0.1:8080')
+})
+
 function extract(loaders) {
   return ExtractTextPlugin.extract('style',  loaders.substr(loaders.indexOf('!')))
 }
@@ -82,14 +86,16 @@ module.exports = {
       template: './conf/tmpl.html',
       production: isProd
     }),
-    copyPlugin
+    copyPlugin,
+    definePlugin
   ] : [
     new webpack.NoErrorsPlugin(),
     new HtmlWebpackPlugin({
       title: package.name,
       template: './conf/tmpl.html'
     }),
-    copyPlugin
+    copyPlugin,
+    definePlugin
   ] 
 , resolve: {
     modulesDirectories: [ 'app', 'node_modules' ]

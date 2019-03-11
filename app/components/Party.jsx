@@ -4,6 +4,8 @@ import rd3 from 'react-d3-library';
 import d3Viz from 'd3Party';
 import { config } from '../utils';
 
+import Select from 'react-select';
+
 const RD3Component = rd3.Component;
 const bColorScheme = config.colorSchemes.businessType;
 
@@ -13,22 +15,40 @@ import * as icons from './shared/icons.css';
 import * as colors from './shared/colors.css';
 import * as utils from '../utils';
 
+const selectOptions = config.availableParties
+  .map( a => {
+    return {
+      value: a,
+      label: a
+    }
+  })
+
+const customSelectStyle = {}
+
 class Party extends React.Component {
 
   constructor(props) {
     super(props);
-    console.log(config.partyFiles);
     this.state = {d3: ''}
+
+    this.handleSelectChange = this.handleSelectChange.bind(this);
   }
 
   componentDidMount() {
-    this.renderParty('อนาคตใหม่')
+    this.renderParty(selectOptions[0]);
   }
 
-  renderParty(partyName){
+  handleSelectChange(o) {
+    this.renderParty(o)
+  }
+
+  renderParty(o){
+    const partyName = o.value;
+    console.log(config.availableParties);
     let self = this;
-    fetch(`//localhost:8080/assets/data/${partyName}.csv.json`)
-    // We get the API response and receive data in JSON format...
+
+    // todo:
+    fetch(`//${process.env.publicPath}/assets/data/${partyName}.csv.json`)
     .then(response => response.json())
     // ...then we update the users state
     .then(data => {
@@ -64,9 +84,8 @@ class Party extends React.Component {
       const topPoliticians = politicians.slice().sort((a, b) =>  b.relatedTo.length - a.relatedTo.length)
           .slice(0, 5)
 
-        console.log(topPoliticians);
-
       self.setState({
+        selectedOption: o,
         partyName: partyName,
         d3Obj: d3Viz(d3Data),
         totalCPMinM: orgs.map( o => o.cpm )
@@ -79,17 +98,27 @@ class Party extends React.Component {
   }
 
   render() {
+    const selectedOption = this.state.selectedOption;
+
     return (
       <div className={ partyStyle.party }>
         <div className={ partyStyle.descBox }>
           <h2 className={ partyStyle.title }>
-            พรรค <b>{this.state.partyName}</b>
+            ข้อมูลรายละเอียดส.ส.ของพรรคการเมืองที่มีประวัติเกี่ยวข้องกับธุรกิจ
           </h2>
+
+          <Select
+            value={selectedOption}
+            onChange={this.handleSelectChange}
+            options={selectOptions}
+            styles={customSelectStyle}
+          />
+
           <div className={ partyStyle.description }>
             <div>
-              มี ส.ส.​ จำนวน {this.state.totalPoliticiansInvoledWithBusiness} จาก {this.state.totalPoliticians} คน <br/>
+              มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน <br/>
               เป็นหรือเคยเป็นกรรมการบริษัท <br/>
-              ซึ่งรวมทุนจดทะเบียนทั้งสิ้น ฿{this.state.totalCPMinM}M
+              ซึ่งรวมทุนจดทะเบียนทั้งสิ้น <b>฿{Math.round(this.state.totalCPMinM)}M</b>
             </div>
             <div className={ partyStyle.topListContainer }>
               { this.state.topList &&
@@ -99,7 +128,7 @@ class Party extends React.Component {
                     {
                       this.state.topList.map( (p, idx) => {
                         return <li>
-                          <div>{idx+1}. {p.name} ({p.relatedTo.length} นิติบุคคล)</div>
+                          <div>{idx+1}. <a href="#">{p.name}</a> ({p.relatedTo.length} นิติบุคคล)</div>
                         </li>
                       })
                     }
