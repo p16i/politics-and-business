@@ -9,6 +9,8 @@
 
 .descBox {
   float: right;
+  width: 20%;
+  border: 1px dotted black;
 }
 
 .description {
@@ -18,16 +20,33 @@
 .d3Container {
   text-align: center;
   margin-left: 10%;
+  min-height: 600px;
 }
 
+.topListContainer {
+  margin-top: 20px;
+}
+
+.topListUL {
+  margin: 0px;
+  padding-left: 5px;
+  list-style: none;
+  text-align: left;
+}
+
+.topListUL li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 5px;
+}
 
 .legendContainer {
   padding: 5px;
   position: absolute;
   bottom: 5px;
   left: 10px;
-  opacity: 0.1;
-  max-width: 250px;
+  opacity: 0.05;
+  max-width: 280px;
 
   transition: opacity 0.2s ease-in-out;
 }

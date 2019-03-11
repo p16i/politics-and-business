@@ -11,8 +11,13 @@ var isProd         = process.env.NODE_ENV === 'production'
 
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
   , HtmlWebpackPlugin = require('html-webpack-plugin')
+  , CopyWebpackPlugin = require('copy-webpack-plugin');
 
 var cssLoaders = 'style!css?modules!postcss'
+
+const copyPlugin = new CopyWebpackPlugin([
+  { from: 'app/assets', to: 'assets' }
+])
 
 function extract(loaders) {
   return ExtractTextPlugin.extract('style',  loaders.substr(loaders.indexOf('!')))
@@ -76,15 +81,16 @@ module.exports = {
       title: package.name,
       template: './conf/tmpl.html',
       production: isProd
-    })
+    }),
+    copyPlugin
   ] : [
     new webpack.NoErrorsPlugin(),
     new HtmlWebpackPlugin({
       title: package.name,
       template: './conf/tmpl.html'
-    })
-  ]
-
+    }),
+    copyPlugin
+  ] 
 , resolve: {
     modulesDirectories: [ 'app', 'node_modules' ]
   , extensions: ['', '.js', '.json', '.jsx', '.css']

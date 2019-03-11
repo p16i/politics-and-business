@@ -1,13 +1,20 @@
 .icon {
     font-style: normal;
+    margin-right: 5px;
+    line-height: 1em;
 }
 
 .politician:before {
-    content: "△";
+    content: "□";
+    font-size: 1.9em;
+    vertical-align: top;
 }
 
 .politicianWithBusiness:before {
-    content: "▲";
+    content: "□";
+    font-size: 1.9em;
+    color: #F00;
+    vertical-align: top;
 }
 
 .org {

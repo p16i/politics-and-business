@@ -10,7 +10,9 @@ const App = React.createClass({
         <div><img className={ logo } src="https://elect.in.th/wp-content/uploads/2018/10/site-logo.png"/></div>
         <Party/>
         <div className={ footerContainer }>
-          ขอบคุณข้อมูลจาก <a href="#"><b>Creden.co</b></a>
+          ข้อมูลจาก <a target="_blank" href="https://creden.co/creditscore/business">
+            <b><img src="assets/images/creden.png"/></b>
+          </a>
         </div>
       </main>
     );
