@@ -17,7 +17,11 @@ const config = {
     availableParties: [
         'พลังประชารัฐ',
         'อนาคตใหม่',
-    ]
+    ],
+    url: {
+        credenBusinessPage: 'https://creden.co/creditscore/business/main.html#/company?id=<ID>&tab=general',
+        credenPersonSearch: 'https://creden.co/creditscore/business/main.html#/search?search=<name>',
+    }
 }
 
 function discretizeCPM(cpm){

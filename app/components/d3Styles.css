@@ -6,12 +6,25 @@
 }
 
 .highlight {
+  stroke: #000 !important;
+  stroke-width: 2px;
+  opacity: 1;
+}
+
+.permanentHighlight {
   stroke: black !important;
   stroke-width: 3px;
   opacity: 1;
 }
 
 .linkHighlight {
+  stroke: black;
+  stroke-width: 1px;
+  stroke-dasharray: none;
+  opacity: 1;
+}
+
+.permanentLinkHighlight {
   stroke: black;
   stroke-width: 1px;
   stroke-dasharray: none;

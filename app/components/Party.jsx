@@ -1,8 +1,10 @@
 import React from 'react';
 import rd3 from 'react-d3-library';
 
+import { Redirect, Link } from 'react-router-dom';
 import d3Viz from 'd3Party';
 import { config } from '../utils';
+import _ from 'lodash';
 
 import Select from 'react-select';
 
@@ -29,28 +31,40 @@ class Party extends React.Component {
 
   constructor(props) {
     super(props);
-    this.state = {d3: ''}
+    this.state = { d3: '', newPath: null, params: props.params }
 
+    console.log(props.params)
+    
     this.handleSelectChange = this.handleSelectChange.bind(this);
+    this.handleBubbleClick = this.handleBubbleClick.bind(this);
   }
 
   componentDidMount() {
-    this.renderParty(selectOptions[0]);
+    console.log('mouttt');
+    const opt = selectOptions.filter(p => p.value === this.props.params.partyName);
+    this.renderParty(opt[0]);
+  }
+
+  handleBubbleClick(e) {
+    this.setState({
+      params: e
+    })
   }
 
   handleSelectChange(o) {
-    this.renderParty(o)
+    const newPath=`${o.value}`;
+    this.setState({
+      oldPath: this.state.selectedOption.value,
+      newPath: newPath
+    })
   }
 
   renderParty(o){
     const partyName = o.value;
-    console.log(config.availableParties);
     let self = this;
 
-    // todo:
     fetch(`//${process.env.publicPath}/assets/data/${partyName}.csv.json`)
     .then(response => response.json())
-    // ...then we update the users state
     .then(data => {
       const politicians = data.map( p => {
         p['EventID'] = p['name']
@@ -84,10 +98,15 @@ class Party extends React.Component {
       const topPoliticians = politicians.slice().sort((a, b) =>  b.relatedTo.length - a.relatedTo.length)
           .slice(0, 5)
 
+      const dd = d3Viz(d3Data, this.props)
       self.setState({
         selectedOption: o,
         partyName: partyName,
-        d3Obj: d3Viz(d3Data),
+        dataPols: politicians,
+        dataOrgs: orgs,
+        d3Data: d3Data,
+        d3Obj: dd.containerNode,
+        d3HighlightForEvent: dd.highlightForEvent,
         totalCPMinM: orgs.map( o => o.cpm )
           .reduce( (a, b) => a + b, 0 )  / 1000000,
         totalPoliticians: politicians.length,
@@ -99,6 +118,24 @@ class Party extends React.Component {
 
   render() {
     const selectedOption = this.state.selectedOption;
+    if(this.state.newPath){
+      return <Redirect to={'/r/p-' + this.state.newPath}/>
+    }
+
+    let selectedObject = null;
+    if(this.state.dataPols && this.state.dataOrgs){
+      if(this.props.params.personName){
+        selectedObject = this.state.dataPols.find(p => p.name === this.props.params.personName)
+      } else if (this.props.params.orgID){
+        selectedObject = this.state.dataOrgs.find(o => o._id == this.props.params.orgID)
+      }
+
+      if(selectedObject){
+        this.state.d3HighlightForEvent(selectedObject.EventID);
+      }
+    }
+
+    console.log(selectedObject);
 
     return (
       <div className={ partyStyle.party }>
@@ -106,42 +143,77 @@ class Party extends React.Component {
           <h2 className={ partyStyle.title }>
             ข้อมูลรายละเอียดส.ส.ของพรรคการเมืองที่มีประวัติเกี่ยวข้องกับธุรกิจ
           </h2>
-
           <Select
             value={selectedOption}
             onChange={this.handleSelectChange}
             options={selectOptions}
             styles={customSelectStyle}
           />
-
-          <div className={ partyStyle.description }>
+          { !this.props.params.personName &&
+            !this.props.params.orgID &&
             <div>
-              มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน <br/>
-              เป็นหรือเคยเป็นกรรมการบริษัท <br/>
-              ซึ่งรวมทุนจดทะเบียนทั้งสิ้น <b>฿{Math.round(this.state.totalCPMinM)}M</b>
+
+              <div className={ partyStyle.description }>
+                <div>
+                  มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน <br/>
+                  เป็นหรือเคยเป็นกรรมการบริษัท <br/>
+                  ซึ่งรวมทุนจดทะเบียนทั้งสิ้น <b>฿{Math.round(this.state.totalCPMinM)}M</b>
+                </div>
+                <div className={ partyStyle.topListContainer }>
+                  { this.state.topList &&
+                    <span>
+                      <b>{this.state.topList.length} ส.ส. ที่เกี่ยวข้องกับธุรกิจมากที่สุด</b>
+                      <ul className={ partyStyle.topListUL }>
+                        {
+                          this.state.topList.map( (p, idx) => {
+                            return <li>
+                              <div>
+                                {idx+1}. <Link to={`/p/${this.props.params.partyName}/person/${p.name}`}>{p.name}</Link> ({p.relatedTo.length} นิติบุคคล)
+                              </div>
+                            </li>
+                          })
+                        }
+                      </ul>
+                    </span>
+                  }
+                </div>
+              </div> 
             </div>
-            <div className={ partyStyle.topListContainer }>
-              { this.state.topList &&
-                <span>
-                  <b>{this.state.topList.length} ส.ส. ที่เกี่ยวข้องกับธุรกิจมากที่สุด</b>
-                  <ul className={ partyStyle.topListUL }>
-                    {
-                      this.state.topList.map( (p, idx) => {
-                        return <li>
-                          <div>{idx+1}. <a href="#">{p.name}</a> ({p.relatedTo.length} นิติบุคคล)</div>
-                        </li>
-                      })
-                    }
-                  </ul>
-                </span>
-              }
+          }
+          { this.props.params.personName &&
+            <div>
+              <h1>{this.props.params.personName}</h1>
+              <img src="http://autonomous.mesimcc.org/img/testimonial.png"/>
+              <h3>เกี่ยวข้องกับ {selectedObject.relatedTo.length} นิติบุคคล</h3>
+              <div>
+                รวมทุนจดทะเบียนทั้งหมด {selectedObject.relatedTo.map(o => o.cpm)
+                .reduce((a, b) => a+b, 0)/Math.pow(10, 6)} ล้านบาท
+              </div>
+              <div>
+                <a href={config.url.credenPersonSearch.replace(/<name>/, this.props.params.personName)} target="_blank">ดูรายละเอียดเพิ่มเติมจาก creden.co</a>
+              </div>
+              <Link to={`/p/${this.props.params.partyName}`}>Close</Link>
             </div>
-          </div> 
-          <div>
-          </div>
+          }
+          { this.props.params.orgID &&
+            <div>
+              <h1>{selectedObject.JP_TNAME}</h1>
+              <h3>{selectedObject.JP_ENAME}</h3>
+              <h4>วัตถุประสงค์{selectedObject.OBJ_TNAME}</h4>
+              <div>ทุนจดทะเบียน {selectedObject.cpm / Math.pow(10, 6)} ล้านบาท</div>
+              <div>เลขที่นิติบุคคล {this.props.params.orgID}</div>
+              <div>สถานะ {selectedObject.stn}</div>
+              เกี่ยวข้องกับ {selectedObject.EventID}
+              <div>
+                <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ดูรายละเอียดเพิ่มเติมจาก creden.co</a>
+              </div>
+              <Link to={`/p/${this.props.params.partyName}`}>Close</Link>
+            </div>
+          }
         </div>
+
         <div className={ partyStyle.d3Container }>
-          <RD3Component data={this.state.d3Obj} />
+          <RD3Component data={this.state.d3Obj}/>
         </div>
         <div className={ partyStyle.legendContainer }>
           <div><b>คำอธิบาย</b></div>
