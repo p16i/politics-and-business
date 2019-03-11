@@ -16,6 +16,7 @@ import * as partyStyle from './party.css'
 import * as icons from './shared/icons.css';
 import * as colors from './shared/colors.css';
 import * as utils from '../utils';
+import randomInt from 'random-int';
 
 const selectOptions = config.availableParties
   .map( a => {
@@ -36,19 +37,18 @@ class Party extends React.Component {
     console.log(props.params)
     
     this.handleSelectChange = this.handleSelectChange.bind(this);
-    this.handleBubbleClick = this.handleBubbleClick.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
   }
 
   componentDidMount() {
-    console.log('mouttt');
     const opt = selectOptions.filter(p => p.value === this.props.params.partyName);
     this.renderParty(opt[0]);
+    console.log('mouttt')
+    document.addEventListener("keydown", this.handleKeyDown, false);
   }
 
-  handleBubbleClick(e) {
-    this.setState({
-      params: e
-    })
+  componentWillUnmount(){
+    document.removeEventListener("keydown", this.handleKeyDown, false);
   }
 
   handleSelectChange(o) {
@@ -57,6 +57,19 @@ class Party extends React.Component {
       oldPath: this.state.selectedOption.value,
       newPath: newPath
     })
+  }
+
+  handleKeyDown(e){
+    console.log(e);
+    if(e.key === 'p') {
+      const dataPols = this.state.dataPolsWithBusiness
+      const p = dataPols[randomInt(dataPols.length)]
+      this.props.history.push(`/p/${this.props.params.partyName}/person/${p.name}`)
+    } else if (e.key === 'o') {
+      const orgs = this.state.dataOrgs;
+      const o = orgs[randomInt(orgs.length)]
+      this.props.history.push(`/p/${this.props.params.partyName}/org/${o._id}`)
+    }
   }
 
   renderParty(o){
@@ -103,6 +116,7 @@ class Party extends React.Component {
         selectedOption: o,
         partyName: partyName,
         dataPols: politicians,
+        dataPolsWithBusiness: politicians.filter(p => p.relatedTo.length > 0),
         dataOrgs: orgs,
         d3Data: d3Data,
         d3Obj: dd.containerNode,
@@ -122,7 +136,12 @@ class Party extends React.Component {
       return <Redirect to={'/r/p-' + this.state.newPath}/>
     }
 
+    // if( !this.state.dataOrgs && this.state.dataPols){
+    //   return <Redirect to={'/r/p-'}
+    // }
+
     let selectedObject = null;
+    console.log(this.state.dataPols)
     if(this.state.dataPols && this.state.dataOrgs){
       if(this.props.params.personName){
         selectedObject = this.state.dataPols.find(p => p.name === this.props.params.personName)
@@ -178,7 +197,7 @@ class Party extends React.Component {
               </div> 
             </div>
           }
-          { this.props.params.personName &&
+          { this.props.params.personName && selectedObject &&
             <div>
               <h1>{this.props.params.personName}</h1>
               <img src="http://autonomous.mesimcc.org/img/testimonial.png"/>
@@ -193,7 +212,7 @@ class Party extends React.Component {
               <Link to={`/p/${this.props.params.partyName}`}>Close</Link>
             </div>
           }
-          { this.props.params.orgID &&
+          { this.props.params.orgID && selectedObject &&
             <div>
               <h1>{selectedObject.JP_TNAME}</h1>
               <h3>{selectedObject.JP_ENAME}</h3>
@@ -258,6 +277,10 @@ class Party extends React.Component {
             <div>
               <img src="assets/images/size-legend.png" width="80"/>
             </div>
+          </div>
+          <div>
+            <b>PROTIP: </b>
+            กด p เพื่อซุ่มส.ส. กด o เพื่อซุ่มดูรายละเอียดนิติบุคคล
           </div>
         </div>
         <div className={ partyStyle.clear }></div>
