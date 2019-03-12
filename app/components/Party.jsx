@@ -272,7 +272,7 @@ class Party extends React.Component {
           </div>
           <div>
             <b>PROTIP: </b>
-            กด p เพื่อสุ่มส.ส. กด o เพื่อสุ่มดูรายละเอียดนิติบุคคล
+            กด `p` เพื่อสุ่มส.ส. กด o เพื่อสุ่มดูรายละเอียดนิติบุคคล
           </div>
         </div>
         <div className={ partyStyle.clear }></div>
