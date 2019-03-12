@@ -11,7 +11,7 @@
 }
 
 .politicianWithBusiness:before {
-    content: "□";
+    content: '■';
     font-size: 1.9em;
     color: #F00;
     vertical-align: top;

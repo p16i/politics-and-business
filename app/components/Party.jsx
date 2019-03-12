@@ -26,8 +26,6 @@ const selectOptions = config.availableParties
     }
   })
 
-const customSelectStyle = {}
-
 class Party extends React.Component {
 
   constructor(props) {
@@ -100,6 +98,7 @@ class Party extends React.Component {
 
       const d3Data = {
         'name': partyName,
+        'maxRelatedTo': Math.max(...politicians.map(p => p.relatedTo.length)),
         'children': [{
             Count: 50,
             Type: 'logo'
@@ -136,12 +135,7 @@ class Party extends React.Component {
       return <Redirect to={'/r/p-' + this.state.newPath}/>
     }
 
-    // if( !this.state.dataOrgs && this.state.dataPols){
-    //   return <Redirect to={'/r/p-'}
-    // }
-
     let selectedObject = null;
-    console.log(this.state.dataPols)
     if(this.state.dataPols && this.state.dataOrgs){
       if(this.props.params.personName){
         selectedObject = this.state.dataPols.find(p => p.name === this.props.params.personName)
@@ -151,47 +145,44 @@ class Party extends React.Component {
 
       if(selectedObject){
         this.state.d3HighlightForEvent(selectedObject.EventID);
+      } else {
+        this.state.d3HighlightForEvent(null);
       }
     }
 
     return (
       <div className={ partyStyle.party }>
         <div className={ partyStyle.descBox }>
-          <h2 className={ partyStyle.title }>
-            ข้อมูลรายละเอียดส.ส.ของพรรคการเมืองที่มีประวัติเกี่ยวข้องกับธุรกิจ
-          </h2>
-          <Select
-            value={selectedOption}
-            onChange={this.handleSelectChange}
-            options={selectOptions}
-            styles={customSelectStyle}
-          />
           { !this.props.params.personName &&
             !this.props.params.orgID &&
             <div>
-
+              <h2 className={ partyStyle.title }>
+                ข้อมูลรายละเอียดส.ส.ของพรรคการเมืองที่มีประวัติเกี่ยวข้องกับธุรกิจ
+              </h2>
+              <Select
+                value={selectedOption}
+                onChange={this.handleSelectChange}
+                options={selectOptions}
+              />
               <div className={ partyStyle.description }>
-                <div>
-                  มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน <br/>
-                  เป็นหรือเคยเป็นกรรมการบริษัท <br/>
-                  ซึ่งรวมทุนจดทะเบียนทั้งสิ้น <b>฿{Math.round(this.state.totalCPMinM)}M</b>
-                </div>
-                <div className={ partyStyle.topListContainer }>
-                  { this.state.topList &&
-                    <span>
-                      <b>{this.state.topList.length} ส.ส. ที่เกี่ยวข้องกับธุรกิจมากที่สุด</b>
-                      <ul className={ partyStyle.topListUL }>
-                        {
-                          this.state.topList.map( (p, idx) => {
-                            return <li>
-                              <div>
-                                {idx+1}. <Link to={`/p/${this.props.params.partyName}/person/${p.name}`}>{p.name}</Link> ({p.relatedTo.length} นิติบุคคล)
-                              </div>
-                            </li>
-                          })
-                        }
-                      </ul>
-                    </span>
+              <div className={ partyStyle.partyLogoContainer }>
+                <img className={ partyStyle.partyLogo } src={`//elect.in.th/candidates/statics/party-logos/${this.props.params.partyName}.png`}/>
+              </div>
+                <div className={ partyStyle.descDetails }>
+                  มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน 
+                  เป็นหรือเคยเป็นกรรมการบริษัท 
+                  ซึ่งรวมทุนจดทะเบียนทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ส.ส. ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
+                  { this.state.topList && <ul className={ partyStyle.topListUL }>
+                    {
+                      this.state.topList.map( (p, idx) => {
+                        return <li>
+                          <div>
+                            {idx+1}. <Link to={`/p/${this.props.params.partyName}/person/${p.name}`}>{p.name}</Link> ({p.relatedTo.length} นิติบุคคล)
+                          </div>
+                        </li>
+                      })
+                    }
+                    </ul>
                   }
                 </div>
               </div> 
@@ -200,8 +191,9 @@ class Party extends React.Component {
           { this.props.params.personName && selectedObject &&
             <div>
               <h1>{this.props.params.personName}</h1>
+              <h3>{selectedObject.desc}</h3>
               <img src="http://autonomous.mesimcc.org/img/testimonial.png"/>
-              <h3>เกี่ยวข้องกับ {selectedObject.relatedTo.length} นิติบุคคล</h3>
+              <h4>เกี่ยวข้องกับ {selectedObject.relatedTo.length} นิติบุคคล</h4>
               <div>
                 รวมทุนจดทะเบียนทั้งหมด {selectedObject.relatedTo.map(o => o.cpm)
                 .reduce((a, b) => a+b, 0)/Math.pow(10, 6)} ล้านบาท

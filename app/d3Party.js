@@ -5,9 +5,14 @@ import * as d3Symbol from 'd3-symbol-extra';
 import { config } from './utils';
 
 function d3Viz(dataset, props){
+
+    const polColor = d3.scaleSequential(d3Color.interpolateReds)
+        .domain([0, dataset.maxRelatedTo])
+
     const partyName = dataset.name;
     const containerNode = document.createElement('div');
     const diameter = config.d3.diameter;
+
     const color = d3.scaleOrdinal(d3Color.schemeCategory10);
     const padding = config.d3.padding;
     const polSymbol = d3.symbol()
@@ -80,19 +85,23 @@ function d3Viz(dataset, props){
             let angle = (theta > 0 ? theta : (2*Math.PI + theta)) * 360 / (2*Math.PI);
 
             return `rotate(${angle})`;
-        });
+        })
+        .style("fill", d => {
+            console.log(d.data.relatedTo.length)
+            return polColor(d.data.relatedTo.length)
+        })
 
     node.filter((d) => d.data.Type == 'org')
         .style("fill", d => config.colorSchemes.businessType[d.data.JP_TYPE_CODE]);
 
     node.filter((d) => d.data.Type == "logo")
-        .style("fill", "#FFF")
-        .append("image")
-        .attr("xlink:href", `//elect.in.th/candidates/statics/party-logos/${partyName}.png`)
-        .attr("x", (d) => -d.r)
-        .attr("y", (d) => -d.r)
-        .attr("width", (d) => 2*d.r)
-        .attr("height", (d) => 2*d.r);
+        .style("fill", "none")
+        // .append("image")
+        // .attr("xlink:href", `//elect.in.th/candidates/statics/party-logos/${partyName}.png`)
+        // .attr("x", (d) => -d.r)
+        // .attr("y", (d) => -d.r)
+        // .attr("width", (d) => 2*d.r)
+        // .attr("height", (d) => 2*d.r);
 
     d3.select(self.frameElement)
         .style("height", diameter + "px");
@@ -101,15 +110,25 @@ function d3Viz(dataset, props){
 
 
     const highlightForEvent = (eid) => {
+        console.log(eid)
 
-        console.log(eid);
-        polOrgNodes.classed(d3Style.permanentHighlight, false)
-            .filter(d => d.data.EventID === eid)
-            .classed(d3Style.permanentHighlight, true);
-        
-        line.classed(d3Style.permanentLinkHighlight, false)
-            .filter(d => d.src.data.EventID === eid )
-            .classed(d3Style.permanentLinkHighlight, true);
+        if(eid){
+            polOrgNodes
+                .filter(d => d.data.EventID !== eid)
+                .style('opacity', config.d3.inactiveOpacity)
+
+            polOrgNodes
+                .filter(d => d.data.EventID === eid)
+                .style('opacity', 1)
+
+            line.classed(d3Style.permanentLinkHighlight, false)
+                .filter(d => d.src.data.EventID === eid)
+                .classed(d3Style.permanentLinkHighlight, true)
+        } else {
+            polOrgNodes.style('opacity', 1)
+            line.classed(d3Style.permanentLinkHighlight, false)
+        }
+
     }
 
     polOrgNodes

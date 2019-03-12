@@ -1,34 +1,8 @@
 .normalLink {
-  opacity: 0.1;
+  opacity: 0.0;
   stroke-width: 1;
   stroke: #AAA;
   stroke-linecap: round;
-}
-
-.highlight {
-  stroke: #000 !important;
-  stroke-width: 2px;
-  opacity: 1;
-}
-
-.permanentHighlight {
-  stroke: black !important;
-  stroke-width: 3px;
-  opacity: 1;
-}
-
-.linkHighlight {
-  stroke: black;
-  stroke-width: 1px;
-  stroke-dasharray: none;
-  opacity: 1;
-}
-
-.permanentLinkHighlight {
-  stroke: black;
-  stroke-width: 1px;
-  stroke-dasharray: none;
-  opacity: 1;
 }
 
 .politician {
@@ -39,7 +13,32 @@
 
 .politicianInvolvedWithBusiness { 
     stroke: none;
-    stroke: #F00;
-    fill: none;
+    fill: #F00;
     opacity: 1;
+}
+
+.highlight {
+  stroke: #000 !important;
+  stroke-width: 2px;
+  opacity: 1 !important;
+}
+
+.linkHighlight {
+  stroke: #BBB;
+  stroke-width: 1px;
+  stroke-dasharray: none;
+  opacity: 1;
+}
+
+.permanentLinkHighlight {
+  stroke: #888;
+  stroke-width: 1px;
+  stroke-dasharray: none;
+  opacity: 1;
+}
+
+.permanentHighlight {
+  stroke: black !important;
+  stroke-width: 3px;
+  opacity: 1;
 }

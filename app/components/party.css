@@ -13,8 +13,11 @@
 }
 
 .description {
-  margin-top: 20px;
-  text-align: right;
+  margin-top: 10px;
+}
+
+.descDetails {
+  text-indent: 2em;
 }
 
 .d3Container {
@@ -23,21 +26,40 @@
   min-height: 600px;
 }
 
+.optionStyle {
+  padding: 5px;
+}
+
+.optionStyle:hover {
+  background: #EEE;
+}
+
+.partyLogoContainer {
+  text-align: center;
+}
+
+.partyLogo {
+  width: 150px;
+}
+
 .topListContainer {
   margin-top: 20px;
 }
 
 .topListUL {
   margin: 0px;
-  padding-left: 5px;
+  padding-left: 2em;
   list-style: none;
   text-align: left;
 }
 
 .topListUL li {
   list-style: none;
-  display: inline-block;
   margin-right: 5px;
+}
+
+.topListUL li div {
+  text-indent: 0;
 }
 
 .topListUL li a {
@@ -51,7 +73,7 @@
   position: absolute;
   bottom: 5px;
   left: 10px;
-  opacity: 0.05;
+  opacity: 0.3;
   max-width: 280px;
 
   transition: opacity 0.2s ease-in-out;
