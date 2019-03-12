@@ -67,6 +67,8 @@ class Party extends React.Component {
       const orgs = this.state.dataOrgs;
       const o = orgs[randomInt(orgs.length)]
       this.props.history.push(`/p/${this.props.params.partyName}/org/${o._id}`)
+    } else if (e.key === 'Escape') {
+      this.props.history.push(`/p/${this.props.params.partyName}`)
     }
   }
 
@@ -156,17 +158,15 @@ class Party extends React.Component {
           { !this.props.params.personName &&
             !this.props.params.orgID &&
             <div>
-              <h2 className={ partyStyle.title }>
-                ข้อมูลรายละเอียดส.ส.ของพรรคการเมืองที่มีประวัติเกี่ยวข้องกับธุรกิจ
-              </h2>
-              <Select
-                value={selectedOption}
-                onChange={this.handleSelectChange}
-                options={selectOptions}
-              />
               <div className={ partyStyle.description }>
+              <h2 className={ partyStyle.title }>
+                รายละเอียด ส.ส. ของพรรคการเมืองที่มีประวัติเกี่ยวข้องกับธุรกิจ
+              </h2>
               <div className={ partyStyle.partyLogoContainer }>
-                <img className={ partyStyle.partyLogo } src={`//elect.in.th/candidates/statics/party-logos/${this.props.params.partyName}.png`}/>
+                <div>กดเพื่อทำการข้อมูลของพรรคอื่นๆ</div>
+                <Link to='/browse'>
+                  <img className={ partyStyle.partyLogo } src={`//elect.in.th/candidates/statics/party-logos/${this.props.params.partyName}.png`}/>
+                </Link>
               </div>
                 <div className={ partyStyle.descDetails }>
                   มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน 
@@ -272,7 +272,7 @@ class Party extends React.Component {
           </div>
           <div>
             <b>PROTIP: </b>
-            กด p เพื่อซุ่มส.ส. กด o เพื่อซุ่มดูรายละเอียดนิติบุคคล
+            กด p เพื่อสุ่มส.ส. กด o เพื่อสุ่มดูรายละเอียดนิติบุคคล
           </div>
         </div>
         <div className={ partyStyle.clear }></div>

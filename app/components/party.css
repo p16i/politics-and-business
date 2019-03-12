@@ -4,7 +4,7 @@
 }
 
 .title {
-  text-align: right;
+  text-align: center;
 }
 
 .descBox {
@@ -22,7 +22,7 @@
 
 .d3Container {
   text-align: center;
-  margin-left: 10%;
+  margin-left: 15%;
   min-height: 600px;
 }
 

@@ -5,16 +5,12 @@
 }
 
 .politician:before {
-    content: "□";
-    font-size: 1.9em;
-    vertical-align: top;
+    content: '⬠';
 }
 
 .politicianWithBusiness:before {
-    content: '■';
-    font-size: 1.9em;
+    content: '⬟';
     color: #F00;
-    vertical-align: top;
 }
 
 .org {

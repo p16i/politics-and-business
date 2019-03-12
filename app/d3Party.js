@@ -16,7 +16,7 @@ function d3Viz(dataset, props){
     const color = d3.scaleOrdinal(d3Color.schemeCategory10);
     const padding = config.d3.padding;
     const polSymbol = d3.symbol()
-        .type(d3Symbol.symbolDiamondSquare)
+        .type(d3Symbol.symbolPentagon)
         .size(config.d3.politicianSymbolSize)
 
     const bubble = d3.pack(dataset)

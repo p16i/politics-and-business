@@ -1,0 +1,15 @@
+.container {
+}
+
+.logoContainer {
+    padding: 0
+}
+
+.logoContainer li {
+    display: inline-block;
+}
+
+.partyLogo {
+    width: 100px;
+    margin: 10px;
+}

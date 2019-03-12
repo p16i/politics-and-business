@@ -4,7 +4,7 @@ const config = {
         circleMaxSize: 50,
         logoRadius: 200,
         politicianSymbolSize: 50,
-        padding: 3,
+        padding: 5,
         inactiveOpacity: 0.15,
     },
     colorSchemes: {
