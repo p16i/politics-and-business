@@ -212,7 +212,7 @@ class Party extends React.Component {
               <div>ทุนจดทะเบียน {selectedObject.cpm / Math.pow(10, 6)} ล้านบาท</div>
               <div>เลขที่นิติบุคคล {this.props.params.orgID}</div>
               <div>สถานะ {selectedObject.stn}</div>
-              เกี่ยวข้องกับ {selectedObject.EventID}
+              เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link>
               <div>
                 <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ดูรายละเอียดเพิ่มเติมจาก creden.co</a>
               </div>
