@@ -16,7 +16,7 @@ function d3Viz(dataset, props){
     const color = d3.scaleOrdinal(d3Color.schemeCategory10);
     const padding = config.d3.padding;
     const polSymbol = d3.symbol()
-        .type(d3Symbol.symbolPentagon)
+        .type(d3.symbolTriangle)
         .size(config.d3.politicianSymbolSize)
 
     const bubble = d3.pack(dataset)
@@ -49,6 +49,10 @@ function d3Viz(dataset, props){
             dest: polNodesData[d.data.EventID]
         })    
     });
+
+    const tooltip = d3.select("body").append("div")
+        .classed(d3Style.tooltip, true)
+        .style("opacity", 0)
 
     const line = svg.selectAll(".line")
         .data(lines)
@@ -86,22 +90,13 @@ function d3Viz(dataset, props){
 
             return `rotate(${angle})`;
         })
-        .style("fill", d => {
-            console.log(d.data.relatedTo.length)
-            return polColor(d.data.relatedTo.length)
-        })
+        .style("fill", d => polColor(d.data.relatedTo.length))
 
     node.filter((d) => d.data.Type == 'org')
         .style("fill", d => config.colorSchemes.businessType[d.data.JP_TYPE_CODE]);
 
     node.filter((d) => d.data.Type == "logo")
         .style("fill", "none")
-        // .append("image")
-        // .attr("xlink:href", `//elect.in.th/candidates/statics/party-logos/${partyName}.png`)
-        // .attr("x", (d) => -d.r)
-        // .attr("y", (d) => -d.r)
-        // .attr("width", (d) => 2*d.r)
-        // .attr("height", (d) => 2*d.r);
 
     d3.select(self.frameElement)
         .style("height", diameter + "px");
@@ -110,8 +105,6 @@ function d3Viz(dataset, props){
 
 
     const highlightForEvent = (eid) => {
-        console.log(eid)
-
         if(eid){
             polOrgNodes
                 .filter(d => d.data.EventID !== eid)
@@ -160,9 +153,27 @@ function d3Viz(dataset, props){
                     return d.src.data.EventID == e.data.EventID;
                 })
                 .classed(d3Style.linkHighlight, true);
+
+            let tooltipText = '';
+            if(e.data.Type === 'org'){
+                tooltipText = e.data.JP_TNAME;
+            } else {
+                tooltipText = e.data.name;
+            }
+
+            tooltip.transition()
+                .duration(200)
+                .style('left', `${d3.event.pageX+40}px`)
+                .style('top', `${d3.event.pageY-20}px`)
+                .style("opacity", .9)
+                .text(tooltipText)
         });
 
-    node.on('mouseleave', (e) => {
+    node.on('mouseout', (e) => {
+        tooltip.transition()
+            .duration(200)
+            .style('opacity', 0);
+
         d3.selectAll(".node")
             .classed(d3Style.highlight, false);
 
@@ -170,6 +181,10 @@ function d3Viz(dataset, props){
             .classed(d3Style.linkHighlight, false);
     });
 
+    // svg.on('mouseout', () => {
+    //     console.log('outtt');
+    //     tooltip.style('opacity', 0);
+    // }) 
 
     return {
         containerNode: containerNode,

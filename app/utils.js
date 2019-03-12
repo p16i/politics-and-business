@@ -1,10 +1,10 @@
 const config = {
     d3: {
-        diameter: 550,
+        diameter: 600,
         circleMaxSize: 50,
         logoRadius: 200,
         politicianSymbolSize: 50,
-        padding: 5,
+        padding: 10,
         inactiveOpacity: 0.15,
     },
     colorSchemes: {
@@ -29,6 +29,7 @@ const config = {
 }
 
 function discretizeCPM(cpm){
+    // return 1;
     cpm = cpm / Math.pow(10, 6)
     if(cpm < 1) {
         return 3

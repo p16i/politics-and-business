@@ -11,6 +11,14 @@
     opacity: 0.1;
 }
 
+.tooltip {
+  background: black;
+  color: white;
+  padding: 5px;
+  font-size: 14px;
+  position: absolute;;
+}
+
 .politicianInvolvedWithBusiness { 
     stroke: none;
     fill: #F00;
@@ -27,7 +35,7 @@
   stroke: #BBB;
   stroke-width: 1px;
   stroke-dasharray: none;
-  opacity: 1;
+  opacity: 0.7;
 }
 
 .permanentLinkHighlight {

@@ -5,11 +5,11 @@
 }
 
 .politician:before {
-    content: '⬠';
+    content: '△';
 }
 
 .politicianWithBusiness:before {
-    content: '⬟';
+    content: '▲';
     color: #F00;
 }
 
