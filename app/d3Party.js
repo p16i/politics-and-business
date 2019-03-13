@@ -3,6 +3,7 @@ import * as d3Color from 'd3-scale-chromatic';
 import * as d3Style from './components/d3Styles.css';
 import * as d3Symbol from 'd3-symbol-extra';
 import { config } from './utils';
+import ReactDOM from 'react-dom';
 
 function d3Viz(dataset, props){
 
@@ -104,19 +105,36 @@ function d3Viz(dataset, props){
     const polOrgNodes = node.filter((d) => d.data.Type == "politician" || d.data.Type == "org")
 
 
-    const highlightForEvent = (eid) => {
+    const highlightForEvent = (eid, bbBox) => {
+        d3.selectAll(`.${d3Style.selectionTooltip}`)
+            .remove();
+
         if(eid){
             polOrgNodes
                 .filter(d => d.data.EventID !== eid)
                 .style('opacity', config.d3.inactiveOpacity)
 
-            polOrgNodes
+            const pp = polOrgNodes
                 .filter(d => d.data.EventID === eid)
                 .style('opacity', 1)
 
             line.classed(d3Style.permanentLinkHighlight, false)
                 .filter(d => d.src.data.EventID === eid)
                 .classed(d3Style.permanentLinkHighlight, true)
+
+            const data = pp.data();
+            console.log(data);
+            d3.select('body')
+                .select()
+                .data(data)
+                .enter()
+                .append("div")
+                .classed('selection-tooltip', true)
+                .classed(d3Style.selectionTooltip, true)
+                .style('left', d => `${d.x + bbBox.x}px`)
+                .style('top', d => `${d.y + bbBox.y}px`)
+                .text(d => d.data.Type === 'org' ? d.data.JP_TNAME: d.data.name);
+
         } else {
             polOrgNodes.style('opacity', 1)
             line.classed(d3Style.permanentLinkHighlight, false)
@@ -180,11 +198,6 @@ function d3Viz(dataset, props){
         d3.selectAll(".link")
             .classed(d3Style.linkHighlight, false);
     });
-
-    // svg.on('mouseout', () => {
-    //     console.log('outtt');
-    //     tooltip.style('opacity', 0);
-    // }) 
 
     return {
         containerNode: containerNode,

@@ -8,6 +8,10 @@ import _ from 'lodash';
 
 import Select from 'react-select';
 
+import Img from 'react-image'
+
+import ReactDOM from 'react-dom';
+
 const RD3Component = rd3.Component;
 const bColorScheme = config.colorSchemes.businessType;
 
@@ -36,6 +40,8 @@ class Party extends React.Component {
     
     this.handleSelectChange = this.handleSelectChange.bind(this);
     this.handleKeyDown = this.handleKeyDown.bind(this);
+
+    // this.d3Container = React.createRef();
   }
 
   componentDidMount() {
@@ -146,11 +152,14 @@ class Party extends React.Component {
       }
 
       if(selectedObject){
-        this.state.d3HighlightForEvent(selectedObject.EventID);
+        const bbBox = ReactDOM.findDOMNode(this.d3Dom)
+          .getBoundingClientRect();
+        this.state.d3HighlightForEvent(selectedObject.EventID, bbBox);
       } else {
         this.state.d3HighlightForEvent(null);
       }
     }
+
 
     return (
       <div className={ partyStyle.party }>
@@ -186,13 +195,25 @@ class Party extends React.Component {
                   }
                 </div>
               </div> 
+              <div className={ partyStyle.footerContainer }>
+                ข้อมูลจาก <a target="_blank" href="https://creden.co/creditscore/business">
+                  <b><img src="assets/images/creden.png"/></b>
+                </a>
+              </div>
             </div>
           }
           { this.props.params.personName && selectedObject &&
             <div>
-              <h1>{this.props.params.personName}</h1>
+              <h1>
+                <span>
+                  {this.props.params.personName}
+                </span>
+                <span className={partyStyle.imageContainer}>
+                  <Img src={selectedObject.image} className={partyStyle.politicianImage}
+                  />
+                </span>
+              </h1>
               <h3>{selectedObject.desc}</h3>
-              <img src="http://autonomous.mesimcc.org/img/testimonial.png"/>
               <h4>เกี่ยวข้องกับ {selectedObject.relatedTo.length} นิติบุคคล</h4>
               <div>
                 รวมทุนจดทะเบียนทั้งหมด {selectedObject.relatedTo.map(o => o.cpm)
@@ -222,7 +243,7 @@ class Party extends React.Component {
         </div>
 
         <div className={ partyStyle.d3Container }>
-          <RD3Component data={this.state.d3Obj}/>
+          <RD3Component data={this.state.d3Obj} ref={ (dom) => {this.d3Dom = dom}}/>
         </div>
         <div className={ partyStyle.legendContainer }>
           <div><b>คำอธิบาย</b></div>

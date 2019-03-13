@@ -6,19 +6,3 @@
     padding: 20px;
     width: 200px;
 }
-
-.footerContainer {
-    padding: 20px;
-    text-align: right;
-}
-
-.footerContainer a {
-    color: black;
-    text-decoration: none;
-}
-
-.footerContainer img {
-    width: 120px;
-    vertical-align: middle;
-    margin-top: -6px;
-}

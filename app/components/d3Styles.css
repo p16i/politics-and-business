@@ -17,6 +17,7 @@
   padding: 5px;
   font-size: 14px;
   position: absolute;
+  z-index: 100;
 }
 
 .politicianInvolvedWithBusiness { 
@@ -49,4 +50,14 @@
   stroke: black !important;
   stroke-width: 3px;
   opacity: 1;
+}
+
+.selectionTooltip {
+  position: absolute;
+  display: inline-block;
+  font-size: 14px;
+  padding: 5px;
+  background: black;
+  color: white;
+  opacity: 0.8
 }
