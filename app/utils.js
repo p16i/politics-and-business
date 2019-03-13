@@ -17,10 +17,10 @@ const config = {
     },
     availableParties: [
         'พลังประชารัฐ',
-        'เพื่อไทย',
-        'ประชาธิปัตย์',
-        'อนาคตใหม่',
-        'เพื่อแผ่นดิน',
+        // 'เพื่อไทย',
+        // 'ประชาธิปัตย์',
+        // 'อนาคตใหม่',
+        // 'เพื่อแผ่นดิน',
     ],
     url: {
         credenBusinessPage: 'https://creden.co/creditscore/business/main.html#/company?id=<ID>&tab=general',
