@@ -1,0 +1,35 @@
+.main {
+  padding: 5px;
+  text-align: center;
+}
+
+.imageContainer {
+  display: inline-block;
+  border-radius: 50%;
+  background: url(https://elect.in.th/candidates/statics/party-logos/dummy.png);
+  width: 150px;
+  height: 150px;
+  background-size: 50px 50px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.politicianImage {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.partyLogo {
+  width: 50px;
+  vertical-align: middle;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.footer div {
+  margin-bottom: 5px;
+}

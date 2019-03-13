@@ -4,10 +4,9 @@ import { Redirect, Link } from 'react-router-dom';
 import d3Viz from 'd3Party';
 import _ from 'lodash';
 
-import Img from 'react-image'
-
 import ReactDOM from 'react-dom';
 import Legend from './Legend';
+import PoliticianCard from './PoliticianCard';
 import { config } from '../utils';
 
 import './shared/typography.css'
@@ -202,27 +201,7 @@ class Party extends React.Component {
             </div>
           }
           {this.props.params.personName && selectedObject &&
-            <div>
-              <h1>
-                <span>
-                  {this.props.params.personName}
-                </span>
-                <span className={partyStyle.imageContainer}>
-                  <Img src={selectedObject.image} className={partyStyle.politicianImage}
-                  />
-                </span>
-              </h1>
-              <h3>{selectedObject.desc}</h3>
-              <h4>เกี่ยวข้องกับ {selectedObject.relatedTo.length} นิติบุคคล</h4>
-              <div>
-                รวมทุนจดทะเบียนทั้งหมด {selectedObject.relatedTo.map(o => o.cpm)
-                  .reduce((a, b) => a + b, 0) / Math.pow(10, 6)} ล้านบาท
-              </div>
-              <div>
-                <a href={config.url.credenPersonSearch.replace(/<name>/, this.props.params.personName)} target="_blank">ดูรายละเอียดเพิ่มเติมจาก creden.co</a>
-              </div>
-              <Link to={`/p/${this.props.params.partyName}`}>Close</Link>
-            </div>
+            <PoliticianCard politician={selectedObject} partyName={this.props.params.partyName}/>
           }
           {this.props.params.orgID && selectedObject &&
             <div>
