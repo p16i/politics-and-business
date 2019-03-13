@@ -49,6 +49,7 @@
     "normalize.css": "^4.2.0",
     "random-int": "^1.0.0",
     "react": "^15.2.1",
+    "react-autocomplete": "^1.8.1",
     "react-d3-library": "^1.1.8",
     "react-dom": "^15.2.1",
     "react-image": "^2.0.0",

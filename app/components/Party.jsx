@@ -169,7 +169,7 @@ class Party extends React.Component {
             <div>
               <div className={partyStyle.description}>
                 <h1 className={partyStyle.title}>
-                  ส.ส. ที่มีประวัติเกี่ยวข้องกับธุรกิจ
+                  ผู้สมัคร ส.ส. แบบแบ่งเขต ที่มีประวัติเกี่ยวข้องกับธุรกิจ
                 </h1>
                 <div className={partyStyle.partyLogoContainer}>
                   <Link to='/browse'>
@@ -244,7 +244,7 @@ class Party extends React.Component {
         <div className={partyStyle.d3Container}>
           <RD3Component data={this.state.d3Obj} ref={(dom) => { this.d3Dom = dom }} />
         </div>
-        <Legend randomPolitician={this.randomPolitician} randomOrg={this.randomOrg}/>
+        <Legend randomPolitician={this.randomPolitician} randomOrg={this.randomOrg} history={this.props.history}/>
         <div className={partyStyle.clear}></div>
       </div>
     )
