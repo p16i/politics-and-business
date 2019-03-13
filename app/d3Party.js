@@ -122,8 +122,8 @@ function d3Viz(dataset, props){
                 .filter(d => d.src.data.EventID === eid)
                 .classed(d3Style.permanentLinkHighlight, true)
 
-            const data = pp.data();
-            console.log(data);
+            const data = pp.data().filter(d=>d.data.Type == 'politician');
+
             d3.select('body')
                 .select()
                 .data(data)
@@ -131,10 +131,10 @@ function d3Viz(dataset, props){
                 .append("div")
                 .classed('selection-tooltip', true)
                 .classed(d3Style.selectionTooltip, true)
-                .style('left', d => `${d.x + bbBox.x}px`)
-                .style('top', d => `${d.y + bbBox.y}px`)
+                .style('left', d => `${d.x + 20 + bbBox.x}px`)
+                .style('top', d => `${d.y + 20 + bbBox.y}px`)
                 .text(d => d.data.Type === 'org' ? d.data.JP_TNAME: d.data.name);
-
+            tooltip.style('opacity', 0);
         } else {
             polOrgNodes.style('opacity', 1)
             line.classed(d3Style.permanentLinkHighlight, false)
