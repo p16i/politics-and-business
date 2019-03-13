@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 function d3Viz(dataset, props){
 
     const polColor = d3.scaleSequential(d3Color.interpolateReds)
-        .domain([0, dataset.maxRelatedTo])
+        .domain([0, dataset.maxRelatedTo/8])
 
     const partyName = dataset.name;
     const containerNode = document.createElement('div');
