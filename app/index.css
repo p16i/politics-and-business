@@ -1,11 +1,5 @@
 @import "normalize.css/normalize";
 
-.index {
-  composes: base from "./components/shared/typography.css";
-}
-
-/* Box Sizing */
-
 html { box-sizing: border-box; }
 
 html,
@@ -22,4 +16,5 @@ body {
   font-feature-settings: "kern", "liga", "pnum";
   text-rendering: optimizeLegibility;
   font-smoothing: antialiased;
+  font-family: "Noto Sans", "Noto Sans Thai", sans-serif;
 }

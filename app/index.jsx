@@ -8,6 +8,8 @@ import App from './components/App'
 import Browse from './components/Browse'
 import { config } from './utils'
 
+import './index.css';
+
 const TempRedirect = React.createClass({
   render() {
     const newPath = '/' + this.props.match.params.to

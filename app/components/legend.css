@@ -1,0 +1,23 @@
+.button {
+    width: 80px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px 5px;
+    cursor: pointer;
+
+    font-size: 13px;
+    color: #747474;
+    background: #ffffff;
+    border: 1px solid #E1E1E2;
+    text-align: center;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 #C3C3C3;
+}
+
+.buttonContainer {
+    text-align: center;
+    margin-bottom: 20px;
+}

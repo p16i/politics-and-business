@@ -6,6 +6,7 @@
 
 .politician:before {
     content: '△';
+    color: #EFB9A5;
 }
 
 .politicianWithBusiness:before {

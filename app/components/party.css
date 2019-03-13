@@ -9,7 +9,8 @@
 
 .descBox {
   float: right;
-  width: 25%;
+  float: left;
+  width: 350px;
 }
 
 .description {
@@ -18,11 +19,13 @@
 
 .descDetails {
   text-indent: 2em;
+  line-height: 28px;
 }
 
 .d3Container {
+  float: left;
+  margin-left: 5%;
   text-align: center;
-  margin-left: 15%;
   min-height: 600px;
 }
 
@@ -71,16 +74,11 @@
 .legendContainer {
   padding: 5px;
   position: absolute;
-  bottom: 5px;
-  left: 10px;
-  opacity: 0.3;
+  bottom: 10px;
+  right: 10px;
   max-width: 280px;
+  line-height: 20px;
 
-  transition: opacity 0.2s ease-in-out;
-}
-
-.legendContainer:hover {
-  opacity: 0.8;
 }
 
 .legendSection {
@@ -116,8 +114,9 @@
 }
 
 .footerContainer {
-    padding: 20px;
-    text-align: right;
+  margin-top: 40px;
+  padding: 20px;
+  font-size: 12px;
 }
 
 .footerContainer a {
@@ -126,7 +125,16 @@
 }
 
 .footerContainer img {
-    width: 120px;
+    width: 70px;
     vertical-align: middle;
     margin-top: -6px;
+}
+
+.legendSymbolSizeContainer {
+  text-align: center;
+}
+
+.legendSymbolSizeImg {
+  vertical-align: middle;
+  width: 80px;
 }
