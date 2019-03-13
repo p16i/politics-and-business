@@ -173,9 +173,9 @@ class Party extends React.Component {
                   </Link>
                 </div>
                 <div className={partyStyle.descDetails}>
-                  มี ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
-                  เป็นหรือเคยเป็นกรรมการบริษัท
-                  ซึ่งรวมทุนจดทะเบียนทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ส.ส. ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
+                  มี ผู้สมัคร ส.ส.​ แบ่งเขต จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
+                  เป็นหรือเคยเป็นกรรมการนิติบุคคล
+                  ซึ่งมีทุนจดทะเบียนรวมทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ผู้สมัครฯ ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
                   {this.state.topList && <ul className={partyStyle.topListUL}>
                     {
                       this.state.topList.map((p, idx) => {
