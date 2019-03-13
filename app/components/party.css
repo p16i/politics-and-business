@@ -118,3 +118,17 @@
   vertical-align: middle;
   width: 80px;
 }
+
+.orgContainer {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.orgDetails {
+  text-align: left;
+  text-indent: 1em;
+}
+
+.orgFooter {
+  margin-top: 20px;
+}

@@ -24,7 +24,7 @@ class PoliticianCard extends React.Component {
                     <div>({p.province_name} เขต {p.zone_number})</div>
                 </h4>
                 <div>เกี่ยวข้องกับ <b>{p.relatedTo.length}</b> นิติบุคคล
-                    ซึ่งรวมทุนจดทะเบียนทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
+                    ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
                         .reduce((a, b) => a + b, 0) / Math.pow(10, 6)}</b> ล้านบาท
                 </div>
               <div className={style.footer}>

@@ -204,18 +204,22 @@ class Party extends React.Component {
             <PoliticianCard politician={selectedObject} partyName={this.props.params.partyName}/>
           }
           {this.props.params.orgID && selectedObject &&
-            <div>
+            <div className={partyStyle.orgContainer}>
               <h1>{selectedObject.JP_TNAME}</h1>
               <h3>{selectedObject.JP_ENAME}</h3>
-              <h4>วัตถุประสงค์{selectedObject.OBJ_TNAME}</h4>
-              <div>ทุนจดทะเบียน {selectedObject.cpm / Math.pow(10, 6)} ล้านบาท</div>
-              <div>เลขที่นิติบุคคล {this.props.params.orgID}</div>
-              <div>สถานะ {selectedObject.stn}</div>
-              เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link>
-              <div>
-                <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ดูรายละเอียดเพิ่มเติมจาก creden.co</a>
+              <h4>เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link></h4>
+
+              <div className={partyStyle.orgDetails}>
+                มีวัตถุประสงค์เพื่อ <b>{selectedObject.OBJ_TNAME}</b> โดยจดทะเบียนด้วยทุน <b>{selectedObject.cpm / Math.pow(10, 6)}</b> ล้านบาท
+                ด้วยเลขที่นิติบุคคล <b>{this.props.params.orgID}</b> ณ ขณะนี้ สถานะคือ <b>{selectedObject.stn}</b>
               </div>
-              <Link to={`/p/${this.props.params.partyName}`}>Close</Link>
+
+              <div className={partyStyle.orgFooter}>
+                <div>
+                  <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ค้นหาเพิ่มเติมใน Creden.co</a>
+                </div>
+                <Link to={`/p/${this.props.params.partyName}`}>ปิดหน้าต่างนี้</Link>
+              </div>
             </div>
           }
         </div>
