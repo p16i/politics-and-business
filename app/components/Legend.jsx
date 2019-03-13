@@ -34,6 +34,9 @@ class Legend extends React.Component {
   render() {
     return <div>
       <div className={partyStyle.legendContainer}>
+        <h1 className={partyStyle.title}>
+          ผู้สมัคร ส.ส. แบบแบ่งเขต ที่มีประวัติเกี่ยวข้องกับธุรกิจ
+        </h1>
         <div className={style.toolBarContainer}>
           <ReactAutocomplete
             items={allCandidates}
@@ -119,6 +122,13 @@ class Legend extends React.Component {
             <img className={partyStyle.legendSymbolSizeImg} src="assets/images/size-legend.png" />
           </div>
         </div>
+          <div className={partyStyle.footerContainer}>
+            ร่วมพัฒนาโดย <a href="//www.boonmeelab.com/">บุญมีแล็บ</a> & <a href="//pat.chormai.org">ภัทรวัต ช่อไม้</a>
+            <span className={partyStyle.footerSeparator}>/</span> 
+            ข้อมูลรวบรวมจาก <a target="_blank" href="//creden.co/creditscore/business">
+              <b><img src="assets/images/creden.png" /></b>
+            </a>
+          </div>
       </div>
     </div>
   }

@@ -167,9 +167,6 @@ class Party extends React.Component {
             !this.props.params.orgID &&
             <div>
               <div className={partyStyle.description}>
-                <h1 className={partyStyle.title}>
-                  ผู้สมัคร ส.ส. แบบแบ่งเขต ที่มีประวัติเกี่ยวข้องกับธุรกิจ
-                </h1>
                 <div className={partyStyle.partyLogoContainer}>
                   <Link to='/browse'>
                     <img className={partyStyle.partyLogo} src={`//elect.in.th/candidates/statics/party-logos/${this.props.params.partyName}.png`} />
@@ -193,11 +190,6 @@ class Party extends React.Component {
                   }
                 </div>
               </div>
-              <div className={partyStyle.footerContainer}>
-                ข้อมูลรวบรวมจาก <a target="_blank" href="https://creden.co/creditscore/business">
-                  <b><img src="assets/images/creden.png" /></b>
-                </a>
-              </div>
             </div>
           }
           {this.props.params.personName && selectedObject &&
@@ -206,7 +198,6 @@ class Party extends React.Component {
           {this.props.params.orgID && selectedObject &&
             <div className={partyStyle.orgContainer}>
               <h1>{selectedObject.JP_TNAME}</h1>
-              <h3>{selectedObject.JP_ENAME}</h3>
               <h4>เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link></h4>
 
               <div className={partyStyle.orgDetails}>
