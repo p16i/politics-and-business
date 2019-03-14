@@ -6,12 +6,17 @@
 
 .politician:before {
     content: '△';
-    color: #EFB9A5;
+    color: #E5E5E5;
+}
+
+.politicianWithFewBusiness:before {
+    content: '▲';
+    color: #88CFFA;
 }
 
 .politicianWithBusiness:before {
     content: '▲';
-    color: #F00;
+    color: #1265FB
 }
 
 .org {

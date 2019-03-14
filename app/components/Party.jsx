@@ -7,6 +7,7 @@ import _ from 'lodash';
 import ReactDOM from 'react-dom';
 import Legend from './Legend';
 import PoliticianCard from './PoliticianCard';
+import SearchBox from './SearchBox';
 import { config } from '../utils';
 
 import './shared/typography.css'
@@ -16,6 +17,8 @@ import * as utils from '../utils';
 import randomInt from 'random-int';
 
 const RD3Component = rd3.Component;
+
+import allCandidates from '../candidates';
 
 const selectOptions = config.availableParties
   .map(a => {
@@ -29,9 +32,8 @@ class Party extends React.Component {
 
   constructor(props) {
     super(props);
-    this.state = { d3: '', newPath: null, params: props.params }
+    this.state = { d3: '', newPath: null, params: props.params, searchValue: '' }
 
-    this.handleSelectChange = this.handleSelectChange.bind(this);
     this.handleKeyDown = this.handleKeyDown.bind(this);
     this.randomPolitician = this.randomPolitician.bind(this);
     this.randomOrg = this.randomOrg.bind(this);
@@ -41,19 +43,11 @@ class Party extends React.Component {
     const opt = selectOptions.filter(p => p.value === this.props.params.partyName);
     this.renderParty(opt[0]);
     console.log('mouttt')
-    document.addEventListener("keydown", this.handleKeyDown, false);
+    // document.addEventListener("keydown", this.handleKeyDown, false);
   }
 
   componentWillUnmount() {
-    document.removeEventListener("keydown", this.handleKeyDown, false);
-  }
-
-  handleSelectChange(o) {
-    const newPath = `${o.value}`;
-    this.setState({
-      oldPath: this.state.selectedOption.value,
-      newPath: newPath
-    })
+    // document.removeEventListener("keydown", this.handleKeyDown, false);
   }
 
   handleKeyDown(e) {
@@ -163,16 +157,32 @@ class Party extends React.Component {
     return (
       <div className={partyStyle.party}>
         <div className={partyStyle.descBox}>
+          <div>
+            <h2>
+              ประวัติเกี่ยวข้องกับธุรกิจของผู้สมัคร ส.ส. พรรค
+            </h2>
+            <h1 className={partyStyle.title}>{this.props.params.partyName}</h1>
+
+          <div className={partyStyle.toolBarContainer}>
+            <SearchBox politicians={this.state.dataPols} history={this.props.history} partyName={this.props.params.partyName}/>
+
+            <div className={partyStyle.legendSection}>
+              <div>
+                <b>หรือ</b>
+                <span className={partyStyle.button} onClick={this.randomPolitician}>สุ่มเลือก</span>
+                จาก ส.ส. ในพรรคเดียวกัน
+              </div>
+              <div className={partyStyle.buttonContainer}>
+              </div>
+            </div>
+          </div>
+          </div>
+
           {!this.props.params.personName &&
             !this.props.params.orgID &&
             this.state.d3Data &&
             <div>
               <div className={partyStyle.description}>
-                <div className={partyStyle.partyLogoContainer}>
-                  <Link to='/browse'>
-                    <img className={partyStyle.partyLogo} src={`//elect.in.th/candidates/statics/party-logos/${this.props.params.partyName}.png`} />
-                  </Link>
-                </div>
                 <div className={partyStyle.descDetails}>
                   มี ผู้สมัคร ส.ส.​ แบ่งเขต จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
                   เป็นหรือเคยเป็นกรรมการนิติบุคคล
@@ -198,19 +208,21 @@ class Party extends React.Component {
           }
           {this.props.params.orgID && selectedObject &&
             <div className={partyStyle.orgContainer}>
-              <h1>{selectedObject.JP_TNAME}</h1>
-              <h4>เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link></h4>
+              <h2 className={partyStyle.orgHeader}>{selectedObject.JP_TNAME}</h2>
+              <h4 className={partyStyle.orgSubHeader}>เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link></h4>
+
+              <div>ประเภท: <b>{selectedObject.jptn}</b></div>
 
               <div className={partyStyle.orgDetails}>
-                มีวัตถุประสงค์เพื่อ <b>{selectedObject.OBJ_TNAME}</b> โดยจดทะเบียนด้วยทุน <b>{selectedObject.cpm / Math.pow(10, 6)}</b> ล้านบาท
-                ด้วยเลขที่นิติบุคคล <b>{this.props.params.orgID}</b> ณ ขณะนี้ สถานะคือ <b>{selectedObject.stn}</b>
+                มีวัตถุประสงค์เพื่อ {selectedObject.OBJ_TNAME} โดยจดทะเบียนด้วยทุน {selectedObject.cpm / Math.pow(10, 6)} ล้านบาท
+                ด้วยเลขที่นิติบุคคล {this.props.params.orgID} ณ ขณะนี้ สถานะคือ {selectedObject.stn}
               </div>
 
               <div className={partyStyle.orgFooter}>
-                <div>
+                <div className="FooterLink">
                   <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ค้นหาเพิ่มเติมใน Creden.co</a>
                 </div>
-                <Link to={`/p/${this.props.params.partyName}`}>ปิดหน้าต่างนี้</Link>
+                <Link className="FooterLink" to={`/p/${this.props.params.partyName}`}>ปิดหน้าต่างนี้</Link>
               </div>
             </div>
           }
@@ -219,7 +231,7 @@ class Party extends React.Component {
         <div className={partyStyle.d3Container}>
           <RD3Component data={this.state.d3Obj} ref={(dom) => { this.d3Dom = dom }} />
         </div>
-        <Legend randomPolitician={this.randomPolitician} randomOrg={this.randomOrg} history={this.props.history}/>
+        <Legend/>
         <div className={partyStyle.clear}></div>
       </div>
     )

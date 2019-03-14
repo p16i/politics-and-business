@@ -3,20 +3,33 @@
   text-align: center;
 }
 
+.headerContainer {
+  /* margin-bottom: 10px; */
+}
+
+.subHeaderContainer {
+  margin-top: 0px;
+  font-weight: normal;
+  color: #747474;
+}
+
+
 .imageContainer {
   display: inline-block;
   border-radius: 50%;
   background: url(https://elect.in.th/candidates/statics/party-logos/dummy.png);
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-size: 50px 50px;
   margin-left: 10px;
   vertical-align: middle;
+  margin-bottom: 20px;
 }
 
+
 .politicianImage {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   vertical-align: middle;
 }
@@ -27,7 +40,13 @@
 }
 
 .footer {
+  /* color: #F0324B; */
   margin-top: 20px;
+  /* font-size: 13px; */
+}
+
+.footer a, .footer a:visited {
+  /* color: #F0324B; */
 }
 
 .footer div {

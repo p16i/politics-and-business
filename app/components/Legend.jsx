@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-import ReactAutocomplete from 'react-autocomplete';
 
 import { config } from '../utils';
 
@@ -18,66 +17,11 @@ class Legend extends React.Component {
 
   constructor(props) {
     super(props);
-    this.handleSearchSelect = this.handleSearchSelect.bind(this)
-    this.state = {
-      value: '',
-    }
-  }
-
-  handleSearchSelect(selectedOption) {
-    console.log(`Option selected:`, selectedOption);
-    const attrs = selectedOption.split('-')
-    this.props.history.push(`/r/p-${attrs[0]}-person-${attrs[1]}`)
-    this.setState({value: ''})
   }
 
   render() {
     return <div>
       <div className={partyStyle.legendContainer}>
-        <h1 className={partyStyle.title}>
-          ผู้สมัคร ส.ส. แบบแบ่งเขต ที่มีประวัติเกี่ยวข้องกับธุรกิจ
-        </h1>
-        <div className={style.toolBarContainer}>
-          <ReactAutocomplete
-            items={allCandidates}
-            shouldItemRender={(item, input) => {
-              if(input.length >=3){
-                return item.name.indexOf(input) > -1
-              } else{
-                return item.province_name == 'ปราจีนบุรี'
-              }
-            }}
-            getItemValue={item => `${item.PartyName}-${item.name}`}
-            inputProps={{
-              className: style.searchBox,
-              placeholder: "ค้นหาจากชื่อ ส.ส.",
-              onBlur: () => this.setState({ value: '' })
-            }}
-            renderItem={(item, highlighted) => 
-              <div
-                key={item.name}
-                style={{ backgroundColor: highlighted ? '#eee' : 'transparent' }}
-              >
-                <img className={style.searchPartyImage} src={`https://elect.in.th/candidates/statics/party-logos/${item.PartyName.trim()}.png`}/> {item.name}
-              </div>
-            }
-            value={this.state.value}
-            onChange={e => this.setState({ value: e.target.value })}
-            onSelect={this.handleSearchSelect}
-            wrapperStyle={{
-              backgroundColor: 'red'
-            }}
-          />
-          <div className={partyStyle.legendSection}>
-            <div>
-              <b>หรือ</b>
-              <span className={style.button} onClick={this.props.randomPolitician}>สุ่มเลือก</span>
-              จาก ส.ส. ในพรรคเดียวกัน
-            </div>
-            <div className={style.buttonContainer}>
-            </div>
-          </div>
-        </div>
         <div><b>คำอธิบาย</b></div>
         <div className={partyStyle.legendSection}>
           <div><b>สัญลักษณ์</b></div>

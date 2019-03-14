@@ -1,17 +1,12 @@
+:global {
+    .FooterLink {
+        color: #F0324B;
+        font-size: 13px;
+    }
 
+    .FooterLink a,
+    .FooterLink a:visited {
+        color: #F0324B;
+    }
 
-.transportation {
-    color: #00F;
-}
-
-.building {
-    color: #F00;
-}
-
-.energy {
-    color: #0F0;
-}
-
-.others {
-    color: #AAA;
 }

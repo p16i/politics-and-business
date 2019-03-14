@@ -12,29 +12,41 @@ class PoliticianCard extends React.Component {
         const p = this.props.politician;
         // TODO: partyName from politician object;
         const partyName = this.props.partyName;
+
+        let businessDesc = '';
+
+        if (p.relatedTo.length > 0) {
+            businessDesc = (<div>เกี่ยวข้องกับ <b>{p.relatedTo.length}</b> นิติบุคคล
+                    ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
+                    .reduce((a, b) => a + b, 0) / Math.pow(10, 6)}</b> ล้านบาท
+                </div>)
+        } else {
+            businessDesc = (<div>ไม่มีประวัติทางธุรกิจ</div>)
+        }
         return (
             <div className={style.main}>
-                <h1 className={style.headerContainer}>
+                <h2 className={style.headerContainer}>
                     <div className={style.imageContainer}>
                         <Img src={p.image} className={style.politicianImage} />
                     </div>
                     <div>{p.name}</div>
-                </h1>
-                <h4 className={style.subHeaderContainer}>ว่าที่ผู้สมัคร ส.ส. พรรค {partyName} <img className={style.partyLogo} src={`https://elect.in.th/candidates/statics/party-logos/${partyName}.png`} />
+                </h2>
+                <h4 className={style.subHeaderContainer}>ว่าที่ผู้สมัคร ส.ส. พรรค {partyName}
                     <div>({p.province_name} เขต {p.zone_number})</div>
                 </h4>
-                <div>เกี่ยวข้องกับ <b>{p.relatedTo.length}</b> นิติบุคคล
-                    ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
-                        .reduce((a, b) => a + b, 0) / Math.pow(10, 6)}</b> ล้านบาท
+
+                <div>{businessDesc}</div>
+
+                <div className={style.footer}>
+                    {p.relatedTo.length > 0 &&
+                        <div className="FooterLink">
+                            <a href={config.url.credenPersonSearch.replace(/<name>/, p.name)} target="_blank">ค้นหาเพิ่มใน Creden.co</a>
+                        </div>
+                    }
+                    <div className="FooterLink">
+                        <Link to={`/p/${partyName}`}>กลับไปหน้าพรรค</Link>
+                    </div>
                 </div>
-              <div className={style.footer}>
-                <div>
-                    <Link to={`/p/${partyName}`}>ค้นหาผู้สมัครจากพรรคเดียวกัน</Link>
-                </div>
-                <div>
-                    <a href={config.url.credenPersonSearch.replace(/<name>/, p.name)} target="_blank">ค้นหาเพิ่มใน Creden.co</a>
-                </div>
-              </div>
             </div>
         )
     }

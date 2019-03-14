@@ -5,22 +5,19 @@
 
 .title {
   margin: 0px;
-  width: 400px;
-  position: absolute;
-  top: -10px;
-  right: 5px;
-  text-align: right;
   line-height: 40px;
+  padding-bottom: 10px;
+  border-bottom: solid 1px #C3C3C3;
 }
 
 .descBox {
   float: left;
-  width: 350px;
-  margin-top: 80px;
+  width: 20%;
+  margin-left: 5%;
 }
 
 .description {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .descDetails {
@@ -30,7 +27,7 @@
 
 .d3Container {
   position: absolute;
-  margin-left: 25%;
+  margin-left: 30%;
   text-align: center;
   min-height: 600px;
 }
@@ -78,12 +75,11 @@
 }
 
 .legendContainer {
+  float: right;
   padding: 5px;
-  position: absolute;
-  right: 10px;
-  max-width: 300px;
+  width: 20%;
+  margin-right: 5%;
   line-height: 20px;
-
 }
 
 .legendSection {
@@ -136,15 +132,78 @@
 }
 
 .orgContainer {
-  margin-top: 100px;
   text-align: center;
 }
 
 .orgDetails {
+  margin-top: 20px;
   text-align: left;
   text-indent: 1em;
+  line-height: 20px;
 }
 
 .orgFooter {
   margin-top: 20px;
+}
+
+.orgHeader {
+  margin-bottom: 0px;
+}
+
+.orgSubHeader {
+  margin-top: 10px;
+  font-weight: normal;
+  color: #747474;
+}
+
+.orgSubHeader a {
+  font-weight: bold;
+}
+
+.orgSubHeader a, .orgSubHeader a:visited  {
+  color: #747474;
+}
+
+.button {
+    width: 70px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px 5px;
+    cursor: pointer;
+
+    font-size: 13px;
+    color: #747474;
+    background: #ffffff;
+    border: 1px solid #E1E1E2;
+    text-align: center;
+    border-radius: 5.5px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.3);
+}
+
+.buttonContainer {
+    text-align: center;
+}
+
+.searchImage {
+    margin-left: 5px;
+    width: 30px;
+    vertical-align: middle;
+    float: left;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
+.searchBox {
+    width: 100%;
+    padding: 10px;
+}
+
+.toolBarContainer {
+    margin-top: 10px;
+}
+
+.searchDisplayItem {
+   padding: 5px;
 }
