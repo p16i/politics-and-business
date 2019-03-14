@@ -8,8 +8,6 @@ import * as style from './legend.css';
 import * as colors from './shared/colors.css';
 import * as icons from './shared/icons.css';
 
-import allCandidates from '../candidates';
-
 const pColor = config.colorSchemes.polColorRange;
 const oColor = config.colorSchemes.orgColorRange;
 
