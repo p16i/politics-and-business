@@ -11,13 +11,6 @@ const config = {
         orgColorRange: ['#ED354F', '#920A1D'],
         polColorRange: ['#88CFFA', '#1265FB']
     },
-    availableParties: [
-        'พลังประชารัฐ',
-        'เพื่อไทย',
-        // 'ประชาธิปัตย์',
-        'อนาคตใหม่',
-        // 'เพื่อแผ่นดิน',
-    ],
     url: {
         credenBusinessPage: 'https://creden.co/creditscore/business/main.html#/company?id=<ID>&tab=general',
         credenPersonSearch: 'https://creden.co/creditscore/business/main.html#/search?search=<name>',

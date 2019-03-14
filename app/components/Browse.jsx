@@ -2,18 +2,19 @@
 import React from 'react';
 
 import { Link } from 'react-router-dom';
-import { config } from '../utils';
+import availableParties from '../availableParties';
 
 import Select from 'react-select';
 import * as style from './browse.css'
 
-class Party extends React.Component {
+class PartyList extends React.Component {
     render() {
         return <div className={style.container}>
             <h1>เลือกพรรคที่ต้องการดูข้อมูล</h1>
             <ul className={style.logoContainer}>
                 {
-                    config.availableParties.map(p => {
+                    availableParties.map(p => {
+                        p = p.trim();
                         return <li>
                             <Link to={`/p/${p}`}>
                                 <img
@@ -28,4 +29,4 @@ class Party extends React.Component {
         </div>
     }
 }
-export default Party
+export default PartyList

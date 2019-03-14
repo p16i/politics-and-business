@@ -1,6 +1,6 @@
-.container {
+.container h1 {
+    text-align: center;
 }
-
 .logoContainer {
     padding: 0
 }
@@ -10,6 +10,10 @@
 }
 
 .partyLogo {
-    width: 100px;
+    width: 80px;
     margin: 10px;
+}
+
+.partyLogo:hover {
+    border: 1px solid black;
 }

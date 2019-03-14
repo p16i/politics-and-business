@@ -38,7 +38,9 @@ class SearchBox extends React.Component {
                         style={{ backgroundColor: highlighted ? '#eee' : 'transparent' }}
                         className={partyStyle.searchDisplayItem}
                     >
-                        <Img src={item.image} className={partyStyle.searchImage} />
+                        <div className={partyStyle.searchImageContainer}>
+                            <Img src={item.image} className={partyStyle.searchImage} />
+                        </div>
                         <div>
                             <b>{item.name}</b> <br/>
                             {item.province_name} เขต {item.zone_number}

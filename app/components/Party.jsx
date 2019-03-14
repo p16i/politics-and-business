@@ -18,16 +18,6 @@ import randomInt from 'random-int';
 
 const RD3Component = rd3.Component;
 
-import allCandidates from '../candidates';
-
-const selectOptions = config.availableParties
-  .map(a => {
-    return {
-      value: a,
-      label: a
-    }
-  })
-
 class Party extends React.Component {
 
   constructor(props) {
@@ -40,13 +30,13 @@ class Party extends React.Component {
   }
 
   componentDidMount() {
-    const opt = selectOptions.filter(p => p.value === this.props.params.partyName);
-    this.renderParty(opt[0]);
-    console.log('mouttt')
+    console.log(this.props);
+    this.renderParty(this.props.params.partyName);
     document.addEventListener("keydown", this.handleKeyDown, false);
   }
 
   componentWillUnmount() {
+    this.state.d3HighlightForEvent(null);
     document.removeEventListener("keydown", this.handleKeyDown, false);
   }
 
@@ -72,9 +62,8 @@ class Party extends React.Component {
       this.props.history.push(`/p/${this.props.params.partyName}/org/${o._id}`)
   }
 
-  renderParty(o) {
-    const partyName = o.value;
-    let self = this;
+  renderParty(partyName) {
+    const self = this;
 
     fetch(`//${process.env.publicPath}/assets/data/${partyName}.csv.json`)
       .then(response => response.json())
@@ -111,12 +100,12 @@ class Party extends React.Component {
             .concat(orgs)
         }
 
-        const topPoliticians = politicians.slice().sort((a, b) => b.relatedTo.length - a.relatedTo.length)
+        const topPoliticians = politicians.filter(a => a.relatedTo.length > 0)
+          .sort((a, b) => b.relatedTo.length - a.relatedTo.length)
           .slice(0, 5)
 
         const dd = d3Viz(d3Data, this.props)
         self.setState({
-          selectedOption: o,
           partyName: partyName,
           dataPols: politicians,
           dataPolsWithBusiness: politicians.filter(p => p.relatedTo.length > 0),
@@ -134,7 +123,6 @@ class Party extends React.Component {
   }
 
   render() {
-    const selectedOption = this.state.selectedOption;
     if (this.state.newPath) {
       return <Redirect to={'/r/p-' + this.state.newPath} />
     }
@@ -163,7 +151,10 @@ class Party extends React.Component {
             <h2>
               ประวัติเกี่ยวข้องกับธุรกิจของผู้สมัคร ส.ส. พรรค
             </h2>
-            <h1 className={partyStyle.title}>{this.props.params.partyName}</h1>
+            <h1 className={partyStyle.title}  onClick={() => this.props.history.push('/browse')}>
+              {this.props.params.partyName}
+              <span>⌃</span>
+            </h1>
 
           <div className={partyStyle.toolBarContainer}>
             <SearchBox politicians={this.state.dataPols} history={this.props.history} partyName={this.props.params.partyName}/>

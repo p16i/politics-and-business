@@ -8,6 +8,16 @@
   line-height: 40px;
   padding-bottom: 10px;
   border-bottom: solid 1px #C3C3C3;
+  cursor: pointer;
+}
+
+.title span {
+  transform: rotate(180deg);
+  float: right;
+  font-weight: normal;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-right: 10px;
 }
 
 .descBox {
@@ -54,7 +64,7 @@
 
 .topListUL {
   margin: 0px;
-  padding-left: 2em;
+  padding-left: 0.5em;
   list-style: none;
   text-align: left;
 }
@@ -74,7 +84,7 @@
   color: black;
 }
 
-.clear { 
+.clear {
   clear: both;
 }
 
@@ -112,52 +122,62 @@
   font-weight: bold;
 }
 
-.orgSubHeader a, .orgSubHeader a:visited  {
+.orgSubHeader a,
+.orgSubHeader a:visited {
   color: #747474;
 }
 
 .button {
-    width: 70px;
-    height: 30px;
-    padding: 5px;
-    text-align: center;
-    display: inline-block;
-    margin: 10px 5px;
-    cursor: pointer;
+  width: 70px;
+  height: 30px;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+  margin: 10px 5px;
+  cursor: pointer;
 
-    font-size: 13px;
-    color: #747474;
-    background: #ffffff;
-    border: 1px solid #E1E1E2;
-    text-align: center;
-    border-radius: 5.5px;
-    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.3);
+  font-size: 13px;
+  color: #747474;
+  background: #ffffff;
+  border: 1px solid #E1E1E2;
+  text-align: center;
+  border-radius: 5.5px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
 }
 
 .buttonContainer {
-    text-align: center;
+  text-align: center;
 }
 
 .searchImage {
-    margin-left: 5px;
-    width: 30px;
-    height: 30px;
-    vertical-align: middle;
-    float: left;
-    margin-right: 5px;
-    border-radius: 50%;
-    background: url(https://elect.in.th/candidates/statics/party-logos/dummy.png);
+  width: 30px;
+  height: 30px;
+  background: url(https://elect.in.th/candidates/statics/party-logos/dummy.png);
+  border-radius: 50%;
+}
+
+.searchImageContainer {
+  float: left;
+  margin: 0 5px;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  background: url(https://elect.in.th/candidates/statics/party-logos/dummy.png);
 }
 
 .searchBox {
-    width: 100%;
-    padding: 10px;
+  width: 100%;
+  padding: 10px;
 }
 
 .toolBarContainer {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .searchDisplayItem {
-   padding: 5px;
+  padding: 5px;
+}
+
+.searchDisplayItem span {
+  line-height: 30px;
 }
