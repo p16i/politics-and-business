@@ -1,0 +1,20 @@
+:global {
+    .FooterLink {
+        color: #F0324B;
+        font-size: 13px;
+    }
+
+    .FooterLink a,
+    .FooterLink a:visited {
+        color: #F0324B;
+    }
+
+    .selection-tooltip {
+        font-weight: bold;
+        font-family: "Noto Sans", "Noto Sans Thai", sans-serif;
+        border: 0.5px solid #E1E1E2;
+        border-radius: 2px;
+        background-color: #FFFFFF;
+        box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+    }
+}

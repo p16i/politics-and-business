@@ -7,10 +7,13 @@ import ReactDOM from 'react-dom';
 
 function d3Viz(dataset, props){
 
-    const polColor = d3.scaleSequential(['#88CFFA', '#1265FB'])
-        .domain([0, dataset.maxRelatedTo/8])
+    const polColor = d3.scaleLinear()
+        .domain([0, dataset.maxRelatedTo])
+        .range(['#88CFFA', '#1265FB']);
 
-['#88CFFA', '#1265FB']
+    const orgColor = d3.scaleLinear()
+        .domain([0, dataset.maxMoney])
+        .range(['#ED354F', '#920A1D']);
 
     const partyName = dataset.name;
     const containerNode = document.createElement('div');
@@ -96,7 +99,7 @@ function d3Viz(dataset, props){
         .style("fill", d => polColor(d.data.relatedTo.length))
 
     node.filter((d) => d.data.Type == 'org')
-        .style("fill", d => config.colorSchemes.businessType[d.data.JP_TYPE_CODE]);
+        .style("fill", d => orgColor(d.data.colorScale));
 
     node.filter((d) => d.data.Type == "logo")
         .style("fill", "none")
@@ -107,7 +110,7 @@ function d3Viz(dataset, props){
     const polOrgNodes = node.filter((d) => d.data.Type == "politician" || d.data.Type == "org")
 
 
-    const highlightForEvent = (eid, bbBox) => {
+    const highlightForEvent = (eid, bbBox, orgName) => {
         d3.selectAll(`.${d3Style.selectionTooltip}`)
             .remove();
 
@@ -124,7 +127,13 @@ function d3Viz(dataset, props){
                 .filter(d => d.src.data.EventID === eid)
                 .classed(d3Style.permanentLinkHighlight, true)
 
-            const data = pp.data().filter(d=>d.data.Type == 'politician');
+            const data = pp.data().filter(d => {
+                if(d.data.Type === 'politician'){
+                    return true;
+                } else if(orgName){
+                    return d.data.JP_TNAME === orgName;
+                }
+            });
 
             d3.select('body')
                 .select()

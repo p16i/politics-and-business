@@ -43,11 +43,11 @@ class Party extends React.Component {
     const opt = selectOptions.filter(p => p.value === this.props.params.partyName);
     this.renderParty(opt[0]);
     console.log('mouttt')
-    // document.addEventListener("keydown", this.handleKeyDown, false);
+    document.addEventListener("keydown", this.handleKeyDown, false);
   }
 
   componentWillUnmount() {
-    // document.removeEventListener("keydown", this.handleKeyDown, false);
+    document.removeEventListener("keydown", this.handleKeyDown, false);
   }
 
   handleKeyDown(e) {
@@ -92,7 +92,8 @@ class Party extends React.Component {
             o['EventID'] = p['name']
             o['Count'] = utils.discretizeCPM(cpm)
             o['Type'] = 'org'
-            o['cpm'] = cpm
+            o['cpm'] = cpm 
+            o['colorScale'] = cpm  //TODO: change this to project budget
             return o;
           });
         })
@@ -101,6 +102,7 @@ class Party extends React.Component {
         const d3Data = {
           'name': partyName,
           'maxRelatedTo': Math.max(...politicians.map(p => p.relatedTo.length)),
+          'maxMoney': Math.max(...orgs.map(o => o.colorScale)),
           'children': [{
             Count: 50,
             Type: 'logo'
@@ -148,7 +150,7 @@ class Party extends React.Component {
       if (selectedObject) {
         const bbBox = ReactDOM.findDOMNode(this.d3Dom)
           .getBoundingClientRect();
-        this.state.d3HighlightForEvent(selectedObject.EventID, bbBox);
+        this.state.d3HighlightForEvent(selectedObject.EventID, bbBox, selectedObject.JP_TNAME);
       } else {
         this.state.d3HighlightForEvent(null);
       }

@@ -189,10 +189,12 @@
 .searchImage {
     margin-left: 5px;
     width: 30px;
+    height: 30px;
     vertical-align: middle;
     float: left;
     margin-right: 5px;
     border-radius: 50%;
+    background: url(https://elect.in.th/candidates/statics/party-logos/dummy.png);
 }
 
 .searchBox {
