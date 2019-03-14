@@ -177,20 +177,28 @@ class Party extends React.Component {
             <div>
               <div className={partyStyle.description}>
                 <div className={partyStyle.descDetails}>
-                  มี ผู้สมัคร ส.ส.​ แบ่งเขต จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
-                  เป็นหรือเคยเป็นกรรมการนิติบุคคล
-                  ซึ่งมีทุนจดทะเบียนรวมทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ผู้สมัครฯ ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
-                  {this.state.topList && <ul className={partyStyle.topListUL}>
-                    {
-                      this.state.topList.map((p, idx) => {
-                        return <li>
-                          <div>
-                            {idx + 1}. <Link to={`/p/${this.props.params.partyName}/person/${p.name}`}>{p.name}</Link> ({p.relatedTo.length} นิติบุคคล)
-                          </div>
-                        </li>
-                      })
-                    }
-                  </ul>
+                  { this.state.topList.length > 0 && <span>
+                      มี ผู้สมัคร ส.ส.​ แบ่งเขต จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
+                      เป็นหรือเคยเป็นกรรมการนิติบุคคล
+                      ซึ่งมีทุนจดทะเบียนรวมทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ผู้สมัครฯ ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
+                      {this.state.topList && <ul className={partyStyle.topListUL}>
+                        {
+                          this.state.topList.map((p, idx) => {
+                            return <li>
+                              <div>
+                                {idx + 1}. <Link to={`/p/${this.props.params.partyName}/person/${p.name}`}>{p.name}</Link> ({p.relatedTo.length} นิติบุคคล)
+                              </div>
+                            </li>
+                          })
+                        }
+                      </ul>
+                      }
+                    </span>
+                  } 
+                  {
+                    this.state.topList.length == 0 && <span>
+                      ผู้สมัคร ส.ส. ทั้ง {this.state.dataPols.length} ไม่มีประวัติเกี่ยวข้องกับธุรกิจ
+                      </span>
                   }
                 </div>
               </div>

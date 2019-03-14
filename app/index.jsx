@@ -28,7 +28,7 @@ ReactDOM.render(
       <Route path="/p/:partyName" component={App} />
       <Route path="/r/:to" component={TempRedirect} />
       <Route path="/browse" component={Browse} />
-      <Route path="/" component={() => <Redirect to={ '/p/' + config.availableParties[0] }/>} />
+      <Route path="/" component={() => <Redirect to="/browse"/>} />
     </Switch>
   </Router>
 , document.getElementById('app')

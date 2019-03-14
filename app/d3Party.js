@@ -8,7 +8,6 @@ import ReactDOM from 'react-dom';
 
 function d3Viz(dataset, props){
 
-    console.log(config.colorSchemes);
     const polColor = d3.scaleLinear()
         .domain([0, dataset.maxRelatedTo])
         .range(config.colorSchemes.polColorRange);
