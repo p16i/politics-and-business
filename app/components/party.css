@@ -74,18 +74,6 @@
   color: black;
 }
 
-.legendContainer {
-  float: right;
-  padding: 5px;
-  width: 20%;
-  margin-right: 5%;
-  line-height: 20px;
-}
-
-.legendSection {
-  margin-top: 10px;
-}
-
 .clear { 
   clear: both;
 }
@@ -93,42 +81,6 @@
 .legendColorCode {
   margin-right: 5px;
   display: inline-block;
-}
-
-.footerContainer {
-  margin-top: 40px;
-  font-size: 12px;
-}
-
-.footerContainer a {
-    color: black;
-    text-decoration: none;
-}
-
-.footerSeparator {
-  display: inline-block;
-  margin: 0 10px;
-  font-size: 15px;
-  vertical-align: middle;
-}
-
-.footerContainer img {
-    width: 70px;
-    vertical-align: middle;
-    margin-top: -6px;
-}
-
-.footerContainer a {
-  text-decoration: underline;
-}
-
-.legendSymbolSizeContainer {
-  text-align: center;
-}
-
-.legendSymbolSizeImg {
-  vertical-align: middle;
-  width: 80px;
 }
 
 .orgContainer {

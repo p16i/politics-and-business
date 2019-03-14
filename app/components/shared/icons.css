@@ -9,14 +9,8 @@
     color: #E5E5E5;
 }
 
-.politicianWithFewBusiness:before {
-    content: '▲';
-    color: #88CFFA;
-}
-
 .politicianWithBusiness:before {
     content: '▲';
-    color: #1265FB
 }
 
 .org {
@@ -24,8 +18,18 @@
     vertical-align: middle;
 }
 
-.org:before {
+.orgBlack:before {
     content: "●";
     font-size: 1.7em;
-    vertical-align: top;
+}
+
+.org:before {
+    content: "○";
+    font-size: 1.7em;
+    color: #E5E5E5;
+}
+
+.orgWithProject:before {
+    font-size: 1.7em;
+    content: "●";
 }

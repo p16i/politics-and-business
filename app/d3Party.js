@@ -5,15 +5,17 @@ import * as d3Symbol from 'd3-symbol-extra';
 import { config } from './utils';
 import ReactDOM from 'react-dom';
 
+
 function d3Viz(dataset, props){
 
+    console.log(config.colorSchemes);
     const polColor = d3.scaleLinear()
         .domain([0, dataset.maxRelatedTo])
-        .range(['#88CFFA', '#1265FB']);
+        .range(config.colorSchemes.polColorRange);
 
     const orgColor = d3.scaleLinear()
         .domain([0, dataset.maxMoney])
-        .range(['#ED354F', '#920A1D']);
+        .range(config.colorSchemes.orgColorRange);
 
     const partyName = dataset.name;
     const containerNode = document.createElement('div');

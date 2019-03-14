@@ -37,3 +37,74 @@
     margin-top: 100px;
     margin-bottom: 50px;
 }
+
+.legendContainer {
+    margin-top: 100px;
+    font-size: 14px;
+    float: right;
+    padding: 5px;
+    width: 20%;
+    margin-right: 1%;
+    line-height: 20px;
+}
+
+.legendSection {
+    margin-top: 10px;
+}
+
+.legendSectionHeader {
+    margin-bottom: 5px;
+}
+
+.legendSectionDetails {
+    font-size: 13px;
+}
+
+.legendLabel i {
+    margin-right: 10px;
+}
+
+.legendLabel {
+    color: #747474;
+}
+
+.legendLabel b:after {
+    content: ":"
+}
+
+.legendSymbolSizeContainer {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.legendSymbolSizeImg {
+    vertical-align: middle;
+    width: 80px;
+}
+
+.footerContainer {
+  margin-top: 40px;
+  font-size: 12px;
+}
+
+.footerContainer a {
+    color: black;
+    text-decoration: none;
+}
+
+.footerSeparator {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 15px;
+  vertical-align: middle;
+}
+
+.footerContainer img {
+    width: 70px;
+    vertical-align: middle;
+    margin-top: -6px;
+}
+
+.footerContainer a {
+  text-decoration: underline;
+}

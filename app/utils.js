@@ -8,12 +8,8 @@ const config = {
         inactiveOpacity: 0.15,
     },
     colorSchemes: {
-        businessType: {
-            2: '#F2E546',
-            3: '#E8562B',
-            5: '#6F3889',
-            7: '#1793CD'
-        }
+        orgColorRange: ['#ED354F', '#920A1D'],
+        polColorRange: ['#88CFFA', '#1265FB']
     },
     availableParties: [
         'พลังประชารัฐ',
