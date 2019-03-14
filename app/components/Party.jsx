@@ -165,6 +165,7 @@ class Party extends React.Component {
         <div className={partyStyle.descBox}>
           {!this.props.params.personName &&
             !this.props.params.orgID &&
+            this.state.d3Data &&
             <div>
               <div className={partyStyle.description}>
                 <div className={partyStyle.partyLogoContainer}>
