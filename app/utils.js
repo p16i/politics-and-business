@@ -30,4 +30,8 @@ function discretizeCPM(cpm){
     }
 }
 
-export {discretizeCPM, config}
+function isSmallScreen(){
+    return window.innerWidth < 1280;
+}
+
+export {discretizeCPM, isSmallScreen, config}

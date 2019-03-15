@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 import Legend from './Legend';
 import PoliticianCard from './PoliticianCard';
 import SearchBox from './SearchBox';
-import { config } from '../utils';
+import { config, isSmallScreen } from '../utils';
 
 import './shared/typography.css'
 import * as partyStyle from './party.css'
@@ -30,7 +30,6 @@ class Party extends React.Component {
   }
 
   componentDidMount() {
-    console.log(this.props);
     this.renderParty(this.props.params.partyName);
     document.addEventListener("keydown", this.handleKeyDown, false);
   }
@@ -175,7 +174,7 @@ class Party extends React.Component {
             <div className={partyStyle.legendSection}>
               <div>
                 <b>หรือ</b>
-                <span className={partyStyle.button} onClick={this.randomPolitician}>สุ่มเลือก</span>
+                <span className={partyStyle.button} onClick={this.randomPolitician} title="Hotkey (p)">สุ่มเลือก</span>
                 จาก ส.ส. ในพรรคเดียวกัน
               </div>
               <div className={partyStyle.buttonContainer}>
@@ -236,7 +235,7 @@ class Party extends React.Component {
                 <div className="FooterLink">
                   <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ค้นหาเพิ่มเติมใน Creden.co</a>
                 </div>
-                <Link className="FooterLink" to={`/p/${this.props.params.partyName}`}>ปิดหน้าต่างนี้</Link>
+                <Link className="FooterLink" to={`/p/${this.props.params.partyName}`} title="Hotkey (ESC)">ปิดหน้าต่างนี้</Link>
               </div>
             </div>
           }

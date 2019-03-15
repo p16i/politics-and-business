@@ -24,12 +24,12 @@ class SearchBox extends React.Component {
             <ReactAutocomplete
                 items={this.props.politicians}
                 shouldItemRender={(item, input) => {
-                    return item.name.indexOf(input) > -1
+                    return item.name.indexOf(input) > -1 || item.province_name.indexOf(input) > -1
                 }}
                 getItemValue={item => item.name}
                 inputProps={{
                     className: partyStyle.searchBox,
-                    placeholder: "ค้นหาจากชื่อ ส.ส.",
+                    placeholder: "ค้นหาจากชื่อ ส.ส.​ หรือ จังหวัด",
                     onBlur: () => this.setState({ searchValue: '' })
                 }}
                 renderItem={(item, highlighted) =>
@@ -43,7 +43,7 @@ class SearchBox extends React.Component {
                         </div>
                         <div>
                             <b>{item.name}</b> <br/>
-                            {item.province_name} เขต {item.zone_number}
+                            {item.desc}
                         </div>
                     </div>
                 }

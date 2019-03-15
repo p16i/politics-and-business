@@ -44,7 +44,7 @@ class PoliticianCard extends React.Component {
                         </div>
                     }
                     <div className="FooterLink">
-                        <Link to={`/p/${partyName}`}>กลับไปหน้าพรรค</Link>
+                        <Link to={`/p/${partyName}`} title="Hotkey (ESC)">กลับไปหน้าพรรค</Link>
                     </div>
                 </div>
             </div>
