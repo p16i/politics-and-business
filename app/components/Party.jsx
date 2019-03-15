@@ -75,18 +75,31 @@ class Party extends React.Component {
           return p
         })
 
-        const orgs = data.map(p => {
-          return p.relatedTo.map(o => {
-            const cpm = parseFloat(o['cpm'].replace(/,/g, ''))
-            o['EventID'] = p['name']
-            o['Count'] = utils.discretizeCPM(cpm)
-            o['Type'] = 'org'
-            o['cpm'] = cpm 
-            o['colorScale'] = cpm  //TODO: change this to project budget
-            return o;
-          });
-        })
+        let orgs = data.map(p => {
+            return p.relatedTo.map(o => {
+              const cpm = parseFloat(o['cpm'].replace(/,/g, ''))
+              o['EventID'] = p['name']
+              o['Count'] = utils.discretizeCPM(cpm)
+              o['Type'] = 'org'
+              o['cpm'] = cpm 
+              o['colorScale'] = cpm  //TODO: change this to project budget
+              return o;
+            });
+          })
           .flat()
+
+
+
+        console.log(orgs.length + politicians.length);
+        let orgsForD3 =  orgs
+        const nodeCount = politicians.length + orgs.length
+        if (nodeCount < config.d3.totalBubbles) {
+          let cummy = [...Array(config.d3.totalBubbles - nodeCount)]
+            .map( (a) => {
+              return {Count: 1, EventID: null, Type: 'org'}
+            })
+          orgsForD3 = orgs.concat(cummy)
+        }
 
         const d3Data = {
           'name': partyName,
@@ -97,7 +110,7 @@ class Party extends React.Component {
             Type: 'logo'
           }]
             .concat(politicians)
-            .concat(orgs)
+            .concat(orgsForD3)
         }
 
         const topPoliticians = politicians.filter(a => a.relatedTo.length > 0)

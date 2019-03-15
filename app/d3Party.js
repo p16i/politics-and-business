@@ -50,7 +50,7 @@ function d3Viz(dataset, props){
     })
 
     const lines = []
-    rawNode.filter((d) => d.data.Type == 'org').each((d) => {
+    rawNode.filter((d) => d.data.Type == 'org' && d.data.EventID).each((d) => {
         lines.push({
             src: d,
             dest: polNodesData[d.data.EventID]
@@ -100,7 +100,13 @@ function d3Viz(dataset, props){
         .style("fill", d => polColor(d.data.relatedTo.length))
 
     node.filter((d) => d.data.Type == 'org')
-        .style("fill", d => orgColor(d.data.colorScale));
+        .style("fill", d => {
+            if(d.data.EventID){
+                return orgColor(d.data.colorScale)
+            } else {
+                return "none";
+            }
+        });
 
     node.filter((d) => d.data.Type == "logo")
         .style("fill", "none")
