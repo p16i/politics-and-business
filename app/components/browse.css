@@ -1,6 +1,13 @@
-.container h1 {
+.container {
+    margin-top: 10%;
     text-align: center;
 }
+
+.container h1 {
+    font-size: 48px;
+    /* width: 40%; */
+}
+
 .logoContainer {
     padding: 0
 }
@@ -10,12 +17,14 @@
 }
 
 .partyLogo {
-    width: 80px;
-    margin: 10px;
+    vertical-align: middle;
+    width: 40px;
+    float: left;
+    margin-right: 5px;
 }
 
-.partyLogo:hover {
-    border: 1px solid black;
+.partyName {
+    line-height: 40px;
 }
 
 .msgModal {
@@ -44,4 +53,27 @@
     color: white;
     width: 100%;
     z-index: 1000;
+}
+
+.selectContainer {
+    text-align: left;
+    margin: 10px auto;
+    width: 400px;
+    font-size: 20px;
+}
+
+.selectElement :global {
+    .react-select__control {
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+    .react-select__placeholder {
+        color: #ED354F;
+    }
+
+    .react-select__option {
+        cursor: pointer;
+        height: 60px;
+    }
 }

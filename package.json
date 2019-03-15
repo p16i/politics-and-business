@@ -55,7 +55,8 @@
     "react-image": "^2.0.0",
     "react-router": "^2.6.0",
     "react-router-dom": "^4.3.1",
-    "react-select": "^2.4.1"
+    "react-select": "^2.4.2",
+    "react-select-search": "^0.9.6"
   },
   "devDependencies": {
     "autoprefixer": "^6.1.2",
