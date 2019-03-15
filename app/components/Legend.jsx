@@ -65,7 +65,7 @@ class Legend extends React.Component {
           </div>
         </div>
         <div className={style.footerContainer}>
-          ร่วมพัฒนาโดย <a href="//www.boonmeelab.com/">บุญมีแล็บ</a> & <a href="//pat.chormai.org">ภัทรวัต ช่อไม้</a>
+          {/* ร่วมพัฒนาโดย <a href="//www.boonmeelab.com/">บุญมีแล็บ</a> & <a href="//pat.chormai.org">ภัทรวัต ช่อไม้</a> */}
           {/* <span className={style.footerSeparator}>/</span> */}
           <br/>
           ข้อมูลรวบรวมจาก <a target="_blank" href="//creden.co/creditscore/business">
