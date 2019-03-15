@@ -54,8 +54,7 @@
 
 .permanentHighlight {
   stroke: black !important;
-  stroke-width: 3px;
-  opacity: 1;
+  stroke-width: 1px;
 }
 
 .selectionTooltip {

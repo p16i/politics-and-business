@@ -132,6 +132,7 @@ function d3Viz(dataset, props){
             const pp = polOrgNodes
                 .filter(d => d.data.EventID === eid)
                 .style('opacity', 1)
+                .classed(d3Style.permanentHighlight, true)
 
             line.classed(d3Style.permanentLinkHighlight, false)
                 .filter(d => d.src.data.EventID === eid)
@@ -158,6 +159,8 @@ function d3Viz(dataset, props){
             tooltip.style('opacity', 0);
         } else {
             polOrgNodes.style('opacity', 1)
+                .classed(d3Style.permanentHighlight, false);
+
             line.classed(d3Style.permanentLinkHighlight, false)
         }
 
