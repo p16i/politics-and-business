@@ -1,5 +1,12 @@
+.background {
+    height: 100%;
+    padding-top: 10%;
+
+    background-color: #E9E9E9;
+    background-image: url(../assets/images/cover.svg);
+}
+
 .container {
-    margin-top: 10%;
     text-align: center;
 }
 
@@ -16,11 +23,17 @@
     display: inline-block;
 }
 
+.partyLogoContainer {
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+
 .partyLogo {
     vertical-align: middle;
     width: 40px;
     float: left;
-    margin-right: 5px;
 }
 
 .partyName {

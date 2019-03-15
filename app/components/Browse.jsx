@@ -21,63 +21,51 @@ const parties = availableParties.map(p => {
     }
 });
 
-class PartyList extends React.Component {
+class Browse extends React.Component {
     render() {
-        return <div className={style.container}>
-            {isSmallScreen() &&
-                <div className={style.msgModal}>
-                    <div className={style.msgModalBackground} />
-                    <div className={style.msgModalText}>
-                        งานชิ้นนี้ เหมาะสำหรับใช้บนจอขนาดใหญ่ <br />(ขนาดความกว้าง 1280px ขึ้นไป)
+        return (
+            <div className={style.background}>
+                <div className={style.container}>
+                    {isSmallScreen() &&
+                        <div className={style.msgModal}>
+                            <div className={style.msgModalBackground} />
+                            <div className={style.msgModalText}>
+                                งานชิ้นนี้ เหมาะสำหรับใช้บนจอขนาดใหญ่ <br />(ขนาดความกว้าง 1280px ขึ้นไป)
                         <br />
+                                <br />
+                                ขออภัยในความไม่สะดวก
                         <br />
-                        ขออภัยในความไม่สะดวก
-                        <br />
-                        <br />
-                        🙇🏻‍🙏🏼🙇🏻‍♀️
+                                <br />
+                                🙇🏻‍🙏🏼🙇🏻‍♀️
+                    </div>
+                        </div>
+                    }
+                    <h1>ผู้สมัครส.ส.แต่ละพรรค <br /> มีประวัติเกี่ยวข้องกับธุรกิจอะไรบ้าง</h1>
+                    <div className={style.selectContainer}>
+                        <Select
+                            autoFocus={true}
+                            className={style.selectElement}
+                            classNamePrefix="react-select"
+                            options={parties}
+                            placeholder="เลือกพรรค"
+                            onChange={(opt) => this.props.history.push(`/p/${opt.value}`)}
+                            getOptionLabel={({ icon, label }) => {
+                                return (
+                                    <div>
+                                        <div className={style.partyLogoContainer}>
+                                            <img
+                                                className={style.partyLogo}
+                                                src={icon}
+                                            />
+                                        </div>
+                                        <div className={style.partyName}>{label}</div>
+                                    </div>
+                                )
+                            }}
+                        />
                     </div>
                 </div>
-            }
-            <h1>ผู้สมัครส.ส.แต่ละพรรค <br /> มีประวัติเกี่ยวข้องกับธุรกิจอะไรบ้าง</h1>
-            <div className={style.selectContainer}>
-                <Select
-                    className={style.selectElement}
-                    classNamePrefix="react-select"
-                    options={parties}
-                    placeholder="เลือกพรรค"
-                    onChange={(opt) => this.props.history.push(`/p/${opt.value}`)}
-                    getOptionLabel={({icon, label}) => {
-                        return (
-                            <div>
-                                <img
-                                    className={style.partyLogo}
-                                    src={icon}
-                                /> 
-                                <div className={style.partyName}>{label}</div>
-                            </div>
-                        )
-                    }}
-                />
-            </div>
-
-
-
-            {/* <ul className={style.logoContainer}>
-                {
-                    availableParties.map(p => {
-                        p = p.trim();
-                        return <li>
-                            <Link to={`/p/${p}`}>
-                                <img
-                                    className={style.partyLogo}
-                                    src={}
-                                />
-                            </Link>
-                        </li>
-                    })
-                }
-            </ul> */}
-        </div>
+            </div>)
     }
 }
-export default PartyList
+export default Browse

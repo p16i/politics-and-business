@@ -1,20 +1,31 @@
 @import "normalize.css/normalize";
 
-html { box-sizing: border-box; }
+html {
+  box-sizing: border-box;
+}
 
 html,
 body {
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 *,
 *:before,
-*:after { box-sizing: border-box; }
+*:after {
+  box-sizing: border-box;
+}
 
 body {
   font-feature-settings: "kern", "liga", "pnum";
   text-rendering: optimizeLegibility;
   font-smoothing: antialiased;
   font-family: "Noto Sans", "Noto Sans Thai", sans-serif;
+}
+
+:global {
+  #app {
+    height: 100%;
+  }
 }
