@@ -96,7 +96,7 @@ class Party extends React.Component {
         if (nodeCount < config.d3.totalBubbles) {
           let cummy = [...Array(config.d3.totalBubbles - nodeCount)]
             .map( (a) => {
-              return {Count: 1, EventID: null, Type: 'org'}
+              return {Count: 3, EventID: null, Type: 'org'}
             })
           orgsForD3 = orgs.concat(cummy)
         }
