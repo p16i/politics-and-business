@@ -42,7 +42,6 @@ class Legend extends React.Component {
           <div className={style.legendSectionHeader}><b><i className={[icons.icon, icons.orgBlack].join(' ')} />นิติบุคคล</b></div>
           <div className={style.legendSectionDetails}>
             <div><b>สี</b> = จำนวนโครงการรัฐฯ ที่เกี่ยวข้อง <br/>
-            <b>หมายเหตุ:</b> ตอนนี้เป็นขนาดทุนจดทะเบียน อยู่ระหว่างการขอข้อมูลจาก DGA
             </div>
             <div className={style.legendLabel}>
               <i className={[icons.icon, icons.org].join(' ')}></i>
