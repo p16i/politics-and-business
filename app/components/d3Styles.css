@@ -20,6 +20,12 @@
   z-index: 100;
 }
 
+.nonGovInvolvedOrg {
+  stroke: #E5E5E5;
+  stroke-width: 1px;
+  fill: white;
+}
+
 .politicianInvolvedWithBusiness {
   stroke: none;
   fill: #F00;

@@ -10,8 +10,6 @@ import * as style from './politiciancard.css'
 class PoliticianCard extends React.Component {
     render() {
         const p = this.props.politician;
-        // TODO: partyName from politician object;
-        const partyName = this.props.partyName;
 
         let businessDesc = '';
 
@@ -31,8 +29,8 @@ class PoliticianCard extends React.Component {
                     </div>
                     <div>{p.name}</div>
                 </h2>
-                <h4 className={style.subHeaderContainer}>ว่าที่ผู้สมัคร ส.ส. พรรค {partyName}
-                    <div>({p.province_name} เขต {p.zone_number})</div>
+                <h4 className={style.subHeaderContainer}>ว่าที่ผู้สมัคร ส.ส. พรรค {p.PartyName}
+                    <div>({p.desc.replace(/[\(\)]/g, '')})</div>
                 </h4>
 
                 <div>{businessDesc}</div>
@@ -44,7 +42,7 @@ class PoliticianCard extends React.Component {
                         </div>
                     }
                     <div className="FooterLink">
-                        <Link to={`/p/${partyName}`} title="Hotkey (ESC)">กลับไปหน้าพรรค</Link>
+                        <Link to={`/p/${p.PartyName}`} title="Hotkey (ESC)">กลับไปหน้าพรรค</Link>
                     </div>
                 </div>
             </div>

@@ -101,12 +101,15 @@ function d3Viz(dataset, props){
 
     node.filter((d) => d.data.Type == 'org')
         .style("fill", d => {
-            if(d.data.EventID){
+            if(d.data.EventID && d.data.totalProjects){
                 return orgColor(d.data.colorScale)
             } else {
                 return "none";
             }
-        });
+        })
+        .filter((d) => !d.data.totalProjects)
+        .style('fill', 'white')
+        .classed(d3Style.nonGovInvolvedOrg, true)
 
     node.filter((d) => d.data.Type == "logo")
         .style("fill", "none")

@@ -18,6 +18,30 @@ const config = {
     }
 }
 
+const totalProjectDesc = (n) => {
+    if ( n >= 100 ){
+        return 'อย่างน้อย 100'
+    } else {
+        return n
+    }
+}
+
+const totalProjectMoneyDec = (n, amount) => {
+    if ( n >=100 ) {
+        //* todo friendly number */
+        return  `อย่างน้อย ${amount}`
+    } else {
+        console.log('do nothing')
+        //* todo friendly number */
+        return  amount
+    }
+}
+
+const projectNumbering = {
+    total: totalProjectDesc,
+    amount: totalProjectMoneyDec
+}
+
 function discretizeCPM(cpm){
     // return 1;
     cpm = cpm / Math.pow(10, 6)
@@ -34,4 +58,4 @@ function isSmallScreen(){
     return window.innerWidth < 1280;
 }
 
-export {discretizeCPM, isSmallScreen, config}
+export {discretizeCPM, isSmallScreen, config, projectNumbering}

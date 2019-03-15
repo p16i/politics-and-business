@@ -8,7 +8,7 @@ import ReactDOM from 'react-dom';
 import Legend from './Legend';
 import PoliticianCard from './PoliticianCard';
 import SearchBox from './SearchBox';
-import { config, isSmallScreen } from '../utils';
+import { config, isSmallScreen, projectNumbering } from '../utils';
 
 import './shared/typography.css'
 import * as partyStyle from './party.css'
@@ -64,7 +64,7 @@ class Party extends React.Component {
   renderParty(partyName) {
     const self = this;
 
-    fetch(`//${process.env.publicPath}/assets/data/${partyName}.csv.json`)
+    fetch(`//${process.env.publicPath}/assets/data/${partyName}.json`)
       .then(response => response.json())
       .then(data => {
         const politicians = data.map(p => {
@@ -81,7 +81,14 @@ class Party extends React.Component {
               o['Count'] = utils.discretizeCPM(cpm)
               o['Type'] = 'org'
               o['cpm'] = cpm 
-              o['colorScale'] = cpm  //TODO: change this to project budget
+
+              if(o['totalProjects']){
+                console.log(o);
+                o['colorScale'] = o['totalPriceBuild']  //TODO: change this to project budget
+              } else {
+                o['colorScale'] = 0
+              }
+
               return o;
             });
           })
@@ -228,7 +235,13 @@ class Party extends React.Component {
 
               <div className={partyStyle.orgDetails}>
                 มีวัตถุประสงค์เพื่อ {selectedObject.OBJ_TNAME} โดยจดทะเบียนด้วยทุน {selectedObject.cpm / Math.pow(10, 6)} ล้านบาท
-                ด้วยเลขที่นิติบุคคล {this.props.params.orgID} ณ ขณะนี้ สถานะคือ {selectedObject.stn}
+                ด้วยเลขที่นิติบุคคล {this.props.params.orgID} ณ ขณะนี้ สถานะคือ {selectedObject.stn} 
+
+                { selectedObject.totalProjects && <div>
+                  โดยเคยเกี่ยวข้องกับโครงการรัฐฯ ทั้งหมด {projectNumbering.total(selectedObject.totalProjects)} โครงการ
+                  ซึ่งรวมงบประมาณแล้วทั้งสิ้น {projectNumbering.amount(selectedObject.totalProjects, selectedObject.totalPriceBuild / Math.pow(10, 6)) } ล้านบาท
+                </div>
+                }
               </div>
 
               <div className={partyStyle.orgFooter}>
