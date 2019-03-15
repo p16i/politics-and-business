@@ -2,24 +2,15 @@
 import React from 'react';
 
 import { Link } from 'react-router-dom';
-import SelectSearch from 'react-select-search'
-
-import availableParties from '../availableParties';
 
 import * as style from './browse.css'
 
-import { isSmallScreen } from '../utils';
+import { isSmallScreen, config } from '../utils';
 
 import Select from 'react-select';
+import _ from 'lodash';
 
-
-const parties = availableParties.map(p => {
-    return {
-        value: p,
-        label: p,
-        icon: `//elect.in.th/candidates/statics/party-logos/${p.trim()}.png`
-    }
-});
+const parties = config.availableParties;
 
 class Browse extends React.Component {
     render() {
@@ -43,7 +34,6 @@ class Browse extends React.Component {
                     <h1>ผู้สมัครส.ส.แต่ละพรรค <br /> มีประวัติเกี่ยวข้องกับธุรกิจอะไรบ้าง</h1>
                     <div className={style.selectContainer}>
                         <Select
-                            autoFocus={true}
                             className={style.selectElement}
                             classNamePrefix="react-select"
                             options={parties}

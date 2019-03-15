@@ -11,7 +11,8 @@
   cursor: pointer;
 }
 
-.title span {
+.titleDropdownButton {
+  top: 0px;
   transform: rotate(180deg);
   float: right;
   font-weight: normal;

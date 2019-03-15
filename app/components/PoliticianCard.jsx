@@ -14,7 +14,7 @@ class PoliticianCard extends React.Component {
         let businessDesc = '';
 
         if (p.relatedTo.length > 0) {
-            businessDesc = (<div>เกี่ยวข้องกับ <b>{p.relatedTo.length}</b> นิติบุคคล
+            businessDesc = (<div>มีประวัติเกี่ยวข้องกับธุรกิจ <b>{p.relatedTo.length}</b> แห่ง <br/>
                     ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
                     .reduce((a, b) => a + b, 0) / Math.pow(10, 6)}</b> ล้านบาท
                 </div>)
@@ -29,11 +29,11 @@ class PoliticianCard extends React.Component {
                     </div>
                     <div>{p.name}</div>
                 </h2>
-                <h4 className={style.subHeaderContainer}>ว่าที่ผู้สมัคร ส.ส. พรรค {p.PartyName}
+                <h4 className={style.subHeaderContainer}>ผู้สมัคร ส.ส. พรรค {p.PartyName}
                     <div>({p.desc.replace(/[\(\)]/g, '')})</div>
                 </h4>
 
-                <div>{businessDesc}</div>
+                <div className={style.desc}>{businessDesc}</div>
 
                 <div className={style.footer}>
                     {p.relatedTo.length > 0 &&

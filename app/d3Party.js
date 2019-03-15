@@ -107,7 +107,7 @@ function d3Viz(dataset, props){
                 return "none";
             }
         })
-        .filter((d) => !d.data.totalProjects)
+        .filter((d) => !d.data.totalProjects && d.data.EventID)
         .style('fill', 'white')
         .classed(d3Style.nonGovInvolvedOrg, true)
 

@@ -52,3 +52,7 @@
 .footer div {
   margin-bottom: 5px;
 }
+
+.desc {
+  line-height: 24px;
+}

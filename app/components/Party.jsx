@@ -8,6 +8,7 @@ import ReactDOM from 'react-dom';
 import Legend from './Legend';
 import PoliticianCard from './PoliticianCard';
 import SearchBox from './SearchBox';
+import Select from 'react-select';
 import { config, isSmallScreen, projectNumbering } from '../utils';
 
 import './shared/typography.css'
@@ -83,7 +84,6 @@ class Party extends React.Component {
               o['cpm'] = cpm 
 
               if(o['totalProjects']){
-                console.log(o);
                 o['colorScale'] = o['totalPriceBuild']  //TODO: change this to project budget
               } else {
                 o['colorScale'] = 0
@@ -94,9 +94,7 @@ class Party extends React.Component {
           })
           .flat()
 
-
-
-        console.log(orgs.length + politicians.length);
+        console.log('total nodes', orgs.length + politicians.length);
         let orgsForD3 =  orgs
         const nodeCount = politicians.length + orgs.length
         if (nodeCount < config.d3.totalBubbles) {
@@ -163,6 +161,19 @@ class Party extends React.Component {
       }
     }
 
+
+    const searchBox = this.state.isSearchingNewParty ?
+        <Select
+          autoFocus={this.state.isSearchingNewParty}
+          defaultMenuIsOpen={this.state.isSearchingNewParty}
+          options={config.availableParties}
+          placeholder="เลือกพรรค"
+          onChange={(opt) => this.props.history.push(`/r/p-${opt.value}`)}
+          onBlur={() => this.setState({isSearchingNewParty: false})}
+        />
+        :
+        <SearchBox politicians={_.orderBy(this.state.dataPols, ['name'])} history={this.props.history} partyName={this.props.params.partyName}/>
+
     return (
       <div className={partyStyle.party}>
         <div className={partyStyle.descBox}>
@@ -170,19 +181,21 @@ class Party extends React.Component {
             <h2>
               ประวัติเกี่ยวข้องกับธุรกิจของผู้สมัคร ส.ส. พรรค
             </h2>
-            <h1 className={partyStyle.title}  onClick={() => this.props.history.push('/browse')}>
-              {this.props.params.partyName}
-              <span>⌃</span>
+            <h1 className={partyStyle.title} onClick={() => this.setState({isSearchingNewParty: true})}>
+              <span>{this.props.params.partyName}</span>
+              { !this.state.isSearchingNewParty && 
+                <span  className={partyStyle.titleDropdownButton}>⌃</span>
+              }
             </h1>
 
           <div className={partyStyle.toolBarContainer}>
-            <SearchBox politicians={this.state.dataPols} history={this.props.history} partyName={this.props.params.partyName}/>
+            {searchBox}
 
             <div className={partyStyle.legendSection}>
               <div>
                 <b>หรือ</b>
                 <span className={partyStyle.button} onClick={this.randomPolitician} title="Hotkey (p)">สุ่มเลือก</span>
-                จาก ส.ส. ในพรรคเดียวกัน
+                จาก ผู้สมัคร ส.ส. ในพรรคเดียวกัน
               </div>
               <div className={partyStyle.buttonContainer}>
               </div>
@@ -197,8 +210,8 @@ class Party extends React.Component {
               <div className={partyStyle.description}>
                 <div className={partyStyle.descDetails}>
                   { this.state.topList.length > 0 && <span>
-                      มี ผู้สมัคร ส.ส.​ แบ่งเขต จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
-                      เป็นหรือเคยเป็นกรรมการนิติบุคคล
+                      ผู้สมัคร ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
+                      ของ พรรค{this.props.params.partyName} เป็นหรือเคยเป็นกรรมการนิติบุคคล
                       ซึ่งมีทุนจดทะเบียนรวมทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ผู้สมัครฯ ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
                       {this.state.topList && <ul className={partyStyle.topListUL}>
                         {
@@ -234,12 +247,12 @@ class Party extends React.Component {
               <div>ประเภท: <b>{selectedObject.jptn}</b></div>
 
               <div className={partyStyle.orgDetails}>
-                มีวัตถุประสงค์เพื่อ {selectedObject.OBJ_TNAME} โดยจดทะเบียนด้วยทุน {selectedObject.cpm / Math.pow(10, 6)} ล้านบาท
-                ด้วยเลขที่นิติบุคคล {this.props.params.orgID} ณ ขณะนี้ สถานะคือ {selectedObject.stn} 
+                มีวัตถุประสงค์เพื่อ <b>{selectedObject.OBJ_TNAME}</b> โดยจดทะเบียนด้วยทุน <b>{selectedObject.cpm / Math.pow(10, 6)} ล้านบาท </b>
+                ด้วยเลขที่นิติบุคคล <b>{this.props.params.orgID}</b> ณ ขณะนี้ สถานะคือ <b>{selectedObject.stn}</b>
 
                 { selectedObject.totalProjects && <div>
-                  โดยเคยเกี่ยวข้องกับโครงการรัฐฯ ทั้งหมด {projectNumbering.total(selectedObject.totalProjects)} โครงการ
-                  ซึ่งรวมงบประมาณแล้วทั้งสิ้น {projectNumbering.amount(selectedObject.totalProjects, selectedObject.totalPriceBuild / Math.pow(10, 6)) } ล้านบาท
+                  โดยเคยเกี่ยวข้องกับโครงการจัดซื้อจัดจ้างของภาครัฐ ทั้งหมด <b>{projectNumbering.total(selectedObject.totalProjects)}</b> โครงการ
+                  ซึ่งรวมงบประมาณแล้วทั้งสิ้น <b>{projectNumbering.amount(selectedObject.totalProjects, selectedObject.totalPriceBuild / Math.pow(10, 6)) } ล้านบาท</b>
                 </div>
                 }
               </div>

@@ -1,3 +1,6 @@
+import availableParties from './availableParties';
+import _ from 'lodash';
+
 const config = {
     d3: {
         diameter: 600,
@@ -15,7 +18,14 @@ const config = {
     url: {
         credenBusinessPage: 'https://creden.co/creditscore/business/main.html#/company?id=<ID>&tab=general',
         credenPersonSearch: 'https://creden.co/creditscore/business/main.html#/search?search=<name>',
-    }
+    },
+    availableParties: _.orderBy(availableParties.map(p => {
+        return {
+            value: p,
+            label: p,
+            icon: `//elect.in.th/candidates/statics/party-logos/${p.trim()}.png`
+        }
+    }), ['value'])
 }
 
 const totalProjectDesc = (n) => {
