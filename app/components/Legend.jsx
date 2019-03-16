@@ -69,7 +69,7 @@ class Legend extends React.Component {
           <br/>
           ข้อมูลรวบรวมจาก <a target="_blank" href="//creden.co/creditscore/business">
             <b><img src="assets/images/creden.png" /></b>  
-          </a> และ <a target="_blank" href="https://govspending.data.go.th">ภาษีไปไหน?</a>
+          </a> และ <a target="_blank" href="https://govspending.data.go.th">เว็บภาษีไปไหน?</a>
         </div>
       </div>
     </div>

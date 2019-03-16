@@ -6,6 +6,10 @@
     font-size: 12px;
 }
 
+.headerContainer a {
+    text-decoration: none;
+}
+
 .logo {
     width: 150px;
 }

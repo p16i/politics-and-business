@@ -13,7 +13,8 @@ function d3Viz(dataset, props){
         .range(config.colorSchemes.polColorRange);
 
     const orgColor = d3.scaleLinear()
-        .domain([0, dataset.maxMoney])
+        // .domain([0, dataset.maxMoney])
+        .domain([0, 10000000])
         .range(config.colorSchemes.orgColorRange);
 
     const partyName = dataset.name;
