@@ -16,7 +16,7 @@ class PoliticianCard extends React.Component {
         if (p.relatedTo.length > 0) {
             businessDesc = (<div>มีประวัติเกี่ยวข้องกับธุรกิจ <b>{p.relatedTo.length}</b> แห่ง <br/>
                     ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
-                    .reduce((a, b) => a + b, 0) / Math.pow(10, 6)}</b> ล้านบาท
+                    .reduce((a, b) => a + b, 0) / Math.pow(10, 6)} ล้านบาท </b>
                 </div>)
         } else {
             businessDesc = (<div>ไม่มีประวัติทางธุรกิจ</div>)

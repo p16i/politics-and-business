@@ -9,12 +9,11 @@ import ReactDOM from 'react-dom';
 function d3Viz(dataset, props){
 
     const polColor = d3.scaleLinear()
-        .domain([0, dataset.maxRelatedTo])
+        .domain([0, config.d3.maxPolColorScale])
         .range(config.colorSchemes.polColorRange);
 
     const orgColor = d3.scaleLinear()
-        // .domain([0, dataset.maxMoney])
-        .domain([0, 10000000])
+        .domain([0, config.d3.maxOrgColorScale])
         .range(config.colorSchemes.orgColorRange);
 
     const partyName = dataset.name;

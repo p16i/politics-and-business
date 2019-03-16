@@ -7,6 +7,8 @@ import { routes } from './routes'
 
 import App from './components/App'
 import Browse from './components/Browse'
+import GovSpendingTutorial from './components/GovSpendingTutorial'
+
 import { config, isSmallScreen } from './utils'
 
 import './components/shared/global.css'
@@ -28,7 +30,6 @@ const appCheckScreen = (props) => {
   } return <App {...props}/>
 }
 
-
 ReactDOM.render(
   <Router>
     <Switch>
@@ -36,6 +37,7 @@ ReactDOM.render(
       <Route path="/p/:partyName/org/:orgID" render={appCheckScreen}/>
       <Route path="/p/:partyName" render={appCheckScreen}/>
       <Route path="/r/:to" component={TempRedirect} />
+      <Route path="/g/:orgID" component={GovSpendingTutorial} />
       <Route path="/browse" component={Browse} />
       <Route path="/" component={() => <Redirect to="/browse"/>} />
     </Switch>

@@ -27,7 +27,7 @@ class Browse extends React.Component {
                                 ขออภัยในความไม่สะดวก
                         <br />
                                 <br />
-                                🙇🏻‍🙏🏼🙇🏻‍♀️
+                                🙏
                     </div>
                         </div>
                     }

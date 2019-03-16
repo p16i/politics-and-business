@@ -30,18 +30,18 @@ class Legend extends React.Component {
             </div>
             <div className={style.legendLabel}>
               <i className={[icons.icon, icons.politicianWithBusiness].join(' ')} style={{ color: pColor[0] }}></i>
-              <b>สีอ่อน</b> จำนวนธุรกิจที่เกี่ยวข้องน้อย
+              <b>สีอ่อน</b> เกี่ยวข้องน้อย
             </div>
             <div className={style.legendLabel}>
               <i className={[icons.icon, icons.politicianWithBusiness].join(' ')} style={{ color: pColor[1] }}></i>
-              <b>สีเข้ม</b> จำนวนธุรกิจที่เกี่ยวข้องมาก
+              <b>สีเข้ม</b> เกี่ยวข้องมาก (10 นิติบุคคล ขึ้นไป)
             </div>
           </div>
         </div>
         <div className={style.legendSection}>
           <div className={style.legendSectionHeader}><b><i className={[icons.icon, icons.orgBlack].join(' ')} />นิติบุคคล</b></div>
           <div className={style.legendSectionDetails}>
-            <div><b>สี</b> = จำนวนโครงการจัดซื้อจัดจ้างของของภาครัฐ ที่เกี่ยวข้อง<br/>
+            <div><b>สี</b> = จำนวนวงเงินโครงการจัดซื้อจัดจ้างของของภาครัฐ ที่เกี่ยวข้อง<br/>
             </div>
             <div className={style.legendLabel}>
               <i className={[icons.icon, icons.org].join(' ')}></i>
@@ -49,11 +49,11 @@ class Legend extends React.Component {
             </div>
             <div className={style.legendLabel}>
               <i className={[icons.icon, icons.orgWithProject].join(' ')} style={{ color: oColor[0] }}></i>
-              <b>สีอ่อน</b> เกี่ยวข้องน้อย
+              <b>สีอ่อน</b> เกี่ยวข้องน้อย 
             </div>
             <div className={style.legendLabel}>
               <i className={[icons.icon, icons.orgWithProject].join(' ')} style={{ color: oColor[1] }}></i>
-              <b>สีเข้ม</b> เกี่ยวข้องมาก
+              <b>สีเข้ม</b> เกี่ยวข้องมาก (มูลค่า 10 ล้านบาทขึ้นไป) 
             </div>
           </div>
         </div>

@@ -24,7 +24,7 @@
 .descBox {
   float: left;
   width: 20%;
-  margin-left: 5%;
+  margin-left: 2.5%;
 }
 
 .description {
@@ -38,7 +38,7 @@
 
 .d3Container {
   position: absolute;
-  margin-left: 30%;
+  margin-left: 28%;
   text-align: center;
   min-height: 600px;
 }
@@ -106,6 +106,7 @@
 }
 
 .orgFooter {
+  height: 30px;
   margin-top: 20px;
 }
 

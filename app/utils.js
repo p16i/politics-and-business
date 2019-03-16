@@ -9,7 +9,9 @@ const config = {
         politicianSymbolSize: 50,
         padding: 10,
         inactiveOpacity: 0.15,
-        totalBubbles: 700
+        totalBubbles: 700,
+        maxOrgColorScale: 10000000,
+        maxPolColorScale: 10,
     },
     colorSchemes: {
         orgColorRange: ['#ED354F', '#920A1D'],

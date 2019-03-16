@@ -1,0 +1,62 @@
+.container h1 {
+    text-align: center;
+}
+
+.container ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container li {
+    text-align: center;
+}
+
+.emoji {
+    font-size: 25px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+.bulletCircle {
+    display: inline-block;
+    color: white;
+    background: #bbb;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.copyButton {
+  width: 60px;
+  height: 30px;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+  margin: 10px 5px;
+  cursor: pointer;
+
+  font-size: 13px;
+  color: #747474;
+  background: #ffffff;
+  border: 1px solid #E1E1E2;
+  text-align: center;
+  border-radius: 5.5px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+}
+
+img {
+    margin-top: 10px;
+}
