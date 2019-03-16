@@ -1,6 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+import ReactGA from 'react-ga'
+import { createHashHistory } from 'history'
+
 import { HashRouter as Router, Route, Switch, Redirect, hashHistory }
  from 'react-router-dom'
 import { routes } from './routes'
@@ -13,6 +16,16 @@ import { config, isSmallScreen } from './utils'
 
 import './components/shared/global.css'
 import './index.css';
+
+ReactGA.initialize('UA-48736618-5');
+
+const history = createHashHistory()
+
+history.listen((location, action) => {
+  ReactGA.set({ page: location.pathname });
+  ReactGA.pageview(location.pathname);
+});
+
 
 
 const TempRedirect = React.createClass({
@@ -31,7 +44,7 @@ const appCheckScreen = (props) => {
 }
 
 ReactDOM.render(
-  <Router>
+  <Router history={history}>
     <Switch>
       <Route path="/p/:partyName/person/:personName" render={appCheckScreen}/>
       <Route path="/p/:partyName/org/:orgID" render={appCheckScreen}/>
