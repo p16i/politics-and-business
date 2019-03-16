@@ -28,9 +28,7 @@ class Legend extends React.Component {
   }
 
   render() {
-    console.log(this.props);
-    const shareUrl = `https://${process.env.publicPath}/#${this.props.location.pathname}`;
-    console.log(shareUrl);
+    const shareUrl = `https://${process.env.publicPath}/#/p/${this.props.match.params.partyName}`;
 
     return <div>
       <div className={style.legendContainer}>
