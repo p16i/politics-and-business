@@ -31,7 +31,7 @@ class GovSpendingTutorial extends React.Component {
                         </span>
                         เปิดการค้นหา <b>ขั้นสูง</b> และ นำเลขนิติบุคคลกรอกในช่อง <b>ผู้ชนะการเสนอราคา</b>
                         <br/>
-                        <img src="../assets/images/gov-spending-search.png" width="50%"/>
+                        <img src="assets/images/gov-spending-search.png" width="50%"/>
                     </li>
                 </ul>
             </div>
