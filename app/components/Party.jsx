@@ -69,13 +69,13 @@ class Party extends React.Component {
       .then(response => response.json())
       .then(data => {
         const politicians = data.map(p => {
-          p['EventID'] = p['name']
+          p['EventID'] = [p['name']]
           p['Count'] = 1
           p['Type'] = 'politician'
           return p
         })
 
-        let orgs = data.map(p => {
+        let orgsBeforeDeDup = data.map(p => {
             return p.relatedTo.map(o => {
               const cpm = parseFloat(o['cpm'].replace(/,/g, ''))
               o['EventID'] = p['name']
@@ -93,6 +93,15 @@ class Party extends React.Component {
             });
           })
           .flat()
+
+        const orgs = _(orgsBeforeDeDup)
+            .groupBy('_id')
+            .map( (v, k) => {
+              const v0 = v[0];
+              v0['EventID'] = _.map(v, 'EventID');
+              return v0;
+            })
+            .value()
 
         console.log('total nodes', orgs.length + politicians.length);
         let orgsForD3 =  orgs
@@ -242,7 +251,12 @@ class Party extends React.Component {
           {this.props.params.orgID && selectedObject &&
             <div className={partyStyle.orgContainer}>
               <h2 className={partyStyle.orgHeader}>{selectedObject.JP_TNAME}</h2>
-              <h4 className={partyStyle.orgSubHeader}>เกี่ยวข้องกับ <Link to={`/p/${this.props.params.partyName}/person/${selectedObject.EventID}`}>{selectedObject.EventID}</Link></h4>
+              <h4 className={partyStyle.orgSubHeader}>เกี่ยวข้องกับ {
+                
+                selectedObject.EventID.map(e => {
+                  return (<Link key={e} to={`/p/${this.props.params.partyName}/person/${e}`}>{e}</Link>)
+                }).reduce((prev, curr) => [prev, ', ', curr])
+              }</h4>
 
               <div>ประเภท: <b>{selectedObject.jptn}</b></div>
 

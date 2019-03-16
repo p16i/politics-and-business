@@ -5,6 +5,13 @@ import * as d3Symbol from 'd3-symbol-extra';
 import { config } from './utils';
 import ReactDOM from 'react-dom';
 
+const isEventIDsIntersect = (a, b) =>  {
+    if(a && b){
+        return a.filter(x => b.includes(x)).length > 0
+    } else {
+        return false;
+    }
+}
 
 function d3Viz(dataset, props){
 
@@ -46,15 +53,17 @@ function d3Viz(dataset, props){
 
     const polNodesData = {}
     rawNode.filter((d) => d.data.Type == 'politician').each((d) => {
-        polNodesData[d.data.EventID] = d
+        polNodesData[d.data.EventID[0]] = d
     })
 
     const lines = []
     rawNode.filter((d) => d.data.Type == 'org' && d.data.EventID).each((d) => {
-        lines.push({
-            src: d,
-            dest: polNodesData[d.data.EventID]
-        })    
+        _(d.data.EventID).each( (e) => {
+            lines.push({
+                src: d,
+                dest: polNodesData[e]
+            })
+        });
     });
 
     const tooltip = d3.select("body").append("div")
@@ -126,16 +135,16 @@ function d3Viz(dataset, props){
 
         if(eid){
             polOrgNodes
-                .filter(d => d.data.EventID !== eid)
+                .filter(d => !isEventIDsIntersect(d.data.EventID, eid))
                 .style('opacity', config.d3.inactiveOpacity)
 
             const pp = polOrgNodes
-                .filter(d => d.data.EventID === eid)
+                .filter(d => isEventIDsIntersect(d.data.EventID, eid))
                 .style('opacity', 1)
                 .classed(d3Style.permanentHighlight, true)
 
             line.classed(d3Style.permanentLinkHighlight, false)
-                .filter(d => d.src.data.EventID === eid)
+                .filter(d => isEventIDsIntersect(d.src.data.EventID, eid))
                 .classed(d3Style.permanentLinkHighlight, true)
 
             const data = pp.data().filter(d => {
@@ -187,12 +196,18 @@ function d3Viz(dataset, props){
         .on('mouseenter', (e) => {
             d3.selectAll(".node")
                 .filter(d => {
-                    return d.data.EventID == e.data.EventID;
+                    return isEventIDsIntersect(
+                        d.data.EventID,
+                        e.data.EventID
+                    )
                 })
                 .classed(d3Style.highlight, true);
 
             d3.selectAll(".link").filter(d => {
-                    return d.src.data.EventID == e.data.EventID;
+                    return isEventIDsIntersect(
+                        d.src.data.EventID,
+                        e.data.EventID
+                    )
                 })
                 .classed(d3Style.linkHighlight, true);
 
