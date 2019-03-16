@@ -1,6 +1,15 @@
 import React from 'react';
 
+import { withRouter } from 'react-router-dom';
 
+import {
+  FacebookShareButton,
+  FacebookIcon,
+  TwitterShareButton,
+  TwitterIcon,
+  LineShareButton,
+  LineIcon
+} from 'react-share';
 
 import { config } from '../utils';
 
@@ -10,6 +19,7 @@ import * as icons from './shared/icons.css';
 
 const pColor = config.colorSchemes.polColorRange;
 const oColor = config.colorSchemes.orgColorRange;
+const shareIconSize = 32;
 
 class Legend extends React.Component {
 
@@ -18,6 +28,10 @@ class Legend extends React.Component {
   }
 
   render() {
+    console.log(this.props);
+    const shareUrl = `https://${process.env.publicPath}/#${this.props.location.pathname}`;
+    console.log(shareUrl);
+
     return <div>
       <div className={style.legendContainer}>
         <div className={style.legendSection}>
@@ -71,9 +85,20 @@ class Legend extends React.Component {
             <b><img src="assets/images/creden.png" /></b>  
           </a> และ <a target="_blank" href="https://govspending.data.go.th">เว็บภาษีไปไหน?</a>
         </div>
+        <div className={style.shareButtonsContainer}>
+            <FacebookShareButton url={shareUrl} hashtag="#electinth">
+               <FacebookIcon size={shareIconSize} round={true}/>
+            </FacebookShareButton>
+            <TwitterShareButton url={shareUrl} hashtags={['electinth', `พรรค${this.props.match.params.partyName}`]}>
+               <TwitterIcon size={shareIconSize} round={true}/>
+            </TwitterShareButton>
+            <LineShareButton title={`ข้อมูลการเกี่ยวของทางธุรกิจของผู้สมัคร ส.ส. พรรค${this.props.match.params.partyName}`} url={shareUrl}>
+                <LineIcon size={shareIconSize} round={true}/>
+            </LineShareButton>
+          </div>
       </div>
     </div>
   }
 }
 
-export default Legend
+export default withRouter((props) => <Legend {...props}/>)

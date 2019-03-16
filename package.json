@@ -58,7 +58,8 @@
     "react-router": "^2.6.0",
     "react-router-dom": "^4.3.1",
     "react-select": "^2.4.2",
-    "react-select-search": "^0.9.6"
+    "react-select-search": "^0.9.6",
+    "react-share": "^2.4.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.1.2",

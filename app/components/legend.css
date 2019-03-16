@@ -108,3 +108,18 @@
 .footerContainer a {
   text-decoration: underline;
 }
+
+
+.shareButtonsContainer {
+    margin-top: 10px;
+    text-align: center;
+}
+
+:global {
+    .SocialMediaShareButton {
+        width: 32px;
+        display: inline-block;
+        cursor: pointer;
+        margin: 0 5px;
+    }
+}
