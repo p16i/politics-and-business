@@ -19,6 +19,13 @@ const copyPlugin = new CopyWebpackPlugin([{
   to: 'assets'
 }])
 
+const htmlPlugin = new HtmlWebpackPlugin({
+  title: 'ผู้สมัคร ส.ส. คนไหน เกี่ยวข้องกับธุรกิจใดบ้าง?',
+  desc: 'รวมความเชื่อมโยงกับธุรกิจต่างๆ ของผู้สมัคร ส.ส. แต่ละพรรค',
+  template: './conf/tmpl.html',
+  production: isProd
+})
+
 const definePlugin = new webpack.DefinePlugin({
   'process.env.publicPath': JSON.stringify(process.env.PUBLIC_PATH || '127.0.0.1:8080')
 })
@@ -97,19 +104,18 @@ module.exports = {
     }),
     new webpack.optimize.CommonsChunkPlugin('vendors', '[name].[hash].js'),
     new ExtractTextPlugin('[name].[hash].css'),
-    new HtmlWebpackPlugin({
-      title: package.name,
-      template: './conf/tmpl.html',
-      production: isProd
-    }),
+    htmlPlugin,
     copyPlugin,
     definePlugin
   ] : [
     new webpack.NoErrorsPlugin(),
     new HtmlWebpackPlugin({
-      title: package.name,
-      template: './conf/tmpl.html'
+      title: 'ผู้สมัคร ส.ส. คนไหน เกี่ยวข้องกับธุรกิจใดบ้าง?',
+      desc: 'รวมความเชื่อมโยงกับธุรกิจต่างๆ ของผู้สมัคร ส.ส. แต่ละพรรค',
+      template: './conf/tmpl.html',
+      production: isProd
     }),
+    htmlPlugin,
     copyPlugin,
     definePlugin
   ],
