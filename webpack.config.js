@@ -23,7 +23,7 @@ const htmlPlugin = new HtmlWebpackPlugin({
   title: 'ผู้สมัคร ส.ส. คนไหน เกี่ยวข้องกับธุรกิจใดบ้าง?',
   desc: 'รวมความเชื่อมโยงกับธุรกิจต่างๆ ของผู้สมัคร ส.ส. แต่ละพรรค',
   template: './conf/tmpl.html',
-  production: isProd
+  production: isProd,
 })
 
 const definePlugin = new webpack.DefinePlugin({
