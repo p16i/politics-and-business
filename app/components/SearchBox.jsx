@@ -51,7 +51,7 @@ class SearchBox extends React.Component {
                 onChange={e => this.setState({ searchValue: e.target.value })}
                 onSelect={this.handleSearchSelect}
                 wrapperStyle={{
-                    backgroundColor: 'red'
+                    width: "100%"
                 }}
             />
         )
