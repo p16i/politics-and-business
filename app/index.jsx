@@ -39,8 +39,10 @@ const TempRedirect = React.createClass({
 
 const appCheckScreen = (props) => {
   if(isSmallScreen()){
-    return <Redirect to="/browse"/>
-  } return <App {...props}/>
+    alert(`ผลงานชิ้นนี้เหมาะกับการดูขนาดความกว้าง 1280px ขึ้นไป (ขนาดจอปัจจุบันคือ ${window.innerWidth}px)`);
+  } 
+
+  return <App {...props}/>
 }
 
 ReactDOM.render(

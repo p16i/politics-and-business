@@ -17,20 +17,6 @@ class Browse extends React.Component {
         return (
             <div className={style.background}>
                 <div className={style.container}>
-                    {isSmallScreen() &&
-                        <div className={style.msgModal}>
-                            <div className={style.msgModalBackground} />
-                            <div className={style.msgModalText}>
-                                งานชิ้นนี้ เหมาะสำหรับใช้บนจอขนาดใหญ่ <br />(ขนาดความกว้าง 1280px ขึ้นไป)
-                        <br />
-                                <br />
-                                ขออภัยในความไม่สะดวก
-                        <br />
-                                <br />
-                                🙏
-                    </div>
-                        </div>
-                    }
                     <h1>ผู้สมัครส.ส.แต่ละพรรค <br /> มีประวัติเกี่ยวข้องกับธุรกิจอะไรบ้าง</h1>
                     <div className={style.selectContainer}>
                         <Select
