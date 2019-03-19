@@ -3,7 +3,7 @@ import React from 'react';
 import Img from 'react-image'
 
 import { Link } from 'react-router-dom';
-import { config } from '../utils';
+import { config, moneyFormat } from '../utils';
 
 import * as style from './politiciancard.css'
 
@@ -15,8 +15,8 @@ class PoliticianCard extends React.Component {
 
         if (p.relatedTo.length > 0) {
             businessDesc = (<div>มีประวัติเกี่ยวข้องกับธุรกิจ <b>{p.relatedTo.length}</b> แห่ง <br/>
-                    ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{p.relatedTo.map(o => o.cpm)
-                    .reduce((a, b) => a + b, 0) / Math.pow(10, 6)} ล้านบาท </b>
+                    ซึ่งมีทุนจดทะเบียนรวมทั้งหมด <b>{moneyFormat(p.relatedTo.map(o => o.cpm)
+                    .reduce((a, b) => a + b, 0))}</b>
                 </div>)
         } else {
             businessDesc = (<div>ไม่มีประวัติทางธุรกิจ</div>)

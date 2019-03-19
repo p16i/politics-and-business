@@ -9,7 +9,7 @@ import Legend from './Legend';
 import PoliticianCard from './PoliticianCard';
 import SearchBox from './SearchBox';
 import Select from 'react-select';
-import { config, isSmallScreen, projectNumbering } from '../utils';
+import { config, isSmallScreen, projectNumbering, moneyFormat } from '../utils';
 
 import './shared/typography.css'
 import * as partyStyle from './party.css'
@@ -139,8 +139,8 @@ class Party extends React.Component {
           d3Data: d3Data,
           d3Obj: dd.containerNode,
           d3HighlightForEvent: dd.highlightForEvent,
-          totalCPMinM: orgs.map(o => o.cpm)
-            .reduce((a, b) => a + b, 0) / 1000000,
+          totalCPM: orgs.map(o => o.cpm)
+            .reduce((a, b) => a + b, 0),
           totalPoliticians: politicians.length,
           totalPoliticiansInvoledWithBusiness: politicians.filter(p => p.relatedTo.length > 0).length,
           topList: topPoliticians
@@ -169,7 +169,6 @@ class Party extends React.Component {
         this.state.d3HighlightForEvent(null);
       }
     }
-
 
     const searchBox = this.state.isSearchingNewParty ?
         <Select
@@ -200,15 +199,17 @@ class Party extends React.Component {
           <div className={partyStyle.toolBarContainer}>
             {searchBox}
 
-            <div className={partyStyle.legendSection}>
-              <div>
-                <b>หรือ</b>
-                <span className={partyStyle.button} onClick={this.randomPolitician} title="Hotkey (p)">สุ่มเลือก</span>
-                จาก ผู้สมัคร ส.ส. ในพรรคเดียวกัน
+            { !selectedObject &&
+              <div className={partyStyle.legendSection}>
+                <div>
+                  <b>หรือ</b>
+                  <span className={partyStyle.button} onClick={this.randomPolitician} title="Hotkey (p)">สุ่มเลือก</span>
+                  จาก ผู้สมัคร ส.ส. ในพรรคเดียวกัน
+                </div>
+                <div className={partyStyle.buttonContainer}>
+                </div>
               </div>
-              <div className={partyStyle.buttonContainer}>
-              </div>
-            </div>
+            }
           </div>
           </div>
 
@@ -221,7 +222,7 @@ class Party extends React.Component {
                   { this.state.topList.length > 0 && <span>
                       ผู้สมัคร ส.ส.​ จำนวน <b>{this.state.totalPoliticiansInvoledWithBusiness}</b> จาก <b>{this.state.totalPoliticians}</b> คน
                       ของ พรรค{this.props.params.partyName} เป็นหรือเคยเป็นกรรมการนิติบุคคล
-                      ซึ่งมีทุนจดทะเบียนรวมทั้งสิ้น <b>{Math.round(this.state.totalCPMinM)}</b> ล้านบาท โดย ผู้สมัครฯ ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
+                      ซึ่งมีทุนจดทะเบียนรวมทั้งสิ้น <b>{moneyFormat(this.state.totalCPM)}</b> โดย ผู้สมัครฯ ที่เกี่ยวข้องกับธุรกิจมากที่สุด คือ
                       {this.state.topList && <ul className={partyStyle.topListUL}>
                         {
                           this.state.topList.map((p, idx) => {
@@ -261,12 +262,12 @@ class Party extends React.Component {
               <div>ประเภท: <b>{selectedObject.jptn}</b></div>
 
               <div className={partyStyle.orgDetails}>
-                มีวัตถุประสงค์เพื่อ <b>{selectedObject.OBJ_TNAME}</b> โดยจดทะเบียนด้วยทุน <b>{selectedObject.cpm / Math.pow(10, 6)} ล้านบาท </b>
-                ด้วยเลขที่นิติบุคคล <b>{this.props.params.orgID}</b> ณ ขณะนี้ สถานะคือ <b>{selectedObject.stn}</b>
+                มีวัตถุประสงค์เพื่อ <b>{selectedObject.OBJ_TNAME}</b> จดทะเบียนด้วยทุน <b>{moneyFormat(selectedObject.cpm)} </b>
+                ด้วยเลขที่นิติบุคคล <b>{this.props.params.orgID}</b> สถานะปัจจุบันคือ <b>{selectedObject.stn}</b>
 
                 { selectedObject.totalProjects && <div>
-                  โดยเคยเกี่ยวข้องกับโครงการจัดซื้อจัดจ้างของภาครัฐ ทั้งหมด <b>{projectNumbering.total(selectedObject.totalProjects)}</b> โครงการ
-                  ซึ่งรวมงบประมาณแล้วทั้งสิ้น <b>{projectNumbering.amount(selectedObject.totalProjects, selectedObject.totalPriceBuild / Math.pow(10, 6)) } ล้านบาท</b>
+                  เคยเกี่ยวข้องกับโครงการจัดซื้อจัดจ้างของภาครัฐ ทั้งหมด <b>{projectNumbering.total(selectedObject.totalProjects)}</b> โครงการ
+                  ซึ่งรวมงบประมาณแล้วทั้งสิ้น <b>{projectNumbering.amount(selectedObject.totalProjects, selectedObject.totalPriceBuild) }</b>
                 </div>
                 }
               </div>
