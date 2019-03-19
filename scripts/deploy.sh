@@ -17,6 +17,6 @@ fi
 
 echo "Building and deploying for $ENV ($GIT_DEPLOY_REPO, $GIT_DEPLOY_BRANCH)"
 
-npm run build:$1 \
+rm -rf dist && npm run build:$1 \
     && GIT_DEPLOY_REPO=$GIT_DEPLOY_REPO GIT_DEPLOY_BRANCH=$GIT_DEPLOY_BRANCH \
        GIT_DEPLOY_DIR=$GIT_DEPLOY_DIR ./scripts/push-page.sh
