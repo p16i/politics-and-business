@@ -51,11 +51,8 @@ const moneyFormat = d3Format.formatPrefix("$,.2s", 10e6)
 
 const totalProjectMoneyDec = (n, amount) => {
     if (n >= 100) {
-        //* todo friendly number */
         return `อย่างน้อย ${moneyFormat(amount)}`
     } else {
-        console.log('do nothing')
-        //* todo friendly number */
         return moneyFormat(amount)
     }
 }
