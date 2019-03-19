@@ -11,6 +11,8 @@ import { routes } from './routes'
 import App from './components/App'
 import Browse from './components/Browse'
 import GovSpendingTutorial from './components/GovSpendingTutorial'
+import Cookies from 'universal-cookie';
+
 
 import { config, isSmallScreen } from './utils'
 
@@ -18,6 +20,8 @@ import './components/shared/global.css'
 import './index.css';
 
 ReactGA.initialize('UA-48736618-5');
+
+const cookieSmallScreenName = 'alreadySuggestedSmallScreen';
 
 const history = createHashHistory()
 
@@ -27,7 +31,7 @@ history.listen((location, action) => {
 });
 
 
-
+const cookies = new Cookies();
 const TempRedirect = React.createClass({
   render() {
     const newPath = '/' + this.props.match.params.to
@@ -38,8 +42,9 @@ const TempRedirect = React.createClass({
 })
 
 const appCheckScreen = (props) => {
-  if(isSmallScreen()){
+  if(isSmallScreen() && !cookies.get(cookieSmallScreenName)){
     alert(`ผลงานชิ้นนี้เหมาะกับการดูบนจอขนาดความกว้าง 1280px ขึ้นไป (ขนาดความกว้างปัจจุบันคือ ${window.innerWidth}px)`);
+    cookies.set(cookieSmallScreenName, true, { maxAge: 3600*60});
   } 
 
   return <App {...props}/>
