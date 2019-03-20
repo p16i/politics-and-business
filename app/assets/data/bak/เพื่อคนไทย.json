@@ -52,19 +52,6 @@
         "province_name": "ยโสธร",
         "relatedTo": [
             {
-                "JP_ENAME": "S.S.S. PROFESSIONAL CO.,LTD.",
-                "JP_NO": "0205551003238",
-                "JP_TNAME": "เอส.เอส.เอส. โปรเฟสชั่นแนล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การจัดการประชุม",
-                "PARTNER": " นายสมศักดิ์ ศรีจันทร์ฉาย",
-                "_id": "0205551003238",
-                "activity_code": "82301",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
                 "JP_ENAME": "JANSUNCHAI SURAKUN  LIMITED PARTNERSHIP",
                 "JP_NO": "0333546000711",
                 "JP_TNAME": "จานแสนไชยสุรากลั่น",
@@ -524,21 +511,7 @@
         "memberType": "zone",
         "name": "สายัณห์ บุตรดี",
         "province_name": "อุดรธานี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "BUDDELERT INTER GROUP LIMITED PARTNERSHIP",
-                "JP_NO": "0423547000382",
-                "JP_TNAME": "บุตรดีเลิศ อินเตอร์กรุ๊ป",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการอื่นๆซึ่งมิได้จัด ประเภทไว้ในที่อื่น",
-                "PARTNER": " สิบตรีสายัณห์ บุตรดีเลิศ",
-                "_id": "0423547000382",
-                "activity_code": "70209",
-                "cpm": "150,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "8"
     },
     {

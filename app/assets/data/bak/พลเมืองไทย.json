@@ -1212,21 +1212,7 @@
         "memberType": "zone",
         "name": "ณรงค์ศักดิ์ มณี",
         "province_name": "นครสวรรค์",
-        "relatedTo": [
-            {
-                "JP_ENAME": "T.O.B. CONSTRUCTION LIMITED PARTNERSHIP  ",
-                "JP_NO": "0103554031061",
-                "JP_TNAME": "ที.โอ.บี.คอนสตรัคชั่น",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
-                "PARTNER": " นายณรงค์ศักดิ์ มณีรุ่ง",
-                "_id": "0103554031061",
-                "activity_code": "41002",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "2"
     },
     {

@@ -789,21 +789,7 @@
         "memberType": "partylist",
         "name": "อาทิตย์ เรืองวุฒิ",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "SANG A THIT CONSTRUCTION LTD., PART.",
-                "JP_NO": "0503514000170",
-                "JP_TNAME": "แสงอาทิตย์คอนสทรัคชั่น",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างอาคารที่พักอาศัย",
-                "PARTNER": " นายอาทิตย์ เรืองวุฒิพงศ์กุล",
-                "_id": "0503514000170",
-                "activity_code": "41001",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

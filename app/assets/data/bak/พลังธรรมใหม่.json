@@ -705,21 +705,7 @@
         "memberType": "zone",
         "name": "ณรงค์ วิไล",
         "province_name": "ลพบุรี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "FUJIGO LIMITED PARTNERSHIP",
-                "JP_NO": "0103525023960",
-                "JP_TNAME": "ฟูจิโก",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "ธุรกิจจัดนำเที่ยว",
-                "PARTNER": " นายณรงค์ วิไลวรรณ",
-                "_id": "0103525023960",
-                "activity_code": "79120",
-                "cpm": "200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "4"
     },
     {
@@ -1811,23 +1797,6 @@
                 "cpm": "1,000,000.00",
                 "jptn": "บริษัทจำกัด",
                 "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "WATTANAPHAN HATYAI COMPANY LIMITED",
-                "JP_NO": "0905560006744",
-                "JP_TNAME": "วัฒนภัณฑ์หาดใหญ่ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งสินค้าในครัวเรือนอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นางพรทิพย์ ศรีสวัสดิ์นุภาพ",
-                "_id": "0905560006744",
-                "activity_code": "46499",
-                "avgPriceDiff": 0.0,
-                "cpm": "2,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 37200.0,
-                "totalPriceBuild": 37200.0,
-                "totalProjects": 2
             },
             {
                 "JP_ENAME": "STAR SIAM TRAVEL CO.,LTD.",

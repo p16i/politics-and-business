@@ -730,34 +730,7 @@
         "memberType": "zone",
         "name": "วิทยา จันทร์สม",
         "province_name": "อุทัยธานี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0603539001632",
-                "JP_TNAME": "บำรุงศรี",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
-                "PARTNER": " นายวิทยา จันทร์สมบัติ",
-                "_id": "0603539001632",
-                "activity_code": "41002",
-                "cpm": "500,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "NEW SUKANYA TOUR LIMITED PARTNERSHIP",
-                "JP_NO": "0103550013344",
-                "JP_TNAME": "นิวสุกัญญาทัวร์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "ตัวแทนธุรกิจการเดินทาง",
-                "PARTNER": " นายวิทยา จันทร์สมบูรณ์",
-                "_id": "0103550013344",
-                "activity_code": "79110",
-                "cpm": "70,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "2"
     },
     {
@@ -5536,34 +5509,7 @@
         "memberType": "zone",
         "name": "ไพบูลย์ ศิริมา",
         "province_name": "สุรินทร์",
-        "relatedTo": [
-            {
-                "JP_ENAME": "ENGINEERING TECHNIC LIMITED PARTNERSHIP",
-                "JP_NO": "0103517023298",
-                "JP_TNAME": "วิศวกรรม เทคนิค",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การติดตั้งไฟฟ้า",
-                "PARTNER": " นายไพบูลย์ ศิริมาศ",
-                "_id": "0103517023298",
-                "activity_code": "43210",
-                "cpm": "500,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            },
-            {
-                "JP_ENAME": "MITR CAR CARE LTD., PART.",
-                "JP_NO": "0103523001373",
-                "JP_TNAME": "มิตรคาร์แคร์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การบำรุงรักษาและการซ่อมระบบเครื่องยนต์และชิ้นส่วนยานยนต์",
-                "PARTNER": " นายไพบูลย์ ศิริมาลา",
-                "_id": "0103523001373",
-                "activity_code": "45201",
-                "cpm": "30,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "6"
     },
     {
@@ -13840,19 +13786,6 @@
         "name": "ลักษณีรายา คณานุรักษ์",
         "province_name": "-",
         "relatedTo": [
-            {
-                "JP_ENAME": "PRAJAKCHAI GRANITE  COMPANY LIMITED",
-                "JP_NO": "0105547070890",
-                "JP_TNAME": "ประจักษ์ชัย แกรนิต จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การทำเหมืองหินที่ใช้ในการก่อสร้าง",
-                "PARTNER": " นางลักษณีรายา คณานุรักษ์ ณ สงขลา",
-                "_id": "0105547070890",
-                "activity_code": "08101",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            },
             {
                 "JP_ENAME": "L.R.S. ENTERPRISES CO., LTD.",
                 "JP_NO": "0105536015655",

@@ -3244,21 +3244,7 @@
         "memberType": "zone",
         "name": "วันดี ศรีจันทร์",
         "province_name": "เชียงราย",
-        "relatedTo": [
-            {
-                "JP_ENAME": "WANDIKANKASET LIMITED PARTNERSHIP",
-                "JP_NO": "0673558000042",
-                "JP_TNAME": "วันดีการเกษตร",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขายส่งปุ๋ยและเคมีภัณฑ์ทางการเกษตร",
-                "PARTNER": " นางวันดี ศรีจันทร์ยงค์",
-                "_id": "0673558000042",
-                "activity_code": "46692",
-                "cpm": "2,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "7"
     },
     {
@@ -4823,21 +4809,7 @@
         "memberType": "zone",
         "name": "สุพจน์ จันทร์พรม",
         "province_name": "นครราชสีมา",
-        "relatedTo": [
-            {
-                "JP_ENAME": "BRAND B WHITE LIMITED PARTNERSHIP",
-                "JP_NO": "0703560000339",
-                "JP_TNAME": "แบรนด์บีไวท์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "ร้านขายปลีกเครื่องสำอาง",
-                "PARTNER": " นายสุพจน์ จันทร์พรมราช",
-                "_id": "0703560000339",
-                "activity_code": "47723",
-                "cpm": "200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "8"
     },
     {
@@ -5267,21 +5239,7 @@
         "memberType": "zone",
         "name": "สุเทพ บรรจง",
         "province_name": "กรุงเทพมหานคร",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NUTTAPONG TRAN INS LTD., PART.",
-                "JP_NO": "0123542004749",
-                "JP_TNAME": "ณัฐพงษ์ ทรานส์ อินซ์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การให้เช่าและให้เช่าแบบลิสซิ่งยานยนต์ชนิดนั่งส่วนบุคคล รถกระบะรถตู้และรถขนาดเล็กที่คล้ายกัน",
-                "PARTNER": " นายสุเทพ บรรจงจิตร",
-                "_id": "0123542004749",
-                "activity_code": "77101",
-                "cpm": "700,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "18"
     },
     {
@@ -8738,25 +8696,7 @@
         "memberType": "partylist",
         "name": "จารุวรรณ ทองศรี",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0143530000221",
-                "JP_TNAME": "สมกมลวังน้อย",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตผลิตภัณฑ์ไฟเบอร์ซีเมนต์",
-                "PARTNER": " นางจารุวรรณ ทองศรีเนียม",
-                "_id": "0143530000221",
-                "activity_code": "23954",
-                "avgPriceDiff": 0.0,
-                "cpm": "3,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 254440.0,
-                "totalPriceBuild": 254440.0,
-                "totalProjects": 13
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {
@@ -8857,21 +8797,7 @@
         "memberType": "partylist",
         "name": "แอนนา คำนุ",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "THAWORN PART AND MOLD ENGINEERING LIMITED PARTNERSHIP",
-                "JP_NO": "0143548002209",
-                "JP_TNAME": "ถาวร พาท แอนด์ โมลด์ เอ็นจิเนียริ่ง",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตผลิตภัณฑ์พลาสติกสำเร็จรูป",
-                "PARTNER": " นางสาวแอนนา คำนุกูล",
-                "_id": "0143548002209",
-                "activity_code": "22230",
-                "cpm": "400,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

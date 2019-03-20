@@ -2500,21 +2500,7 @@
         "memberType": "partylist",
         "name": "สมชาย ผลมา",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NUMCHAI BAKERY LIMITED PARTNERSHIP",
-                "JP_NO": "0103517023379",
-                "JP_TNAME": "นำชัยเบเกอรี่",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตขนมปังกรอบและผลิตภัณฑ์ขนมอบกรอบอื่น ๆ",
-                "PARTNER": " นายสมชาย ผลมาณีกุล",
-                "_id": "0103517023379",
-                "activity_code": "10712",
-                "cpm": "60,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

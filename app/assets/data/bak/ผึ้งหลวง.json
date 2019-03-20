@@ -1334,21 +1334,7 @@
         "memberType": "partylist",
         "name": "มีชัย สิงห์รอ",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "MEECHAI CLEANING SERVICE COMPANY LIMITED",
-                "JP_NO": "0105556165873",
-                "JP_TNAME": "มีชัย คลีนนิ่ง เซอร์วิส จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมการให้บริการจ้างงานชั่วคราว",
-                "PARTNER": " นายมีชัย สิงห์รอด",
-                "_id": "0105556165873",
-                "activity_code": "78200",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

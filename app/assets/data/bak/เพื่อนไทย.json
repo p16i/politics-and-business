@@ -249,21 +249,7 @@
         "memberType": "zone",
         "name": "ดิเรก จันทา",
         "province_name": "อุทัยธานี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "HDIT LIMITED PARTNERSHIP",
-                "JP_NO": "0383560001185",
-                "JP_TNAME": "เอชดีไอที",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
-                "PARTNER": " นายดิเรก จันทาสี",
-                "_id": "0383560001185",
-                "activity_code": "41002",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "1"
     },
     {
@@ -669,73 +655,7 @@
         "memberType": "zone",
         "name": "โกศล ทองดี",
         "province_name": "ลพบุรี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "KUNYARAT FURNITURE LIMITED PARTNERSHIP",
-                "JP_NO": "0303551002514",
-                "JP_TNAME": "กัญยรัตน์ เฟอร์นิเจอร์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมการบริการอื่นๆเพื่อสนับสนุนธุรกิจซึ่งมิได้จัดประเภทไว้ ในที่อื่น",
-                "PARTNER": " นายโกศล ทองดีเขียว",
-                "_id": "0303551002514",
-                "activity_code": "82990",
-                "cpm": "200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "C.C.M. INTERGROUP  LIMITED PARTNERSHIP",
-                "JP_NO": "0403543001601",
-                "JP_TNAME": "ซี.ซี.เอ็ม. อินเตอร์กรุ๊ป",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างถนนสะพานและอุโมงค์",
-                "PARTNER": " นายโกศล ทองดีเขียว",
-                "_id": "0403543001601",
-                "activity_code": "42101",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "SIAM NETWORK INTERNATIONAL  COMPANY  LIMITED",
-                "JP_NO": "0105548010921",
-                "JP_TNAME": "สยาม เน็ทเวิร์ค อินเตอร์เนชั่นแนล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "ร้านขายปลีกเครื่องสำอาง",
-                "PARTNER": " นายโกศล ทองดีเขียว",
-                "_id": "0105548010921",
-                "activity_code": "47723",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "GOLDEN TOP MINING COMPANY LIMITED",
-                "JP_NO": "0425551000245",
-                "JP_TNAME": "โกลเด้นท์ ท๊อป ไมนิ่ง จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งแร่โลหะที่เป็นเหล็กและนอกกลุ่มเหล็ก",
-                "PARTNER": " นายโกศล ทองดีเขียว",
-                "_id": "0425551000245",
-                "activity_code": "46621",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "KORNNISA TRADING 54 LIMITED PARTNERSHIP  ",
-                "JP_NO": "0103554030219",
-                "JP_TNAME": "กรณิศา เทรดดิ้ง 54",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง",
-                "PARTNER": " นายโกศล ทองดีเขียว",
-                "_id": "0103554030219",
-                "activity_code": "92001",
-                "cpm": "500,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "1"
     },
     {
@@ -2627,21 +2547,7 @@
         "memberType": "partylist",
         "name": "จำรัส โสดา",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0105544081068",
-                "JP_TNAME": "ช. ธนชัย เคมิคอล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งเคมีภัณฑ์ทางอุตสาหกรรม",
-                "PARTNER": " นายจำรัส โสดาดี",
-                "_id": "0105544081068",
-                "activity_code": "46691",
-                "cpm": "100,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

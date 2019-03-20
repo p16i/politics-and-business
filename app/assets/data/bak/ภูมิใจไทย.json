@@ -1201,21 +1201,7 @@
         "memberType": "zone",
         "name": "ประพันธ์ ศรีสวัสดิ์",
         "province_name": "ชุมพร",
-        "relatedTo": [
-            {
-                "JP_ENAME": "PREECHA  SRISAWATCHATCHAWAN COMPANY LIMITED",
-                "JP_NO": "0145558002432",
-                "JP_TNAME": "ปรีชา ศรีสวัสดิ์ชัชวาล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การกลึงกัดไสโลหะ",
-                "PARTNER": " นายประพันธ์ ศรีสวัสดิ์ชัชวาล",
-                "_id": "0145558002432",
-                "activity_code": "25922",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "3"
     },
     {
@@ -2852,21 +2838,7 @@
         "memberType": "zone",
         "name": "ศุภชัย โพธิ์สุ",
         "province_name": "นครพนม",
-        "relatedTo": [
-            {
-                "JP_ENAME": "WAWEE NATURE GROUP CO., LTD.",
-                "JP_NO": "0575555000613",
-                "JP_TNAME": "วาวีเนเจอร์ กรุ๊ป จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การผลิตชา",
-                "PARTNER": " นายศุภชัย โพธิ์สุวรรณ",
-                "_id": "0575555000613",
-                "activity_code": "10762",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "1"
     },
     {
@@ -4148,19 +4120,6 @@
         "province_name": "พิษณุโลก",
         "relatedTo": [
             {
-                "JP_ENAME": "KODUNG RACE ARENA HUAHIN COMPANY LIMITED",
-                "JP_NO": "0105557005756",
-                "JP_TNAME": "โกดัง เรซ อารีน่า หัวหิน จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การผลิตเครื่องประดับจากอัญมณีและโลหะมีค่า",
-                "PARTNER": " นายศักดิ์ชัย เดชารัมย์",
-                "_id": "0105557005756",
-                "activity_code": "32111",
-                "cpm": "2,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
                 "JP_ENAME": "NATCHATRUCK LIMITED PARTNERSHIP",
                 "JP_NO": "0653556000282",
                 "JP_TNAME": "ณัชชาทรัค",
@@ -4176,19 +4135,6 @@
                 "totalPriceAgree": 43320.0,
                 "totalPriceBuild": 43320.0,
                 "totalProjects": 4
-            },
-            {
-                "JP_ENAME": "CHOMPHUPUNTIP GROUP (2005) LIMITED PARTNERSHIP",
-                "JP_NO": "0103548019616",
-                "JP_TNAME": "ชมพูพันธุ์ทิพย์ กรุ๊ป (2005)",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการอื่นๆซึ่งมิได้จัด ประเภทไว้ในที่อื่น",
-                "PARTNER": " นายศักดิ์ชัย เดชาประพันธ์",
-                "_id": "0103548019616",
-                "activity_code": "70209",
-                "cpm": "120,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
             }
         ],
         "zone_number": "4"
@@ -5577,21 +5523,7 @@
         "memberType": "zone",
         "name": "นิติธร สมสิทธิ์",
         "province_name": "เชียงราย",
-        "relatedTo": [
-            {
-                "JP_ENAME": "CHEN 2018 LIMITED PARTNERSHIP",
-                "JP_NO": "0353561000905",
-                "JP_TNAME": "เชน 2018",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การซ่อมเครื่องจักรที่ใช้งานทั่วไป",
-                "PARTNER": " นายนิติธร สมสิทธิ์จินตนา",
-                "_id": "0353561000905",
-                "activity_code": "33121",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "1"
     },
     {
@@ -12370,47 +12302,7 @@
         "memberType": "partylist",
         "name": "พัชรี แซ่เจีย",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0615543000035",
-                "JP_TNAME": "สยามนิสสัน อุทัยธานี 2000 จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายยานยนต์ใหม่ชนิดรถยนต์นั่งส่วนบุคคลรถกระบะรถตู้ และรถขนาดเล็กที่คล้ายกัน",
-                "PARTNER": " นางสาวพัชรี แซ่เจียม",
-                "_id": "0615543000035",
-                "activity_code": "45101",
-                "cpm": "10,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            },
-            {
-                "JP_ENAME": "SUZUKI INTER COMPANY LIMITED",
-                "JP_NO": "0605539000379",
-                "JP_TNAME": "ซูซูกิ อินเตอร์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การบำรุงรักษายานยนต์ทั่วไป",
-                "PARTNER": " นางสาวพัชรี แซ่เจียม",
-                "_id": "0605539000379",
-                "activity_code": "45203",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "พิทักษ์ทรัพย์เด็ดขาด"
-            },
-            {
-                "JP_ENAME": "BLUE POINTS COMPUTER CO., LTD.",
-                "JP_NO": "0105544011361",
-                "JP_TNAME": "บลูพอยท์ส คอมพิวเตอร์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "ร้านขายปลีกคอมพิวเตอร์และอุปกรณ์ต่อพ่วงคอมพิวเตอร์",
-                "PARTNER": " นางสาวพัชรี แซ่เจียม",
-                "_id": "0105544011361",
-                "activity_code": "47411",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

@@ -2670,21 +2670,7 @@
         "memberType": "zone",
         "name": "สมนึก มาลัย",
         "province_name": "เชียงราย",
-        "relatedTo": [
-            {
-                "JP_ENAME": "PRINCESS GROUP COMPANY LIMITED",
-                "JP_NO": "0605560001052",
-                "JP_TNAME": "พริ้นเซส กรุ๊ป จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งสินค้าทั่วไปโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
-                "PARTNER": " นายสมนึก มาลัยทอง",
-                "_id": "0605560001052",
-                "activity_code": "46109",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "5"
     },
     {
@@ -3262,21 +3248,7 @@
         "memberType": "zone",
         "name": "สมัย ทองสุ",
         "province_name": "ศรีสะเกษ",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0103523018314",
-                "JP_TNAME": "สามสัมพันธ์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขายส่งเครื่องจักรและอุปกรณ์อื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นางพิสมัย ทองสุโชติ",
-                "_id": "0103523018314",
-                "activity_code": "46599",
-                "cpm": "200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "3"
     },
     {
@@ -3296,21 +3268,7 @@
         "memberType": "zone",
         "name": "สมร ถาวร",
         "province_name": "ศรีสะเกษ",
-        "relatedTo": [
-            {
-                "JP_ENAME": "P S ELECTRIC LIMITED PARTNERSHIP",
-                "JP_NO": "0103549024435",
-                "JP_TNAME": "พี เอส อิเลคตริค",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การซ่อมเครื่องจักรที่ใช้งานเฉพาะอย่าง",
-                "PARTNER": " นางสมร ถาวรกาย",
-                "_id": "0103549024435",
-                "activity_code": "33122",
-                "cpm": "500,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "5"
     },
     {

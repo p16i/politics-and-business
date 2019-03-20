@@ -1459,19 +1459,6 @@
                 "cpm": "1,000,000.00",
                 "jptn": "บริษัทจำกัด",
                 "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "NUTPHUTSORN WATER LIMITED PARTNERSHIP",
-                "JP_NO": "0863554000224",
-                "JP_TNAME": "ณัฐภัสสรน้ำดื่ม",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตน้ำดื่มบริสุทธิ์และน้ำแร่บรรจุขวด",
-                "PARTNER": " นายอนุชาติ จันทร์ทองขาว",
-                "_id": "0863554000224",
-                "activity_code": "11041",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
             }
         ],
         "zone_number": "2"
@@ -2765,19 +2752,6 @@
         "name": "สมพงษ์ โสภณ",
         "province_name": "ระยอง",
         "relatedTo": [
-            {
-                "JP_ENAME": "KRUTHAI EDUCATIONAL MEDIS CORPORATION LIMITED",
-                "JP_NO": "0105530034615",
-                "JP_TNAME": "ครูไทยอุปกรณ์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งหนังสือหนังสือพิมพ์และเครื่องเขียน",
-                "PARTNER": " นายสมพงษ์ โสภณบรรณวิจิตร",
-                "_id": "0105530034615",
-                "activity_code": "46431",
-                "cpm": "500,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            },
             {
                 "JP_ENAME": "PUN SOPHON COMPANY LIMITED",
                 "JP_NO": "0215533000141",
@@ -8880,21 +8854,7 @@
         "memberType": "partylist",
         "name": "วิรัช รัตนเศรษฐ",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0303525000321",
-                "JP_TNAME": "ราชสีมาธุรกิจโฆษณา",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา",
-                "PARTNER": " นายวิรัช รัตนเศรษฐ์",
-                "_id": "0303525000321",
-                "activity_code": "73101",
-                "cpm": "50,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

@@ -1428,34 +1428,7 @@
         "memberType": "zone",
         "name": "จักรพันธ์ มีบุญ",
         "province_name": "พิษณุโลก",
-        "relatedTo": [
-            {
-                "JP_ENAME": "TWOTIME SECURITY GUARD COMPANY LIMITED",
-                "JP_NO": "0105558115474",
-                "JP_TNAME": "รักษาความปลอดภัย  ทูไทม์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมการรักษาความปลอดภัยส่วนบุคคล",
-                "PARTNER": " นายจักรพันธ์ มีบุญไพศาล",
-                "_id": "0105558115474",
-                "activity_code": "80100",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "INTEND  PROTECTION SECURITY GUARD COMPANY LIMITED",
-                "JP_NO": "0105558174179",
-                "JP_TNAME": "รักษาความปลอดภัย อินเทนด์ โปรเทคชั่น  จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมการรักษาความปลอดภัยส่วนบุคคล",
-                "PARTNER": " นายจักรพันธ์ มีบุญไพศาล",
-                "_id": "0105558174179",
-                "activity_code": "80100",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "1"
     },
     {
@@ -2622,21 +2595,7 @@
         "memberType": "zone",
         "name": "อำนาจ นิคม",
         "province_name": "อุดรธานี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "COMMUNICATION AIDS LIMITED PARTNERSHIP",
-                "JP_NO": "0103518013431",
-                "JP_TNAME": "คอมมิวนิเคชั่น เอดส์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมการเผยแพร่ภาพยนตร์วีดิทัศน์และรายการโทรทัศน์",
-                "PARTNER": " นายอำนาจ นิคมรัฐ",
-                "_id": "0103518013431",
-                "activity_code": "59131",
-                "cpm": "127,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "6"
     },
     {

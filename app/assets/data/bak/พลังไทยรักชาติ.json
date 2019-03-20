@@ -264,38 +264,7 @@
         "memberType": "zone",
         "name": "อดุลย์ สาและ",
         "province_name": "ปัตตานี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "LINA PETROLEUM LIMITED PARTNERSHIP",
-                "JP_NO": "0963547000299",
-                "JP_TNAME": "ลีนา ปิโตรเลี่ยม",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขายปลีกเชื้อเพลิงยานยนต์ในร้านค้าเฉพาะ สถานี ปั๊ม",
-                "PARTNER": " นายอดุลย์ สาและเร๊ะ",
-                "_id": "0963547000299",
-                "activity_code": "47300",
-                "avgPriceDiff": 0.0,
-                "cpm": "2,400,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 1175881.0,
-                "totalPriceBuild": 1175881.0,
-                "totalProjects": 53
-            },
-            {
-                "JP_ENAME": "LINA OIL LIMITED PARTNERSHIP",
-                "JP_NO": "0943551000541",
-                "JP_TNAME": "ลีนา ออยล์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขายปลีกเชื้อเพลิงยานยนต์ในร้านค้าเฉพาะ สถานี ปั๊ม",
-                "PARTNER": " นายอดุลย์ สาและเร๊ะ",
-                "_id": "0943551000541",
-                "activity_code": "47300",
-                "cpm": "1,500,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "4"
     },
     {

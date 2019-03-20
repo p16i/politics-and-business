@@ -532,38 +532,7 @@
         "memberType": "zone",
         "name": "สุรศักดิ์ พรมมา",
         "province_name": "ขอนแก่น",
-        "relatedTo": [
-            {
-                "JP_ENAME": "CHIANG RAI P.K.CONSTRUCTION LTD.,PART.",
-                "JP_NO": "0573544001140",
-                "JP_TNAME": "เชียงราย พี.เค. ก่อสร้าง",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
-                "PARTNER": " นายสุรศักดิ์ พรมมาลี",
-                "_id": "0573544001140",
-                "activity_code": "41002",
-                "cpm": "100,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            },
-            {
-                "JP_ENAME": "KAJOHNSAK WATSADUPHUN LIMITED PARTNERSHIP",
-                "JP_NO": "0573548001357",
-                "JP_TNAME": "ขจรศักดิ์ วัสดุภัณฑ์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขายส่งวัสดุก่อสร้างอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นายสุรศักดิ์ พรมมาลี",
-                "_id": "0573548001357",
-                "activity_code": "46639",
-                "avgPriceDiff": 0.0,
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 22152.0,
-                "totalPriceBuild": 22152.0,
-                "totalProjects": 3
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "9"
     },
     {

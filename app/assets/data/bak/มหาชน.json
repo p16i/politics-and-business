@@ -765,45 +765,6 @@
         "province_name": "ปทุมธานี",
         "relatedTo": [
             {
-                "JP_ENAME": "SONGKHLA WOOD PRODUCTS COMPANY LIMITED",
-                "JP_NO": "0905536001703",
-                "JP_TNAME": "สงขลา วู้ดโปรดักส์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การเลื่อยไม้",
-                "PARTNER": " นายอุดม จินดาคำ",
-                "_id": "0905536001703",
-                "activity_code": "16101",
-                "cpm": "150,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ล้มละลาย"
-            },
-            {
-                "JP_ENAME": "METROPOLITAN WATER AND SERVICES CO., LTD.",
-                "JP_NO": "0105540039776",
-                "JP_TNAME": "ประปานครหลวงบริการ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การติดตั้งระบบประปาและระบายน้ำ",
-                "PARTNER": " นายอุดม จินดาสุข",
-                "_id": "0105540039776",
-                "activity_code": "43221",
-                "cpm": "100,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            },
-            {
-                "JP_ENAME": "CHINDASOOK COMMERCIAL REGISTERED ORDINARY PARTNERSHIP",
-                "JP_NO": "0102508000271",
-                "JP_TNAME": "จินดาสุข คอมเมอร์เชียล",
-                "JP_TYPE_CODE": "2",
-                "OBJ_TNAME": "การขายส่งอุปกรณ์การวางท่อและเครื่องสุขภัณฑ์",
-                "PARTNER": " นายอุดม จินดาสุข",
-                "_id": "0102508000271",
-                "activity_code": "46634",
-                "cpm": "8,000,000.00",
-                "jptn": "ห้างหุ้นส่วนสามัญนิติบุคคล",
-                "stn": "เสร็จการชำระบัญชี"
-            },
-            {
                 "JP_ENAME": "TAWATCHAI A LAIYOUN  LIMITED PARTNERSHIP",
                 "JP_NO": "0143549001991",
                 "JP_TNAME": "ธวัชชัย อาหลั่ยยนต์",
@@ -817,19 +778,6 @@
                 "stn": "ยังดำเนินกิจการอยู่"
             },
             {
-                "JP_ENAME": "CHINDASUK CHROMIUM REGISTERED ORDINARY PARTNERSHIP",
-                "JP_NO": "0102503000401",
-                "JP_TNAME": "จินดาสุขโครเมี่ยม",
-                "JP_TYPE_CODE": "2",
-                "OBJ_TNAME": "การขายส่งอุปกรณ์การวางท่อและเครื่องสุขภัณฑ์",
-                "PARTNER": " นายอุดม จินดาสุข",
-                "_id": "0102503000401",
-                "activity_code": "46634",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนสามัญนิติบุคคล",
-                "stn": "ร้าง"
-            },
-            {
                 "JP_ENAME": "NON",
                 "JP_NO": "0203536002771",
                 "JP_TNAME": "เค.อาร์.การ์เด้น",
@@ -841,32 +789,6 @@
                 "cpm": "300,000.00",
                 "jptn": "ห้างหุ้นส่วนจำกัด",
                 "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "KAOW THAVORN CO., LTD.",
-                "JP_NO": "0105523023174",
-                "JP_TNAME": "ก้าวถาวร จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งวัตถุดิบอื่นๆทางการเกษตรซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นายอุดม จินดาสุข",
-                "_id": "0105523023174",
-                "activity_code": "46209",
-                "cpm": "900,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            },
-            {
-                "JP_ENAME": "SONGKHLA WOOD PRODUCTS MARKETING CO., LTD.",
-                "JP_NO": "0905538001158",
-                "JP_TNAME": "สงขลา วู้ดโปรดักส์ มาร์เก็ตติ้ง จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งวัสดุก่อสร้างอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นายอุดม จินดาดำ",
-                "_id": "0905538001158",
-                "activity_code": "46639",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
             }
         ],
         "zone_number": "2"
@@ -1012,51 +934,7 @@
         "memberType": "zone",
         "name": "จารุวรรณ วงศ์พิมล",
         "province_name": "ร้อยเอ็ด",
-        "relatedTo": [
-            {
-                "JP_ENAME": "EYOND GRAPHICS CO., LTD.",
-                "JP_NO": "0835543004560",
-                "JP_TNAME": "บียอนด์ กราฟิคส์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การพิมพ์อื่น ๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นางสาวจารุวรรณ วงศ์พิมลพร",
-                "_id": "0835543004560",
-                "activity_code": "18119",
-                "avgPriceDiff": 0.0,
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 83728.0,
-                "totalPriceBuild": 83728.0,
-                "totalProjects": 2
-            },
-            {
-                "JP_ENAME": "ALL PHUKET TRAVEL CO.,LTD.",
-                "JP_NO": "0835554007778",
-                "JP_TNAME": "ออล ภูเก็ต ทราเวล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "ธุรกิจจัดนำเที่ยว",
-                "PARTNER": " นางสาวจารุวรรณ วงศ์พิมลพร",
-                "_id": "0835554007778",
-                "activity_code": "79120",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "NICE WORLD TRAVEL CO., LTD.",
-                "JP_NO": "0905544001466",
-                "JP_TNAME": "ไนซ์เวิลด์ ทราเวล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมบริการสำรองอื่นๆและกิจกรรมที่เกี่ยวข้องซึ่งมิได้ จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นางสาวจารุวรรณ วงศ์พิมลพร",
-                "_id": "0905544001466",
-                "activity_code": "79909",
-                "cpm": "2,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "3"
     },
     {
@@ -1630,55 +1508,7 @@
         "memberType": "zone",
         "name": "ศิริพร นันตา",
         "province_name": "เชียงใหม่",
-        "relatedTo": [
-            {
-                "JP_ENAME": "SBM ENTERPRICE CO., LTD.",
-                "JP_NO": "0395543000020",
-                "JP_TNAME": "เอสบีเอ็ม เอ็นเตอร์ไพร์ส (2000) จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมการบริการอื่นๆเพื่อสนับสนุนธุรกิจซึ่งมิได้จัดประเภทไว้ ในที่อื่น",
-                "PARTNER": " นางสาวศิริพร นันตาวงศ์",
-                "_id": "0395543000020",
-                "activity_code": "82990",
-                "cpm": "3,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "NANTA ADVERTISING COMPANY LIMITED",
-                "JP_NO": "0505557003008",
-                "JP_TNAME": "นันตาแอดเวอร์ไทซิ่ง จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "ร้านขายปลีกเครื่องเขียนและเครื่องใช้สำนักงาน",
-                "PARTNER": " นางสาวศิริพร นันตาวรัตน์",
-                "_id": "0505557003008",
-                "activity_code": "47612",
-                "avgPriceDiff": -0.02173518770722981,
-                "cpm": "500,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 7157900.0,
-                "totalPriceBuild": 7437000.0,
-                "totalProjects": 7
-            },
-            {
-                "JP_ENAME": "PHROM DESIGN AND CONSTRUCTION COMPANY LIMITED",
-                "JP_NO": "0505556002016",
-                "JP_TNAME": "พรหม ดีไซน์ แอนด์ คอนสตรัคชั่น  จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมด้านความบันเทิง",
-                "PARTNER": " นางสาวศิริพร นันตาวรัตน์",
-                "_id": "0505556002016",
-                "activity_code": "90002",
-                "avgPriceDiff": -0.12179443708511564,
-                "cpm": "500,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "เลิก",
-                "totalPriceAgree": 9057500.0,
-                "totalPriceBuild": 10010000.0,
-                "totalProjects": 4
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "6"
     },
     {
@@ -1758,47 +1588,7 @@
         "memberType": "zone",
         "name": "สมพร จินดา",
         "province_name": "ขอนแก่น",
-        "relatedTo": [
-            {
-                "JP_ENAME": "DAW KORN LIMITED PARTNERSHIP",
-                "JP_NO": "0563546000604",
-                "JP_TNAME": "ดาวควร",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตสุรากลั่น",
-                "PARTNER": " นางสมพร จินดากาศ",
-                "_id": "0563546000604",
-                "activity_code": "11011",
-                "cpm": "150,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "P.N.C.PATTANAKIT COMPANY LIMITED",
-                "JP_NO": "0825556000479",
-                "JP_TNAME": "พี.เอ็น.ซี.พัฒน์ธนกิจ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งสินค้าทั่วไป",
-                "PARTNER": " นายสมพร จินดาศิริพันธ์",
-                "_id": "0825556000479",
-                "activity_code": "46900",
-                "cpm": "500,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "HUPSIANG MEDIA ENTERTAINMENT GROUP COMPANY LIMITED",
-                "JP_NO": "0825552000032",
-                "JP_TNAME": "ฮับเสียง มีเดีย เอ็นเตอร์เทนเม้นต์ กรุ๊ป จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การออกอากาศทางวิทยุกระจายเสียง (ยกเว้นทางออนไลน์)",
-                "PARTNER": " นายสมพร จินดาศิริพันธ์",
-                "_id": "0825552000032",
-                "activity_code": "60101",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "5"
     },
     {
@@ -2700,19 +2490,6 @@
                 "stn": "ยังดำเนินกิจการอยู่"
             },
             {
-                "JP_ENAME": "AMENITIQUE INTERNATIONAL COMPANY LIMITED",
-                "JP_NO": "0105537105381",
-                "JP_TNAME": "เอส เค เอส แอสเซท พลัส  จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การบริการด้านการจัดเลี้ยง",
-                "PARTNER": " นายสุปกิจ คชเสนีย์",
-                "_id": "0105537105381",
-                "activity_code": "56210",
-                "cpm": "30,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
                 "JP_ENAME": "WSG CO.,LTD.",
                 "JP_NO": "0105555132203",
                 "JP_TNAME": "ดับเบิลยูเอสจี จำกัด",
@@ -2765,19 +2542,6 @@
                 "_id": "0105538026841",
                 "activity_code": "68103",
                 "cpm": "54,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "TRIO TECHNOLOGIES AND SERVICES COMPANY LIMITED",
-                "JP_NO": "0105547132305",
-                "JP_TNAME": "ทรีโอ เทคโนโลยี่ส์ แอนด์ เซอร์วิส จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "ร้านขายปลีกคอมพิวเตอร์และอุปกรณ์ต่อพ่วงคอมพิวเตอร์",
-                "PARTNER": " นายสุปกิจ คชเสนีย์",
-                "_id": "0105547132305",
-                "activity_code": "47411",
-                "cpm": "1,000,000.00",
                 "jptn": "บริษัทจำกัด",
                 "stn": "ยังดำเนินกิจการอยู่"
             }
