@@ -1,1 +1,322 @@
-[{"name": "ณรงค์ ศิริมุสิกะ", "desc": "ส.ส. เขต (พัทลุง เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/93/3/5f1cab47-0fad-49a0-872a-0f77d35c57b0.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "พัทลุง", "zone_number": "3", "relatedTo": []}, {"name": "บุญรอด นิลไชย", "desc": "ส.ส. เขต (ยโสธร เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/35/1/6423de9c-613c-4384-bd23-a2747c2523bb.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ยโสธร", "zone_number": "1", "relatedTo": []}, {"name": "นิธิมา โพธิผล", "desc": "ส.ส. เขต (หนองบัวลำภู เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/39/1/4f473b52-fe52-4de0-b43d-658d30e1889b.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "หนองบัวลำภู", "zone_number": "1", "relatedTo": []}, {"name": "สะหวั่น แสนเหลา", "desc": "ส.ส. เขต (หนองบัวลำภู เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/39/2/0b96ee32-609a-455c-b2a5-8ac146216906.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "หนองบัวลำภู", "zone_number": "2", "relatedTo": []}, {"name": "อัครวารี บุญศรีสิริเมธากุล", "desc": "ส.ส. เขต (พระนครศรีอยุธยา เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/14/1/1e3e8197-2b41-4f81-a516-085f8a05485f.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "พระนครศรีอยุธยา", "zone_number": "1", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "THAI BL ENGINEERING COMPANY LIMITED", "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ", "_id": "0145557000231", "JP_TNAME": "ไทย บีแอล เอ็นจิเนียริ่ง จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0145557000231", "PARTNER": " นายอัครวารี บุญศรีสิริเมธากุล", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "47524"}]}, {"name": "ดวงใจ บุตรคำโชติ", "desc": "ส.ส. เขต (มหาสารคาม เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/44/5/81496c6f-ba22-4851-8c08-40b534884a71.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "มหาสารคาม", "zone_number": "5", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "LANGUAGE  CENTER LIMITED PARTNERSHIP", "OBJ_TNAME": "กิจกรรมของสำนักงานจัดหางานหรือตัวแทนจัดหางานอื่นๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0443556001817", "JP_TNAME": "แลงเกว็จ  เซ็นเตอร์", "JP_TYPE_CODE": "3", "JP_NO": "0443556001817", "PARTNER": " นางดวงใจ บุตรคำโชติ", "cpm": "100,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "78109"}]}, {"name": "กชพร เบ้าลี", "desc": "ส.ส. เขต (ชัยภูมิ เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/36/1/ab5e1c74-8d6c-454c-b618-d6f540f5153f.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": "1", "relatedTo": []}, {"name": "รัชนก ชวดชัยภูมิ", "desc": "ส.ส. เขต (ชัยภูมิ เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/36/2/cd006616-db3a-40b5-98b4-9ac3c63168cd.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": "2", "relatedTo": []}, {"name": "ณภัทร ละแมนชัย", "desc": "ส.ส. เขต (ชัยภูมิ เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/36/3/d57cce8b-17c3-408f-bea5-3763c37fd2a8.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": "3", "relatedTo": []}, {"name": "นิตยา มะโนชัย", "desc": "ส.ส. เขต (ชัยภูมิ เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/36/4/fa1ce5d9-f197-4e02-828c-22f4da7d5474.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": "4", "relatedTo": []}, {"name": "กิติพร เศรษฐภูมิภักดี", "desc": "ส.ส. เขต (ชัยภูมิ เขต 6)", "image": "http://202.6.26.16/images/candidate/thumb/36/6/6a37daad-78aa-4ec5-80f6-3df4d0e23084.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": "6", "relatedTo": []}, {"name": "สงวน ศรีขัดเค้า", "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/45/1/a41780da-bcb4-41db-bcbd-d48835dbc37a.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ร้อยเอ็ด", "zone_number": "1", "relatedTo": []}, {"name": "คำภู เนตรวงษ์", "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/45/2/8b1bd47d-ca2c-4aed-9f67-a06b21047d45.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ร้อยเอ็ด", "zone_number": "2", "relatedTo": []}, {"name": "สวัสดิ์ นาเหนือ", "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/45/5/17057290-26c8-41ca-ac5b-4f2dcbc27aa6.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "ร้อยเอ็ด", "zone_number": "5", "relatedTo": []}, {"name": "สิงห์ ละอองศรี", "desc": "ส.ส. เขต (สุรินทร์ เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/32/4/6e1c835a-6e1a-463b-b8e3-85d19485f2c7.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": "4", "relatedTo": []}, {"name": "สมเป็นญาติ ตอนขันทอง", "desc": "ส.ส. เขต (สุรินทร์ เขต 7)", "image": "http://202.6.26.16/images/candidate/thumb/32/7/77a346c2-93b0-497e-8d44-9a7afe985d90.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": "7", "relatedTo": []}, {"name": "พิเชษฐ์ ภูแก้ว", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)", "image": "http://202.6.26.16/images/candidate/thumb/00/88/13234144-0e26-4ea2-8d1b-e195100a79f3.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0325558000454", "JP_TNAME": "ภูทองคำ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0325558000454", "PARTNER": " นายพิเชษฐ์ ภูแก้ว", "cpm": "5,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "41002", "totalProjects": 1, "totalPriceBuild": 50000.0, "totalPriceAgree": 48500.0, "avgPriceDiff": -0.03}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "FARMPUTONGCHUM LIMITED PARTNERSHIP", "OBJ_TNAME": "การเลี้ยงไก่เนื้อ", "_id": "0323546000053", "JP_TNAME": "ฟาร์มภูทองคำ", "JP_TYPE_CODE": "3", "JP_NO": "0323546000053", "PARTNER": " นายพิเชษฐ์ ภูแก้ว", "cpm": "400,000.00", "stn": "ร้าง", "activity_code": "01462"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "SUPANRIN COMPANY LIMITED", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0325559000831", "JP_TNAME": "สุพรรณรินทร์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0325559000831", "PARTNER": " นายพิเชษฐ์ ภูแก้ว", "cpm": "5,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "41002"}]}, {"name": "บุญถม ธรรมศิริ", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)", "image": "http://202.6.26.16/images/candidate/thumb/00/88/87bd4b09-5e9b-41fe-b940-8f6ab5e5383a.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "สัญจร ระดาไสย", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)", "image": "http://202.6.26.16/images/candidate/thumb/00/88/3b337d5f-2a65-467b-b81f-b1ca7ec38269.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "สำราญ บุตรคำโชติ", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)", "image": "http://202.6.26.16/images/candidate/thumb/00/88/2a34d379-1ac8-4764-84df-4ca6747f166a.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "LANGUAGE  CENTER LIMITED PARTNERSHIP", "OBJ_TNAME": "กิจกรรมของสำนักงานจัดหางานหรือตัวแทนจัดหางานอื่นๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0443556001817", "JP_TNAME": "แลงเกว็จ  เซ็นเตอร์", "JP_TYPE_CODE": "3", "JP_NO": "0443556001817", "PARTNER": " นายสำราญ บุตรคำโชติ", "cpm": "100,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "78109"}]}, {"name": "สนั่น เสียงสนั่น", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)", "image": "http://202.6.26.16/images/candidate/thumb/00/88/a1ad204d-152f-43e2-ae24-f12180fc5edd.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "APIBOONSANAN DEVELOPMENT QUALITY LIMITED PARTNERSHIP", "OBJ_TNAME": "การผลิตผลิตภัณฑ์จากพืชและสัตว์ที่ใช้รักษาโรค", "_id": "0133556009420", "JP_TNAME": "อภิบุญสนั่น พัฒนาคุณภาพ", "JP_TYPE_CODE": "3", "JP_NO": "0133556009420", "PARTNER": " นายสนั่น เสียงสนั่น", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "21002"}]}, {"name": "ทองดา โรเด", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)", "image": "http://202.6.26.16/images/candidate/thumb/00/88/2e77592d-9a5a-41d7-8f5d-37051f57c421.jpg", "PartyName": "พลังแรงงานไทย", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}]
+[
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (พัทลุง เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/3/5f1cab47-0fad-49a0-872a-0f77d35c57b0.jpg",
+        "memberType": "zone",
+        "name": "ณรงค์ ศิริมุสิกะ",
+        "province_name": "พัทลุง",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ยโสธร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/35/1/6423de9c-613c-4384-bd23-a2747c2523bb.jpg",
+        "memberType": "zone",
+        "name": "บุญรอด นิลไชย",
+        "province_name": "ยโสธร",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/1/4f473b52-fe52-4de0-b43d-658d30e1889b.jpg",
+        "memberType": "zone",
+        "name": "นิธิมา โพธิผล",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/2/0b96ee32-609a-455c-b2a5-8ac146216906.jpg",
+        "memberType": "zone",
+        "name": "สะหวั่น แสนเหลา",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (พระนครศรีอยุธยา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/14/1/1e3e8197-2b41-4f81-a516-085f8a05485f.jpg",
+        "memberType": "zone",
+        "name": "อัครวารี บุญศรีสิริเมธากุล",
+        "province_name": "พระนครศรีอยุธยา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "THAI BL ENGINEERING COMPANY LIMITED",
+                "JP_NO": "0145557000231",
+                "JP_TNAME": "ไทย บีแอล เอ็นจิเนียริ่ง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ",
+                "PARTNER": " นายอัครวารี บุญศรีสิริเมธากุล",
+                "_id": "0145557000231",
+                "activity_code": "47524",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (มหาสารคาม เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/44/5/81496c6f-ba22-4851-8c08-40b534884a71.jpg",
+        "memberType": "zone",
+        "name": "ดวงใจ บุตรคำโชติ",
+        "province_name": "มหาสารคาม",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LANGUAGE  CENTER LIMITED PARTNERSHIP",
+                "JP_NO": "0443556001817",
+                "JP_TNAME": "แลงเกว็จ  เซ็นเตอร์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของสำนักงานจัดหางานหรือตัวแทนจัดหางานอื่นๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นางดวงใจ บุตรคำโชติ",
+                "_id": "0443556001817",
+                "activity_code": "78109",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/1/ab5e1c74-8d6c-454c-b618-d6f540f5153f.jpg",
+        "memberType": "zone",
+        "name": "กชพร เบ้าลี",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/2/cd006616-db3a-40b5-98b4-9ac3c63168cd.jpg",
+        "memberType": "zone",
+        "name": "รัชนก ชวดชัยภูมิ",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/3/d57cce8b-17c3-408f-bea5-3763c37fd2a8.jpg",
+        "memberType": "zone",
+        "name": "ณภัทร ละแมนชัย",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/4/fa1ce5d9-f197-4e02-828c-22f4da7d5474.jpg",
+        "memberType": "zone",
+        "name": "นิตยา มะโนชัย",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/6/6a37daad-78aa-4ec5-80f6-3df4d0e23084.jpg",
+        "memberType": "zone",
+        "name": "กิติพร เศรษฐภูมิภักดี",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/1/a41780da-bcb4-41db-bcbd-d48835dbc37a.jpg",
+        "memberType": "zone",
+        "name": "สงวน ศรีขัดเค้า",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/2/8b1bd47d-ca2c-4aed-9f67-a06b21047d45.jpg",
+        "memberType": "zone",
+        "name": "คำภู เนตรวงษ์",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/5/17057290-26c8-41ca-ac5b-4f2dcbc27aa6.jpg",
+        "memberType": "zone",
+        "name": "สวัสดิ์ นาเหนือ",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/4/6e1c835a-6e1a-463b-b8e3-85d19485f2c7.jpg",
+        "memberType": "zone",
+        "name": "สิงห์ ละอองศรี",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/7/77a346c2-93b0-497e-8d44-9a7afe985d90.jpg",
+        "memberType": "zone",
+        "name": "สมเป็นญาติ ตอนขันทอง",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/88/13234144-0e26-4ea2-8d1b-e195100a79f3.jpg",
+        "memberType": "partylist",
+        "name": "พิเชษฐ์ ภูแก้ว",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "",
+                "JP_NO": "0325558000454",
+                "JP_TNAME": "ภูทองคำ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายพิเชษฐ์ ภูแก้ว",
+                "_id": "0325558000454",
+                "activity_code": "41002",
+                "avgPriceDiff": -0.03,
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 48500.0,
+                "totalPriceBuild": 50000.0,
+                "totalProjects": 1
+            },
+            {
+                "JP_ENAME": "FARMPUTONGCHUM LIMITED PARTNERSHIP",
+                "JP_NO": "0323546000053",
+                "JP_TNAME": "ฟาร์มภูทองคำ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การเลี้ยงไก่เนื้อ",
+                "PARTNER": " นายพิเชษฐ์ ภูแก้ว",
+                "_id": "0323546000053",
+                "activity_code": "01462",
+                "cpm": "400,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "SUPANRIN COMPANY LIMITED",
+                "JP_NO": "0325559000831",
+                "JP_TNAME": "สุพรรณรินทร์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายพิเชษฐ์ ภูแก้ว",
+                "_id": "0325559000831",
+                "activity_code": "41002",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/88/87bd4b09-5e9b-41fe-b940-8f6ab5e5383a.jpg",
+        "memberType": "partylist",
+        "name": "บุญถม ธรรมศิริ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/88/3b337d5f-2a65-467b-b81f-b1ca7ec38269.jpg",
+        "memberType": "partylist",
+        "name": "สัญจร ระดาไสย",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/88/2a34d379-1ac8-4764-84df-4ca6747f166a.jpg",
+        "memberType": "partylist",
+        "name": "สำราญ บุตรคำโชติ",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LANGUAGE  CENTER LIMITED PARTNERSHIP",
+                "JP_NO": "0443556001817",
+                "JP_TNAME": "แลงเกว็จ  เซ็นเตอร์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของสำนักงานจัดหางานหรือตัวแทนจัดหางานอื่นๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายสำราญ บุตรคำโชติ",
+                "_id": "0443556001817",
+                "activity_code": "78109",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/88/a1ad204d-152f-43e2-ae24-f12180fc5edd.jpg",
+        "memberType": "partylist",
+        "name": "สนั่น เสียงสนั่น",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "APIBOONSANAN DEVELOPMENT QUALITY LIMITED PARTNERSHIP",
+                "JP_NO": "0133556009420",
+                "JP_TNAME": "อภิบุญสนั่น พัฒนาคุณภาพ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตผลิตภัณฑ์จากพืชและสัตว์ที่ใช้รักษาโรค",
+                "PARTNER": " นายสนั่น เสียงสนั่น",
+                "_id": "0133556009420",
+                "activity_code": "21002",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังแรงงานไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/88/2e77592d-9a5a-41d7-8f5d-37051f57c421.jpg",
+        "memberType": "partylist",
+        "name": "ทองดา โรเด",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    }
+]

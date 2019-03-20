@@ -1,1 +1,1329 @@
-[{"name": "ขจรศักดิ์ เครือยศ", "desc": "ส.ส. เขต (พังงา เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/82/1/ec8098fd-ca12-4c73-bb17-cdd8e262ed06.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "พังงา", "zone_number": "1", "relatedTo": []}, {"name": "เสส มรรคาเขต", "desc": "ส.ส. เขต (สตูล เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/91/1/ef3e3e3a-1850-4d5f-834c-2d6e44912486.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สตูล", "zone_number": "1", "relatedTo": []}, {"name": "ยากาศ บิลหมัด", "desc": "ส.ส. เขต (สตูล เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/91/2/d4b3e10d-b668-4cff-92c8-aa12e5b139bc.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สตูล", "zone_number": "2", "relatedTo": []}, {"name": "ประดิษฐ์ ขำขาว", "desc": "ส.ส. เขต (ชุมพร เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/86/2/90366e18-15c1-48b1-80a2-5da6305e88cd.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ชุมพร", "zone_number": "2", "relatedTo": []}, {"name": "ธนัตถ์ อนันต์", "desc": "ส.ส. เขต (ตรัง เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/92/1/d6addc24-3f50-4583-8bfb-6fb806347809.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ตรัง", "zone_number": "1", "relatedTo": []}, {"name": "ประดิษฐ์ จันทร์สง", "desc": "ส.ส. เขต (ตรัง เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/92/2/aed3e240-9e5f-44b7-ae33-57f765c45065.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ตรัง", "zone_number": "2", "relatedTo": []}, {"name": "อวิรุทธิ์ กิ้มเท่ง", "desc": "ส.ส. เขต (ตรัง เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/92/3/685ff319-e525-4637-8b3d-9c4597036cc3.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ตรัง", "zone_number": "3", "relatedTo": []}, {"name": "สมเสริม ชูรักษ์", "desc": "ส.ส. เขต (พัทลุง เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/93/1/82333145-c333-4fe2-b331-70dd43d19701.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "พัทลุง", "zone_number": "1", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "LOMA IRRAWADDY LIMITED PARTNERSHIP", "OBJ_TNAME": "การเช่าและการดำเนินการเกี่ยวกับอสังหาริมทรัพย์ที่เป็น ของตนเองหรือเช่าจากผู้อื่นเพื่อเป็นที่พักอาศัย", "_id": "0933560000019", "JP_TNAME": "โลมาอิรวดี", "JP_TYPE_CODE": "3", "JP_NO": "0933560000019", "PARTNER": " นายสมเสริม ชูรักษ์", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "68103"}]}, {"name": "พิสิฐ จงเจตน์", "desc": "ส.ส. เขต (พัทลุง เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/93/2/3f9cd3da-a2fc-4139-9135-9ab6d91d6a37.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "พัทลุง", "zone_number": "2", "relatedTo": []}, {"name": "ภคพล แสงอุบล", "desc": "ส.ส. เขต (พัทลุง เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/93/3/014d9e66-d8d9-4a94-a12b-333382b36204.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "พัทลุง", "zone_number": "3", "relatedTo": []}, {"name": "บือราเฮง หะยีหะมะ", "desc": "ส.ส. เขต (ยะลา เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/95/1/a789fae5-4b1f-4ca1-abdf-8f43c1e3e086.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ยะลา", "zone_number": "1", "relatedTo": []}, {"name": "นิมะตอเฮ วิชา", "desc": "ส.ส. เขต (ยะลา เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/95/2/8b4b382c-cf6b-4d6a-adc1-f64d637af2b7.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ยะลา", "zone_number": "2", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "ORIGINA(THAILAND) COMPANY LIMITED", "OBJ_TNAME": "การขายส่งอาหารเครื่องดื่มและยาสูบโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง", "_id": "0955560000479", "JP_TNAME": "ออริจินา(ไทยแลนด์) จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0955560000479", "PARTNER": " นายนิมะตอเฮ วิชา", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46102"}]}, {"name": "มะรูดิน กระโด", "desc": "ส.ส. เขต (ยะลา เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/95/3/f81050b5-04f2-4499-9cac-e789a4bff9fc.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ยะลา", "zone_number": "3", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "SITTAWEE KARNYOTA LIMITED PARTNERSHIP", "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ", "_id": "0103557005169", "JP_TNAME": "สิทธวีร์การโยธา", "JP_TYPE_CODE": "3", "JP_NO": "0103557005169", "PARTNER": " นายมะรูดิน กระโด", "cpm": "5,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "47524"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "NUDINPARA LIMITED PARTNERSHIP", "OBJ_TNAME": "การขายส่งยางพาราและพลาสติกขั้นต้น", "_id": "0953558000040", "JP_TNAME": "นูดินพารา", "JP_TYPE_CODE": "3", "JP_NO": "0953558000040", "PARTNER": " นายมะรูดิน กระโด", "cpm": "1,000,000.00", "stn": "เลิก", "activity_code": "46693"}]}, {"name": "อิบรอเฮ็ม บินมามะ", "desc": "ส.ส. เขต (นราธิวาส เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/96/1/8fccb6da-def1-4a1b-8a26-de81ad2041f2.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นราธิวาส", "zone_number": "1", "relatedTo": []}, {"name": "มะหามัด ฮามิ", "desc": "ส.ส. เขต (นราธิวาส เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/96/2/56e0982b-9a9f-444d-8b92-f29288b934b0.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นราธิวาส", "zone_number": "2", "relatedTo": []}, {"name": "พิเศรษฐ์ สงนาวา", "desc": "ส.ส. เขต (นราธิวาส เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/96/3/a8543aa1-4b9d-4b64-b794-5a821e9d6a4e.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นราธิวาส", "zone_number": "3", "relatedTo": []}, {"name": "สุวิชช์ ศรีสุวรรณ", "desc": "ส.ส. เขต (นราธิวาส เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/96/4/7ad0787e-abe2-4b3b-a260-2e3a085f5534.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นราธิวาส", "zone_number": "4", "relatedTo": []}, {"name": "บัญญัติ มะเด็ง", "desc": "ส.ส. เขต (ปัตตานี เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/94/1/b69e4d46-2dd9-412f-8a88-b4990e537812.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ปัตตานี", "zone_number": "1", "relatedTo": []}, {"name": "อนุวัตร ดอเลาะเซาะ", "desc": "ส.ส. เขต (ปัตตานี เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/94/2/70b2c20b-8f88-4edc-aaf7-d2e622ff53fb.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ปัตตานี", "zone_number": "2", "relatedTo": []}, {"name": "เจะดิง ดาเล็ง", "desc": "ส.ส. เขต (ปัตตานี เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/94/3/541b4f93-488f-45ad-9cc4-ddf503cdf11c.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ปัตตานี", "zone_number": "3", "relatedTo": []}, {"name": "ยูโซะ หามะ", "desc": "ส.ส. เขต (ปัตตานี เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/94/4/5b89be81-c40e-41c1-b567-a63030ab4b13.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "ปัตตานี", "zone_number": "4", "relatedTo": []}, {"name": "ณัฐทิตา ทองช่วย", "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/84/1/a6e26408-f4b2-45a9-b126-085b46722f62.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สุราษฎร์ธานี", "zone_number": "1", "relatedTo": []}, {"name": "สิทธิชัย สุวรรณดวง", "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/84/2/63e062b8-d569-449a-8503-e219e8babe20.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สุราษฎร์ธานี", "zone_number": "2", "relatedTo": []}, {"name": "อวยชัย สมัยชูเกียรติ", "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/84/3/fef7f909-db35-4830-b6ce-8edbe8697586.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สุราษฎร์ธานี", "zone_number": "3", "relatedTo": []}, {"name": "พรหมพชร นาเมือง", "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/84/4/5be81da7-45fa-4713-90e7-e10d8446dc04.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สุราษฎร์ธานี", "zone_number": "4", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "NITICHAIPACHARA LAW OFFICE (2005) CO.,LTD.", "OBJ_TNAME": "กิจกรรมทางกฎหมาย", "_id": "0845548003839", "JP_TNAME": "สำนักกฎหมายนิติชัยพชร (2005) จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0845548003839", "PARTNER": " นายพรหมพชร นาเมือง", "cpm": "1,000,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "69100"}]}, {"name": "มนต์ชัย วรรณโชติ", "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/84/5/a6acabdd-13e4-4b58-9b7a-48a5bf993007.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สุราษฎร์ธานี", "zone_number": "5", "relatedTo": []}, {"name": "ปัญญา เผือกภูมิ", "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 6)", "image": "http://202.6.26.16/images/candidate/thumb/84/6/80662f88-07d9-43f1-be3f-7be87b5b20f8.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สุราษฎร์ธานี", "zone_number": "6", "relatedTo": []}, {"name": "ภิญโญ ชูสุวรรณ์", "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/80/1/cfbaf8e3-f6da-4248-9171-1a69356c81b6.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นครศรีธรรมราช", "zone_number": "1", "relatedTo": []}, {"name": "รัชนีวรรณ อินทร์สุวรรณ", "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/80/2/65b3a14b-9d13-4fdc-bbad-11c1912be113.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นครศรีธรรมราช", "zone_number": "2", "relatedTo": []}, {"name": "สุธรรม โฉมทอง", "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/80/4/d2458534-c3ae-4b87-b496-f3190ae9a6fa.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นครศรีธรรมราช", "zone_number": "4", "relatedTo": []}, {"name": "กันตพงศ์ พิบูลย์", "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/80/5/681bc6e4-6101-4ab8-9d94-b6a9ad069f5c.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นครศรีธรรมราช", "zone_number": "5", "relatedTo": []}, {"name": "เสริมศักดิ์ จโนภาส", "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 7)", "image": "http://202.6.26.16/images/candidate/thumb/80/7/d878e824-cd7b-451f-bbf6-c414475f9ead.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นครศรีธรรมราช", "zone_number": "7", "relatedTo": []}, {"name": "อนันต์ ตักเตือน", "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 8)", "image": "http://202.6.26.16/images/candidate/thumb/80/8/f4b7106f-0307-4f5e-8a6b-382303bf6bd5.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "นครศรีธรรมราช", "zone_number": "8", "relatedTo": []}, {"name": "ศักดา แก้วมณี", "desc": "ส.ส. เขต (สงขลา เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/90/1/468cec17-d1a6-4d79-8ea9-f49b1d7a4004.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "1", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "SONGKHLA FORKLIFT LIMITED PARTNERSHIP", "OBJ_TNAME": "การขายยานยนต์ใหม่ชนิดรถยนต์นั่งส่วนบุคคลรถกระบะรถตู้ และรถขนาดเล็กที่คล้ายกัน", "_id": "0903556002169", "JP_TNAME": "สงขลาโฟร์คลิฟท์", "JP_TYPE_CODE": "3", "JP_NO": "0903556002169", "PARTNER": " นายศักดา แก้วมณี", "cpm": "100,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "45101"}]}, {"name": "จำแลง มงคลนิสภกุล", "desc": "ส.ส. เขต (สงขลา เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/90/2/39e12015-64ae-46dd-a9f4-708d5c230626.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "2", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "C.F. PHUKET TOUR AND LAW COMPANY LIMITED", "OBJ_TNAME": "การขนส่งผู้โดยสารทางรถโดยสารประจำทางอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0835546002380", "JP_TNAME": "ซีเอฟภูเก็ตการท่องเที่ยวและกฎหมาย จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0835546002380", "PARTNER": " นายจำแลง มงคลนิสภกุล", "cpm": "2,000,000.00", "stn": "ร้าง", "activity_code": "49209"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "NON", "OBJ_TNAME": "การบำรุงรักษาและการซ่อมระบบเครื่องยนต์และชิ้นส่วนยานยนต์", "_id": "0903539000331", "JP_TNAME": "เกาะหมียานยนต์", "JP_TYPE_CODE": "3", "JP_NO": "0903539000331", "PARTNER": " นายจำแลง มงคลนิสภกุล", "cpm": "550,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "45201"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "NON", "OBJ_TNAME": "การขายส่งอาหารเครื่องดื่มและยาสูบโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง", "_id": "0903539000960", "JP_TNAME": "เจ.วี.เจ กรุ๊ป", "JP_TYPE_CODE": "3", "JP_NO": "0903539000960", "PARTNER": " นายจำแลง มงคลนิสภกุล", "cpm": "400,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "46102"}]}, {"name": "กิตติโชติ เถี้ยมดำ", "desc": "ส.ส. เขต (สงขลา เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/90/3/a9ab99fe-9d55-4d73-8daf-fbbb74aeb2ef.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "3", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "CHITRA FURNITURE", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0103535046695", "JP_TNAME": "จิตรา เฟอร์นิเจอร์", "JP_TYPE_CODE": "3", "JP_NO": "0103535046695", "PARTNER": " นายกิตติโชติ เถี้ยมดำ", "cpm": "300,000.00", "stn": "ร้าง", "activity_code": "41002"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "111 FURNITURE COMPANY LIMITED", "OBJ_TNAME": "กิจกรรมการออกแบบและตกแต่งภายใน", "_id": "0115539007131", "JP_TNAME": "111 เฟอร์นิเจอร์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0115539007131", "PARTNER": " นายกิตติโชติ เถี้ยมดำ", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "74101"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "TASA-AN FURNITURE & CONSTRUCTION LIMITED PARTNERSHIP", "OBJ_TNAME": "การผลิตเฟอร์นิเจอร์ที่ทำจากวัสดุอื่นๆ (ยกเว้น หิน คอนกรีต หรือเซรามิก)", "_id": "0903550000016", "JP_TNAME": "ท่าสะอ้าน เฟอร์นิเจอร์และก่อสร้าง", "JP_TYPE_CODE": "3", "JP_NO": "0903550000016", "PARTNER": " นายกิตติโชติ เถี้ยมดำ", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "31009"}]}, {"name": "นิคม อยู่ทอง", "desc": "ส.ส. เขต (สงขลา เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/90/4/3653c97f-56b1-4b06-a368-3200686f3b79.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "4", "relatedTo": []}, {"name": "สุภัทร ภัทรนิตย์", "desc": "ส.ส. เขต (สงขลา เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/90/5/a49b2db6-7f94-480d-8932-84c0accccc27.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "5", "relatedTo": []}, {"name": "จะเด็ด เหมโกทวีทรัพย์", "desc": "ส.ส. เขต (สงขลา เขต 6)", "image": "http://202.6.26.16/images/candidate/thumb/90/6/a24fd462-cb6f-4073-9055-1e0963e58f18.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "6", "relatedTo": []}, {"name": "อรพินท์ แก้วศรี", "desc": "ส.ส. เขต (สงขลา เขต 7)", "image": "http://202.6.26.16/images/candidate/thumb/90/7/384af61c-876a-4c24-b690-db680a07a3be.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "7", "relatedTo": []}, {"name": "พิมพ์ภินันท์ บูเอียด", "desc": "ส.ส. เขต (สงขลา เขต 8)", "image": "http://202.6.26.16/images/candidate/thumb/90/8/e4bc92ea-2754-4515-9f12-3a7c8b769453.jpg", "PartyName": "เพื่อธรรม", "memberType": "zone", "province_name": "สงขลา", "zone_number": "8", "relatedTo": []}, {"name": "นลินี ทวีสิน", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/c275e03b-b9ae-493e-a60b-349c99184d7f.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "SUCCESS BUSPORTATION CO., LTD.", "OBJ_TNAME": "การขนส่งผู้โดยสารทางบกอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0105545091245", "JP_TNAME": "ซัคเซส ปัสพอร์เทชั่น จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105545091245", "PARTNER": " นางนลินี ทวีสิน", "cpm": "1,000,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "49329"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "SUCCESS DIRECT SALES CO., LTD.", "OBJ_TNAME": "กิจกรรมการเผยแพร่ภาพยนตร์วีดิทัศน์และรายการโทรทัศน์", "_id": "0105536059482", "JP_TNAME": "ซัคเซส ไดเรค เซลส์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105536059482", "PARTNER": " นางนลินี ทวีสิน", "cpm": "1,000,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "59131"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "NON", "OBJ_TNAME": "กิจกรรมการบริการอื่นๆเพื่อสนับสนุนธุรกิจซึ่งมิได้จัดประเภทไว้ ในที่อื่น", "_id": "0105534086857", "JP_TNAME": "ดูนามิส ยูนิ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105534086857", "PARTNER": " นางนลินี ทวีสิน", "cpm": "1,000,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "82990"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "GREEN LIVING INTEGRATION COMPANY LIMITED", "OBJ_TNAME": "การขายส่งปุ๋ยและเคมีภัณฑ์ทางการเกษตร", "_id": "0105557124038", "JP_TNAME": "กรีน ลิฟวิ่ง อินทิเกรชั่น จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105557124038", "PARTNER": " นางนลินี ทวีสิน", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46692"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "I.F.D. MEDIA CO., LTD.", "OBJ_TNAME": "การศึกษาอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0105532122180", "JP_TNAME": "ไอ เอฟ ดี มีเดีย จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105532122180", "PARTNER": " นางนลินี ทวีสิน", "cpm": "2,810,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "85499"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "SPA OVATION INTERNATIONAL CO.,LTD.", "OBJ_TNAME": "กิจกรรมการเรียนการสอนนวด", "_id": "0105546019467", "JP_TNAME": "สปา โอเวชั่น อินเตอร์แนชชั่นแนล จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105546019467", "PARTNER": " นางนลินี ทวีสิน", "cpm": "2,000,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "85496"}]}, {"name": "ธานินทร์ สุภาแสน", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/be01ffab-8738-4e10-b330-ced855d2cc75.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "LP RICE INTERTRADE COMPANY LIMITED", "OBJ_TNAME": "การขายส่งข้าวเปลือกและธัญพืชอื่นๆ", "_id": "0505559003561", "JP_TNAME": "แอล พี ไรซ์ อินเตอร์เทรด จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0505559003561", "PARTNER": " นายธานินทร์ สุภาแสน", "cpm": "1,000,000.00", "stn": "เสร็จการชำระบัญชี", "activity_code": "46201"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "CHIANGRAI RUNGRUANG CO.,LTD.", "OBJ_TNAME": "การบริการจัดส่งสัญญาณโทรทัศน์/วิทยุผ่านสายเคเบิล", "_id": "0575545000424", "JP_TNAME": "เชียงรายรุ่งเรือง จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0575545000424", "PARTNER": " นายธานินทร์ สุภาแสน", "cpm": "1,100,000.00", "stn": "เลิก", "activity_code": "61102"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "OAM SUK SOCIAL ENTERPRISE COMPANY LIMITED", "OBJ_TNAME": "การขายส่งข้าวและผลิตภัณฑ์ที่ได้จากการโรงสีข้าว", "_id": "0575559003684", "JP_TNAME": "ออมสุข วิสาหกิจเพื่อสังคม จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0575559003684", "PARTNER": " นายธานินทร์ สุภาแสน", "cpm": "10,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46315"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "UNION FOUR (2015) DEVELOPMENT CHIANGMAI COMPANY LIMITED", "OBJ_TNAME": "กิจกรรมของตัวแทนและนายหน้าอสังหาริมทรัพย์โดยได้รับ ค่าตอบแทนหรือตามสัญญาจ้าง", "_id": "0505556002911", "JP_TNAME": "ยูเนี่ยนโฟร์ (2015) ดิเวลลอปเมนท์ เชียงใหม่ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0505556002911", "PARTNER": " นายธานินทร์ สุภาแสน", "cpm": "10,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "68201"}]}, {"name": "ปณชัย แดงอร่าม", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/576f626c-531e-4b30-92c9-625e81d6fa52.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "P.P.S.K ENGINEERING COMPANY LIMITED", "OBJ_TNAME": "การก่อสร้างอาคารที่พักอาศัย", "_id": "0105550131179", "JP_TNAME": "พี.พี.เอส.เค เอ็นจิเนียริ่ง จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105550131179", "PARTNER": " นายปณชัย แดงอร่าม", "cpm": "5,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "41001"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "D.V.S.CONSTRUCTION LTD.,PART.", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0103545014443", "JP_TNAME": "ดี.วี.เอส. คอนสตรัคชั่น", "JP_TYPE_CODE": "3", "JP_NO": "0103545014443", "PARTNER": " นายปณชัย แดงอร่าม", "cpm": "15,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "41002", "totalProjects": 4, "totalPriceBuild": 180754097.0, "totalPriceAgree": 132170435.0, "avgPriceDiff": -0.08635135474629099}]}, {"name": "จรัญ ชิตะปัญญา", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/0aab7c14-ac33-4c32-b9c5-1ffb5858bf05.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "MAHANAKORN MAE-SOD VEJCHAKARN COMPANY LIMITED", "OBJ_TNAME": "กิจกรรมโรงพยาบาล", "_id": "0105556060761", "JP_TNAME": "มหานครแม่สอดเวชการ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105556060761", "PARTNER": " นายจรัญ ชิตะปัญญา", "cpm": "500,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "86101"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "SRIPHUMITUS COMPANY LIMITED", "OBJ_TNAME": "โรงแรม รีสอร์ทและห้องชุด", "_id": "0105545036848", "JP_TNAME": "ศรีภูมิทัศน์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105545036848", "PARTNER": " พลตำรวจตรีจรัญ ชิตะปัญญา", "cpm": "5,000,000.00", "stn": "เลิก", "activity_code": "55101"}]}, {"name": "ณัฏฐ์ รุ่งเรือง", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/bb7a6357-c305-438b-af08-84408a149510.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "SO DE MA COM CO., LTD.", "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา", "_id": "0105540006380", "JP_TNAME": "โซ เด มา คอม จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105540006380", "PARTNER": " นายณัฏฐ์ รุ่งเรือง", "cpm": "1,000,000.00", "stn": "เลิก", "activity_code": "73101"}]}, {"name": "สมปอง เพ็งหนู", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/51d971b7-6cd0-49bf-8644-58e2705fe35a.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "KHUNKIRI PARAWOOD COMPANY LIMITED", "OBJ_TNAME": "การขายส่งไม้และผลิตภัณฑ์จากไม้แปรรูปขั้นต้น", "_id": "0845560011251", "JP_TNAME": "ขุนคีรี พาราวู้ด จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0845560011251", "PARTNER": " นายสมปอง เพ็งหนู", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46632"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "S S P INDUSTRY MINERAL CO.,LTD.", "OBJ_TNAME": "การผลิตปูนไลม์ (ปูนขาว) และปูนปลาสเตอร์", "_id": "0845554003217", "JP_TNAME": "เอส เอส พี อุตสาหกรรมสินแร่ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0845554003217", "PARTNER": " นายสมปอง เพ็งหนู", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "23942"}]}, {"name": "ดอแม็ง โต๊ะเต๊ะ", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 7)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/923baeea-a9b9-4488-8689-05f8408325e7.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "SUNEE SHARGER  (THAILAND) LIMITED PARTNERSHIP ", "OBJ_TNAME": "การขายปลีกโดยไม่มีร้านซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0943551000273", "JP_TNAME": "สุนีย์ ชาร์จเจอร์ (ประเทศไทย)", "JP_TYPE_CODE": "3", "JP_NO": "0943551000273", "PARTNER": " นายดอแม็ง โต๊ะเต๊ะ", "cpm": "3,000,000.00", "stn": "ร้าง", "activity_code": "47999"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "GETTHISS (THAILAND) COMPANY LIMITED", "OBJ_TNAME": "การขายส่งเครื่องสำอาง", "_id": "0135559018006", "JP_TNAME": "เก็ทธิสส์ (ไทยแลนด์) จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0135559018006", "PARTNER": " นายดอแม็ง โต๊ะเต๊ะ", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46443"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "PATO INTER CO.,LTD.", "OBJ_TNAME": "ร้านขายปลีกดอกไม้ต้นไม้และอุปกรณ์ที่เกี่ยวข้อง", "_id": "0945553000078", "JP_TNAME": "ป๋าโต๊ะ อินเตอร์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0945553000078", "PARTNER": " นายดอแม็ง โต๊ะเต๊ะ", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "47733"}]}, {"name": "ณัฐศิลป์ จงสงวน", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 8)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/dfb119f4-fa61-4110-b400-4c9bd91fa0e3.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "GENERAL FINANCE CORPORATION LIMITED", "OBJ_TNAME": "กิจกรรมการจัดการหลักทรัพย์การลงทุนและกองทุน (ยกเว้น กองทุนบำเหน็จบำนาญ)", "_id": "0105509002335", "JP_TNAME": "เงินทุนหลักทรัพย์ จี เอฟ  จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105509002335", "PARTNER": ". นายณัฐศิลป์ จงสงวน", "cpm": "450,000,000.00", "stn": "แปรสภาพ", "activity_code": "66301"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "PRINCIPAL H R T D CO., LTD.", "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการอื่นๆซึ่งมิได้จัด ประเภทไว้ในที่อื่น", "_id": "0105545061265", "JP_TNAME": "พริ้นซิเพิล เอวิเอชั่น จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105545061265", "PARTNER": " นายณัฐศิลป์ จงสงวน", "cpm": "5,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "70209"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "T M B S GENERAL COMPANY LIMITED", "OBJ_TNAME": "การขายส่งอุปกรณ์ขนส่ง (ยกเว้นยานยนต์จักรยานยนต์และจักรยาน)", "_id": "0105533065210", "JP_TNAME": "ที เอ็ม บี เอส เจนเนอรัล จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105533065210", "PARTNER": " นายณัฐศิลป์ จงสงวน", "cpm": "20,000,000.00", "stn": "ร้าง", "activity_code": "46591"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "BIJOUX D'AMOUR CORPORATION LIMITED", "OBJ_TNAME": "การขายส่งนาฬิกาและเครื่องประดับ", "_id": "0105528017351", "JP_TNAME": "บีจูส์ ดามูร์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105528017351", "PARTNER": " นายณัฐศิลป์ จงสงวน", "cpm": "150,000,000.00", "stn": "แปรสภาพ", "activity_code": "46492"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "PRINCIPAL ACCOUNTING  CO., LTD.", "OBJ_TNAME": "กิจกรรมเกี่ยวกับบัญชีการทำบัญชีและการตรวจสอบบัญชี การให้คำปรึกษาด้านภาษี", "_id": "0105545061281", "JP_TNAME": "พริ้นซิเพิล แอคเคาน์ติ้ง จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105545061281", "PARTNER": " นายณัฐศิลป์ จงสงวน", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "69200"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "THE PRINCIPAL VENTURE (THAILAND) CO., LTD.", "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการการเงิน", "_id": "0105542021734", "JP_TNAME": "พริ้นซิเพิล เวนเจอร์ (ประเทศไทย) จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105542021734", "PARTNER": " นายณัฐศิลป์ จงสงวน", "cpm": "75,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "70202"}]}, {"name": "สุรพล วรรณโชติ", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 9)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/6a722ce6-8b40-4338-b155-9af2a8848085.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "ชัยภัทร ตรีอุดม", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 10)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/7e635d50-bc6c-4878-a4cd-978cbe5edcfb.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "TREUDOMRUNG ROT CONSTRUCTION LIMITED PARTNERSHIP", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0153553000227", "JP_TNAME": "ตรีอุดมรุ่งโรจน์ ก่อสร้าง", "JP_TYPE_CODE": "3", "JP_NO": "0153553000227", "PARTNER": " นายชัยภัทร ตรีอุดม", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "41002"}]}, {"name": "พูนชัย จิรากร", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 11)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/2afb0de6-6da2-4b22-aa63-5ab22e831559.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "ดนุพล มีชัยชนะ", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 12)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/4df6db89-9757-404d-8eb6-3f0bf2154d58.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "แวอาแซ เซ็งยี", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 13)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/9b8e6ed1-65c7-4a0d-a964-9cfa2887630e.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "PATTANI TRAVEL SERVICE & BUSINESS CO., LTD.", "OBJ_TNAME": "การขนส่งผู้โดยสารทางบกอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0945536000065", "JP_TNAME": "ปัตตานีบริการการเดินทางและธุรกิจ  จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0945536000065", "PARTNER": " นายแวอาแซ เซ็งยี", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "49329"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "SUNEE SHARGER  (THAILAND) LIMITED PARTNERSHIP ", "OBJ_TNAME": "การขายปลีกโดยไม่มีร้านซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0943551000273", "JP_TNAME": "สุนีย์ ชาร์จเจอร์ (ประเทศไทย)", "JP_TYPE_CODE": "3", "JP_NO": "0943551000273", "PARTNER": " นายแวอาแซ เซ็งยี", "cpm": "3,000,000.00", "stn": "ร้าง", "activity_code": "47999"}]}, {"name": "ทรงรัก นิตยาชิต", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 14)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/13035338-22b2-4a5a-aeeb-faa59e5e9d68.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "พันจันทร์ ธนวัฒนเสถียร", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 15)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/e2dffcd2-13c7-4052-9f2f-f826f9275e7f.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "PRODESIGN COMPANY LIMITED", "OBJ_TNAME": "การพิมพ์อื่น ๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0125560018413", "JP_TNAME": "โปรดีไซน์ จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0125560018413", "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "18119"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "ROCK SOLUTION CO.,LTD.", "OBJ_TNAME": "การบริการอินเทอร์เน็ตแบบใช้สายและไร้สาย", "_id": "0105554053903", "JP_TNAME": "ร็อค โซลูชั่น จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105554053903", "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "61101"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "REVIVA CO.,LTD.", "OBJ_TNAME": "ร้านขายปลีกหนังสือหนังสือพิมพ์วารสารและนิตยสาร", "_id": "0105545075746", "JP_TNAME": "รีไวว่า  จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105545075746", "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "47611", "totalProjects": 3, "totalPriceBuild": 40960.0, "totalPriceAgree": 40960.0, "avgPriceDiff": 0.0}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "SUCCESS TRAVEL  ", "OBJ_TNAME": "ธุรกิจจัดนำเที่ยว", "_id": "0105543016165", "JP_TNAME": "ซัคเซส แทรเวล จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105543016165", "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร", "cpm": "2,000,000.00", "stn": "ร้าง", "activity_code": "79120"}]}, {"name": "ธวัชชัย ผลสะอาด", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 16)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/f817ffe3-a4df-470e-85f3-da354149f867.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "DOCTOR RECYCLE LIMITED PARTNERSHIP", "OBJ_TNAME": "การนำวัสดุที่ใช้แล้วกลับมาใช้ใหม่", "_id": "0103550007263", "JP_TNAME": "ด็อกเตอร์ รีไซเคิล", "JP_TYPE_CODE": "3", "JP_NO": "0103550007263", "PARTNER": " นายธวัชชัย ผลสะอาด", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "38300"}]}, {"name": "อดุลย์ อารีหะหมัด", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 17)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/76f0df50-8d36-4469-9540-7014e173df95.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "A. ZADA GROUP LIMITED PARTNERSHIP", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0963539000153", "JP_TNAME": "เอ.ซาด้า กรุ๊ป", "JP_TYPE_CODE": "3", "JP_NO": "0963539000153", "PARTNER": " นายอดุลย์ อารีหะหมัด", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "41002"}]}, {"name": "อาหะมะ เจ๊ะอุมา", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 18)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/91198588-d9a9-474d-aebd-1f7143b80c87.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "NON", "OBJ_TNAME": "การขายส่งเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ชนิดใช้ในครัวเรือน", "_id": "0963539000510", "JP_TNAME": "สหายการไฟฟ้า", "JP_TYPE_CODE": "3", "JP_NO": "0963539000510", "PARTNER": " นายอาหะมะ เจ๊ะอุมา", "cpm": "3,000,000.00", "stn": "ร้าง", "activity_code": "46421"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "AWWAB GROUP COMPANY LIMITED", "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย", "_id": "0965558000238", "JP_TNAME": "ออว์ว๊าบ  กรุ๊ป จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0965558000238", "PARTNER": " นายอาหะมะ เจ๊ะอุมา", "cpm": "2,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "41002"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "SABEANG PATTHANAKIJ LIMITED PARTNERSHIP", "OBJ_TNAME": "การขายส่งยางพาราและพลาสติกขั้นต้น", "_id": "0963553000033", "JP_TNAME": "สาเบ็ง พัฒนากิจ", "JP_TYPE_CODE": "3", "JP_NO": "0963553000033", "PARTNER": " นายอาหะมะ เจ๊ะอุมา", "cpm": "9,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46693", "totalProjects": 5, "totalPriceBuild": 385945.0, "totalPriceAgree": 385945.0, "avgPriceDiff": 0.0}]}, {"name": "มะลีเป็ง สาและ", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 19)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/d3228a06-4820-4d27-ac3e-11f5a9cd94d2.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "MUCH MARKETING & TRADING CO., LTD.", "OBJ_TNAME": "การขายส่งสินค้าทั่วไปโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง", "_id": "0905534000530", "JP_TNAME": "มัชมาร์เก็ตติ้งแอนด์เทรดดิ้ง จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0905534000530", "PARTNER": " นายมะลีเป็ง สาและ", "cpm": "1,000,000.00", "stn": "ร้าง", "activity_code": "46109"}]}, {"name": "ภัทร์รวี ศุภปภาดา", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 20)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/90f46611-63aa-4e1b-9847-84a1c45f59cd.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "ปคุณา เอี่ยมสะอาด", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 21)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/234262c1-d5e6-4437-87b5-7f03fb141fdc.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}, {"name": "ภูเทพ ศิทัศเทวากูน", "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 22)", "image": "http://202.6.26.16/images/candidate/thumb/00/23/7f1f6443-c803-4d43-b3f9-20b1cbe37c68.jpg", "PartyName": "เพื่อธรรม", "memberType": "partylist", "province_name": "-", "zone_number": "-", "relatedTo": []}]
+[
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (พังงา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/82/1/ec8098fd-ca12-4c73-bb17-cdd8e262ed06.jpg",
+        "memberType": "zone",
+        "name": "ขจรศักดิ์ เครือยศ",
+        "province_name": "พังงา",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สตูล เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/91/1/ef3e3e3a-1850-4d5f-834c-2d6e44912486.jpg",
+        "memberType": "zone",
+        "name": "เสส มรรคาเขต",
+        "province_name": "สตูล",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สตูล เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/91/2/d4b3e10d-b668-4cff-92c8-aa12e5b139bc.jpg",
+        "memberType": "zone",
+        "name": "ยากาศ บิลหมัด",
+        "province_name": "สตูล",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ชุมพร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/86/2/90366e18-15c1-48b1-80a2-5da6305e88cd.jpg",
+        "memberType": "zone",
+        "name": "ประดิษฐ์ ขำขาว",
+        "province_name": "ชุมพร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ตรัง เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/1/d6addc24-3f50-4583-8bfb-6fb806347809.jpg",
+        "memberType": "zone",
+        "name": "ธนัตถ์ อนันต์",
+        "province_name": "ตรัง",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ตรัง เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/2/aed3e240-9e5f-44b7-ae33-57f765c45065.jpg",
+        "memberType": "zone",
+        "name": "ประดิษฐ์ จันทร์สง",
+        "province_name": "ตรัง",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ตรัง เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/3/685ff319-e525-4637-8b3d-9c4597036cc3.jpg",
+        "memberType": "zone",
+        "name": "อวิรุทธิ์ กิ้มเท่ง",
+        "province_name": "ตรัง",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (พัทลุง เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/1/82333145-c333-4fe2-b331-70dd43d19701.jpg",
+        "memberType": "zone",
+        "name": "สมเสริม ชูรักษ์",
+        "province_name": "พัทลุง",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LOMA IRRAWADDY LIMITED PARTNERSHIP",
+                "JP_NO": "0933560000019",
+                "JP_TNAME": "โลมาอิรวดี",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การเช่าและการดำเนินการเกี่ยวกับอสังหาริมทรัพย์ที่เป็น ของตนเองหรือเช่าจากผู้อื่นเพื่อเป็นที่พักอาศัย",
+                "PARTNER": " นายสมเสริม ชูรักษ์",
+                "_id": "0933560000019",
+                "activity_code": "68103",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (พัทลุง เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/2/3f9cd3da-a2fc-4139-9135-9ab6d91d6a37.jpg",
+        "memberType": "zone",
+        "name": "พิสิฐ จงเจตน์",
+        "province_name": "พัทลุง",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (พัทลุง เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/3/014d9e66-d8d9-4a94-a12b-333382b36204.jpg",
+        "memberType": "zone",
+        "name": "ภคพล แสงอุบล",
+        "province_name": "พัทลุง",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ยะลา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/95/1/a789fae5-4b1f-4ca1-abdf-8f43c1e3e086.jpg",
+        "memberType": "zone",
+        "name": "บือราเฮง หะยีหะมะ",
+        "province_name": "ยะลา",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ยะลา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/95/2/8b4b382c-cf6b-4d6a-adc1-f64d637af2b7.jpg",
+        "memberType": "zone",
+        "name": "นิมะตอเฮ วิชา",
+        "province_name": "ยะลา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "ORIGINA(THAILAND) COMPANY LIMITED",
+                "JP_NO": "0955560000479",
+                "JP_TNAME": "ออริจินา(ไทยแลนด์) จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งอาหารเครื่องดื่มและยาสูบโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นายนิมะตอเฮ วิชา",
+                "_id": "0955560000479",
+                "activity_code": "46102",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ยะลา เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/95/3/f81050b5-04f2-4499-9cac-e789a4bff9fc.jpg",
+        "memberType": "zone",
+        "name": "มะรูดิน กระโด",
+        "province_name": "ยะลา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SITTAWEE KARNYOTA LIMITED PARTNERSHIP",
+                "JP_NO": "0103557005169",
+                "JP_TNAME": "สิทธวีร์การโยธา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ",
+                "PARTNER": " นายมะรูดิน กระโด",
+                "_id": "0103557005169",
+                "activity_code": "47524",
+                "cpm": "5,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "NUDINPARA LIMITED PARTNERSHIP",
+                "JP_NO": "0953558000040",
+                "JP_TNAME": "นูดินพารา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งยางพาราและพลาสติกขั้นต้น",
+                "PARTNER": " นายมะรูดิน กระโด",
+                "_id": "0953558000040",
+                "activity_code": "46693",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เลิก"
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นราธิวาส เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/96/1/8fccb6da-def1-4a1b-8a26-de81ad2041f2.jpg",
+        "memberType": "zone",
+        "name": "อิบรอเฮ็ม บินมามะ",
+        "province_name": "นราธิวาส",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นราธิวาส เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/96/2/56e0982b-9a9f-444d-8b92-f29288b934b0.jpg",
+        "memberType": "zone",
+        "name": "มะหามัด ฮามิ",
+        "province_name": "นราธิวาส",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นราธิวาส เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/96/3/a8543aa1-4b9d-4b64-b794-5a821e9d6a4e.jpg",
+        "memberType": "zone",
+        "name": "พิเศรษฐ์ สงนาวา",
+        "province_name": "นราธิวาส",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นราธิวาส เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/96/4/7ad0787e-abe2-4b3b-a260-2e3a085f5534.jpg",
+        "memberType": "zone",
+        "name": "สุวิชช์ ศรีสุวรรณ",
+        "province_name": "นราธิวาส",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ปัตตานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/94/1/b69e4d46-2dd9-412f-8a88-b4990e537812.jpg",
+        "memberType": "zone",
+        "name": "บัญญัติ มะเด็ง",
+        "province_name": "ปัตตานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ปัตตานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/94/2/70b2c20b-8f88-4edc-aaf7-d2e622ff53fb.jpg",
+        "memberType": "zone",
+        "name": "อนุวัตร ดอเลาะเซาะ",
+        "province_name": "ปัตตานี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ปัตตานี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/94/3/541b4f93-488f-45ad-9cc4-ddf503cdf11c.jpg",
+        "memberType": "zone",
+        "name": "เจะดิง ดาเล็ง",
+        "province_name": "ปัตตานี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (ปัตตานี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/94/4/5b89be81-c40e-41c1-b567-a63030ab4b13.jpg",
+        "memberType": "zone",
+        "name": "ยูโซะ หามะ",
+        "province_name": "ปัตตานี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/1/a6e26408-f4b2-45a9-b126-085b46722f62.jpg",
+        "memberType": "zone",
+        "name": "ณัฐทิตา ทองช่วย",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/2/63e062b8-d569-449a-8503-e219e8babe20.jpg",
+        "memberType": "zone",
+        "name": "สิทธิชัย สุวรรณดวง",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/3/fef7f909-db35-4830-b6ce-8edbe8697586.jpg",
+        "memberType": "zone",
+        "name": "อวยชัย สมัยชูเกียรติ",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/4/5be81da7-45fa-4713-90e7-e10d8446dc04.jpg",
+        "memberType": "zone",
+        "name": "พรหมพชร นาเมือง",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NITICHAIPACHARA LAW OFFICE (2005) CO.,LTD.",
+                "JP_NO": "0845548003839",
+                "JP_TNAME": "สำนักกฎหมายนิติชัยพชร (2005) จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมทางกฎหมาย",
+                "PARTNER": " นายพรหมพชร นาเมือง",
+                "_id": "0845548003839",
+                "activity_code": "69100",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/5/a6acabdd-13e4-4b58-9b7a-48a5bf993007.jpg",
+        "memberType": "zone",
+        "name": "มนต์ชัย วรรณโชติ",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/6/80662f88-07d9-43f1-be3f-7be87b5b20f8.jpg",
+        "memberType": "zone",
+        "name": "ปัญญา เผือกภูมิ",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/1/cfbaf8e3-f6da-4248-9171-1a69356c81b6.jpg",
+        "memberType": "zone",
+        "name": "ภิญโญ ชูสุวรรณ์",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/2/65b3a14b-9d13-4fdc-bbad-11c1912be113.jpg",
+        "memberType": "zone",
+        "name": "รัชนีวรรณ อินทร์สุวรรณ",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/4/d2458534-c3ae-4b87-b496-f3190ae9a6fa.jpg",
+        "memberType": "zone",
+        "name": "สุธรรม โฉมทอง",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/5/681bc6e4-6101-4ab8-9d94-b6a9ad069f5c.jpg",
+        "memberType": "zone",
+        "name": "กันตพงศ์ พิบูลย์",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/7/d878e824-cd7b-451f-bbf6-c414475f9ead.jpg",
+        "memberType": "zone",
+        "name": "เสริมศักดิ์ จโนภาส",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/8/f4b7106f-0307-4f5e-8a6b-382303bf6bd5.jpg",
+        "memberType": "zone",
+        "name": "อนันต์ ตักเตือน",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/1/468cec17-d1a6-4d79-8ea9-f49b1d7a4004.jpg",
+        "memberType": "zone",
+        "name": "ศักดา แก้วมณี",
+        "province_name": "สงขลา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SONGKHLA FORKLIFT LIMITED PARTNERSHIP",
+                "JP_NO": "0903556002169",
+                "JP_TNAME": "สงขลาโฟร์คลิฟท์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายยานยนต์ใหม่ชนิดรถยนต์นั่งส่วนบุคคลรถกระบะรถตู้ และรถขนาดเล็กที่คล้ายกัน",
+                "PARTNER": " นายศักดา แก้วมณี",
+                "_id": "0903556002169",
+                "activity_code": "45101",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/2/39e12015-64ae-46dd-a9f4-708d5c230626.jpg",
+        "memberType": "zone",
+        "name": "จำแลง มงคลนิสภกุล",
+        "province_name": "สงขลา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "C.F. PHUKET TOUR AND LAW COMPANY LIMITED",
+                "JP_NO": "0835546002380",
+                "JP_TNAME": "ซีเอฟภูเก็ตการท่องเที่ยวและกฎหมาย จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งผู้โดยสารทางรถโดยสารประจำทางอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายจำแลง มงคลนิสภกุล",
+                "_id": "0835546002380",
+                "activity_code": "49209",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0903539000331",
+                "JP_TNAME": "เกาะหมียานยนต์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การบำรุงรักษาและการซ่อมระบบเครื่องยนต์และชิ้นส่วนยานยนต์",
+                "PARTNER": " นายจำแลง มงคลนิสภกุล",
+                "_id": "0903539000331",
+                "activity_code": "45201",
+                "cpm": "550,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0903539000960",
+                "JP_TNAME": "เจ.วี.เจ กรุ๊ป",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งอาหารเครื่องดื่มและยาสูบโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นายจำแลง มงคลนิสภกุล",
+                "_id": "0903539000960",
+                "activity_code": "46102",
+                "cpm": "400,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/3/a9ab99fe-9d55-4d73-8daf-fbbb74aeb2ef.jpg",
+        "memberType": "zone",
+        "name": "กิตติโชติ เถี้ยมดำ",
+        "province_name": "สงขลา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "CHITRA FURNITURE",
+                "JP_NO": "0103535046695",
+                "JP_TNAME": "จิตรา เฟอร์นิเจอร์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายกิตติโชติ เถี้ยมดำ",
+                "_id": "0103535046695",
+                "activity_code": "41002",
+                "cpm": "300,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "111 FURNITURE COMPANY LIMITED",
+                "JP_NO": "0115539007131",
+                "JP_TNAME": "111 เฟอร์นิเจอร์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการออกแบบและตกแต่งภายใน",
+                "PARTNER": " นายกิตติโชติ เถี้ยมดำ",
+                "_id": "0115539007131",
+                "activity_code": "74101",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "TASA-AN FURNITURE & CONSTRUCTION LIMITED PARTNERSHIP",
+                "JP_NO": "0903550000016",
+                "JP_TNAME": "ท่าสะอ้าน เฟอร์นิเจอร์และก่อสร้าง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตเฟอร์นิเจอร์ที่ทำจากวัสดุอื่นๆ (ยกเว้น หิน คอนกรีต หรือเซรามิก)",
+                "PARTNER": " นายกิตติโชติ เถี้ยมดำ",
+                "_id": "0903550000016",
+                "activity_code": "31009",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/4/3653c97f-56b1-4b06-a368-3200686f3b79.jpg",
+        "memberType": "zone",
+        "name": "นิคม อยู่ทอง",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/5/a49b2db6-7f94-480d-8932-84c0accccc27.jpg",
+        "memberType": "zone",
+        "name": "สุภัทร ภัทรนิตย์",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/6/a24fd462-cb6f-4073-9055-1e0963e58f18.jpg",
+        "memberType": "zone",
+        "name": "จะเด็ด เหมโกทวีทรัพย์",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/7/384af61c-876a-4c24-b690-db680a07a3be.jpg",
+        "memberType": "zone",
+        "name": "อรพินท์ แก้วศรี",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. เขต (สงขลา เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/8/e4bc92ea-2754-4515-9f12-3a7c8b769453.jpg",
+        "memberType": "zone",
+        "name": "พิมพ์ภินันท์ บูเอียด",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/c275e03b-b9ae-493e-a60b-349c99184d7f.jpg",
+        "memberType": "partylist",
+        "name": "นลินี ทวีสิน",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SUCCESS BUSPORTATION CO., LTD.",
+                "JP_NO": "0105545091245",
+                "JP_TNAME": "ซัคเซส ปัสพอร์เทชั่น จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งผู้โดยสารทางบกอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นางนลินี ทวีสิน",
+                "_id": "0105545091245",
+                "activity_code": "49329",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "SUCCESS DIRECT SALES CO., LTD.",
+                "JP_NO": "0105536059482",
+                "JP_TNAME": "ซัคเซส ไดเรค เซลส์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการเผยแพร่ภาพยนตร์วีดิทัศน์และรายการโทรทัศน์",
+                "PARTNER": " นางนลินี ทวีสิน",
+                "_id": "0105536059482",
+                "activity_code": "59131",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0105534086857",
+                "JP_TNAME": "ดูนามิส ยูนิ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการบริการอื่นๆเพื่อสนับสนุนธุรกิจซึ่งมิได้จัดประเภทไว้ ในที่อื่น",
+                "PARTNER": " นางนลินี ทวีสิน",
+                "_id": "0105534086857",
+                "activity_code": "82990",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "GREEN LIVING INTEGRATION COMPANY LIMITED",
+                "JP_NO": "0105557124038",
+                "JP_TNAME": "กรีน ลิฟวิ่ง อินทิเกรชั่น จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งปุ๋ยและเคมีภัณฑ์ทางการเกษตร",
+                "PARTNER": " นางนลินี ทวีสิน",
+                "_id": "0105557124038",
+                "activity_code": "46692",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "I.F.D. MEDIA CO., LTD.",
+                "JP_NO": "0105532122180",
+                "JP_TNAME": "ไอ เอฟ ดี มีเดีย จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การศึกษาอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นางนลินี ทวีสิน",
+                "_id": "0105532122180",
+                "activity_code": "85499",
+                "cpm": "2,810,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "SPA OVATION INTERNATIONAL CO.,LTD.",
+                "JP_NO": "0105546019467",
+                "JP_TNAME": "สปา โอเวชั่น อินเตอร์แนชชั่นแนล จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการเรียนการสอนนวด",
+                "PARTNER": " นางนลินี ทวีสิน",
+                "_id": "0105546019467",
+                "activity_code": "85496",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/be01ffab-8738-4e10-b330-ced855d2cc75.jpg",
+        "memberType": "partylist",
+        "name": "ธานินทร์ สุภาแสน",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LP RICE INTERTRADE COMPANY LIMITED",
+                "JP_NO": "0505559003561",
+                "JP_TNAME": "แอล พี ไรซ์ อินเตอร์เทรด จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งข้าวเปลือกและธัญพืชอื่นๆ",
+                "PARTNER": " นายธานินทร์ สุภาแสน",
+                "_id": "0505559003561",
+                "activity_code": "46201",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "CHIANGRAI RUNGRUANG CO.,LTD.",
+                "JP_NO": "0575545000424",
+                "JP_TNAME": "เชียงรายรุ่งเรือง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การบริการจัดส่งสัญญาณโทรทัศน์/วิทยุผ่านสายเคเบิล",
+                "PARTNER": " นายธานินทร์ สุภาแสน",
+                "_id": "0575545000424",
+                "activity_code": "61102",
+                "cpm": "1,100,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เลิก"
+            },
+            {
+                "JP_ENAME": "OAM SUK SOCIAL ENTERPRISE COMPANY LIMITED",
+                "JP_NO": "0575559003684",
+                "JP_TNAME": "ออมสุข วิสาหกิจเพื่อสังคม จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งข้าวและผลิตภัณฑ์ที่ได้จากการโรงสีข้าว",
+                "PARTNER": " นายธานินทร์ สุภาแสน",
+                "_id": "0575559003684",
+                "activity_code": "46315",
+                "cpm": "10,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "UNION FOUR (2015) DEVELOPMENT CHIANGMAI COMPANY LIMITED",
+                "JP_NO": "0505556002911",
+                "JP_TNAME": "ยูเนี่ยนโฟร์ (2015) ดิเวลลอปเมนท์ เชียงใหม่ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมของตัวแทนและนายหน้าอสังหาริมทรัพย์โดยได้รับ ค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นายธานินทร์ สุภาแสน",
+                "_id": "0505556002911",
+                "activity_code": "68201",
+                "cpm": "10,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/576f626c-531e-4b30-92c9-625e81d6fa52.jpg",
+        "memberType": "partylist",
+        "name": "ปณชัย แดงอร่าม",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "P.P.S.K ENGINEERING COMPANY LIMITED",
+                "JP_NO": "0105550131179",
+                "JP_TNAME": "พี.พี.เอส.เค เอ็นจิเนียริ่ง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่พักอาศัย",
+                "PARTNER": " นายปณชัย แดงอร่าม",
+                "_id": "0105550131179",
+                "activity_code": "41001",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "D.V.S.CONSTRUCTION LTD.,PART.",
+                "JP_NO": "0103545014443",
+                "JP_TNAME": "ดี.วี.เอส. คอนสตรัคชั่น",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายปณชัย แดงอร่าม",
+                "_id": "0103545014443",
+                "activity_code": "41002",
+                "avgPriceDiff": -0.08635135474629099,
+                "cpm": "15,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 132170435.0,
+                "totalPriceBuild": 180754097.0,
+                "totalProjects": 4
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/0aab7c14-ac33-4c32-b9c5-1ffb5858bf05.jpg",
+        "memberType": "partylist",
+        "name": "จรัญ ชิตะปัญญา",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "MAHANAKORN MAE-SOD VEJCHAKARN COMPANY LIMITED",
+                "JP_NO": "0105556060761",
+                "JP_TNAME": "มหานครแม่สอดเวชการ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมโรงพยาบาล",
+                "PARTNER": " นายจรัญ ชิตะปัญญา",
+                "_id": "0105556060761",
+                "activity_code": "86101",
+                "cpm": "500,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "SRIPHUMITUS COMPANY LIMITED",
+                "JP_NO": "0105545036848",
+                "JP_TNAME": "ศรีภูมิทัศน์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "โรงแรม รีสอร์ทและห้องชุด",
+                "PARTNER": " พลตำรวจตรีจรัญ ชิตะปัญญา",
+                "_id": "0105545036848",
+                "activity_code": "55101",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เลิก"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/bb7a6357-c305-438b-af08-84408a149510.jpg",
+        "memberType": "partylist",
+        "name": "ณัฏฐ์ รุ่งเรือง",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SO DE MA COM CO., LTD.",
+                "JP_NO": "0105540006380",
+                "JP_TNAME": "โซ เด มา คอม จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา",
+                "PARTNER": " นายณัฏฐ์ รุ่งเรือง",
+                "_id": "0105540006380",
+                "activity_code": "73101",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เลิก"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/51d971b7-6cd0-49bf-8644-58e2705fe35a.jpg",
+        "memberType": "partylist",
+        "name": "สมปอง เพ็งหนู",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "KHUNKIRI PARAWOOD COMPANY LIMITED",
+                "JP_NO": "0845560011251",
+                "JP_TNAME": "ขุนคีรี พาราวู้ด จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งไม้และผลิตภัณฑ์จากไม้แปรรูปขั้นต้น",
+                "PARTNER": " นายสมปอง เพ็งหนู",
+                "_id": "0845560011251",
+                "activity_code": "46632",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "S S P INDUSTRY MINERAL CO.,LTD.",
+                "JP_NO": "0845554003217",
+                "JP_TNAME": "เอส เอส พี อุตสาหกรรมสินแร่ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การผลิตปูนไลม์ (ปูนขาว) และปูนปลาสเตอร์",
+                "PARTNER": " นายสมปอง เพ็งหนู",
+                "_id": "0845554003217",
+                "activity_code": "23942",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/923baeea-a9b9-4488-8689-05f8408325e7.jpg",
+        "memberType": "partylist",
+        "name": "ดอแม็ง โต๊ะเต๊ะ",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SUNEE SHARGER  (THAILAND) LIMITED PARTNERSHIP ",
+                "JP_NO": "0943551000273",
+                "JP_TNAME": "สุนีย์ ชาร์จเจอร์ (ประเทศไทย)",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายปลีกโดยไม่มีร้านซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายดอแม็ง โต๊ะเต๊ะ",
+                "_id": "0943551000273",
+                "activity_code": "47999",
+                "cpm": "3,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "GETTHISS (THAILAND) COMPANY LIMITED",
+                "JP_NO": "0135559018006",
+                "JP_TNAME": "เก็ทธิสส์ (ไทยแลนด์) จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งเครื่องสำอาง",
+                "PARTNER": " นายดอแม็ง โต๊ะเต๊ะ",
+                "_id": "0135559018006",
+                "activity_code": "46443",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "PATO INTER CO.,LTD.",
+                "JP_NO": "0945553000078",
+                "JP_TNAME": "ป๋าโต๊ะ อินเตอร์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "ร้านขายปลีกดอกไม้ต้นไม้และอุปกรณ์ที่เกี่ยวข้อง",
+                "PARTNER": " นายดอแม็ง โต๊ะเต๊ะ",
+                "_id": "0945553000078",
+                "activity_code": "47733",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/dfb119f4-fa61-4110-b400-4c9bd91fa0e3.jpg",
+        "memberType": "partylist",
+        "name": "ณัฐศิลป์ จงสงวน",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "GENERAL FINANCE CORPORATION LIMITED",
+                "JP_NO": "0105509002335",
+                "JP_TNAME": "เงินทุนหลักทรัพย์ จี เอฟ  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการจัดการหลักทรัพย์การลงทุนและกองทุน (ยกเว้น กองทุนบำเหน็จบำนาญ)",
+                "PARTNER": ". นายณัฐศิลป์ จงสงวน",
+                "_id": "0105509002335",
+                "activity_code": "66301",
+                "cpm": "450,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "แปรสภาพ"
+            },
+            {
+                "JP_ENAME": "PRINCIPAL H R T D CO., LTD.",
+                "JP_NO": "0105545061265",
+                "JP_TNAME": "พริ้นซิเพิล เอวิเอชั่น จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการอื่นๆซึ่งมิได้จัด ประเภทไว้ในที่อื่น",
+                "PARTNER": " นายณัฐศิลป์ จงสงวน",
+                "_id": "0105545061265",
+                "activity_code": "70209",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "T M B S GENERAL COMPANY LIMITED",
+                "JP_NO": "0105533065210",
+                "JP_TNAME": "ที เอ็ม บี เอส เจนเนอรัล จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งอุปกรณ์ขนส่ง (ยกเว้นยานยนต์จักรยานยนต์และจักรยาน)",
+                "PARTNER": " นายณัฐศิลป์ จงสงวน",
+                "_id": "0105533065210",
+                "activity_code": "46591",
+                "cpm": "20,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "BIJOUX D'AMOUR CORPORATION LIMITED",
+                "JP_NO": "0105528017351",
+                "JP_TNAME": "บีจูส์ ดามูร์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งนาฬิกาและเครื่องประดับ",
+                "PARTNER": " นายณัฐศิลป์ จงสงวน",
+                "_id": "0105528017351",
+                "activity_code": "46492",
+                "cpm": "150,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "แปรสภาพ"
+            },
+            {
+                "JP_ENAME": "PRINCIPAL ACCOUNTING  CO., LTD.",
+                "JP_NO": "0105545061281",
+                "JP_TNAME": "พริ้นซิเพิล แอคเคาน์ติ้ง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมเกี่ยวกับบัญชีการทำบัญชีและการตรวจสอบบัญชี การให้คำปรึกษาด้านภาษี",
+                "PARTNER": " นายณัฐศิลป์ จงสงวน",
+                "_id": "0105545061281",
+                "activity_code": "69200",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "THE PRINCIPAL VENTURE (THAILAND) CO., LTD.",
+                "JP_NO": "0105542021734",
+                "JP_TNAME": "พริ้นซิเพิล เวนเจอร์ (ประเทศไทย) จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการการเงิน",
+                "PARTNER": " นายณัฐศิลป์ จงสงวน",
+                "_id": "0105542021734",
+                "activity_code": "70202",
+                "cpm": "75,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/6a722ce6-8b40-4338-b155-9af2a8848085.jpg",
+        "memberType": "partylist",
+        "name": "สุรพล วรรณโชติ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/7e635d50-bc6c-4878-a4cd-978cbe5edcfb.jpg",
+        "memberType": "partylist",
+        "name": "ชัยภัทร ตรีอุดม",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "TREUDOMRUNG ROT CONSTRUCTION LIMITED PARTNERSHIP",
+                "JP_NO": "0153553000227",
+                "JP_TNAME": "ตรีอุดมรุ่งโรจน์ ก่อสร้าง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายชัยภัทร ตรีอุดม",
+                "_id": "0153553000227",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 11)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/2afb0de6-6da2-4b22-aa63-5ab22e831559.jpg",
+        "memberType": "partylist",
+        "name": "พูนชัย จิรากร",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 12)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/4df6db89-9757-404d-8eb6-3f0bf2154d58.jpg",
+        "memberType": "partylist",
+        "name": "ดนุพล มีชัยชนะ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 13)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/9b8e6ed1-65c7-4a0d-a964-9cfa2887630e.jpg",
+        "memberType": "partylist",
+        "name": "แวอาแซ เซ็งยี",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "PATTANI TRAVEL SERVICE & BUSINESS CO., LTD.",
+                "JP_NO": "0945536000065",
+                "JP_TNAME": "ปัตตานีบริการการเดินทางและธุรกิจ  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งผู้โดยสารทางบกอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายแวอาแซ เซ็งยี",
+                "_id": "0945536000065",
+                "activity_code": "49329",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "SUNEE SHARGER  (THAILAND) LIMITED PARTNERSHIP ",
+                "JP_NO": "0943551000273",
+                "JP_TNAME": "สุนีย์ ชาร์จเจอร์ (ประเทศไทย)",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายปลีกโดยไม่มีร้านซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายแวอาแซ เซ็งยี",
+                "_id": "0943551000273",
+                "activity_code": "47999",
+                "cpm": "3,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 14)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/13035338-22b2-4a5a-aeeb-faa59e5e9d68.jpg",
+        "memberType": "partylist",
+        "name": "ทรงรัก นิตยาชิต",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 15)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/e2dffcd2-13c7-4052-9f2f-f826f9275e7f.jpg",
+        "memberType": "partylist",
+        "name": "พันจันทร์ ธนวัฒนเสถียร",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "PRODESIGN COMPANY LIMITED",
+                "JP_NO": "0125560018413",
+                "JP_TNAME": "โปรดีไซน์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การพิมพ์อื่น ๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร",
+                "_id": "0125560018413",
+                "activity_code": "18119",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "ROCK SOLUTION CO.,LTD.",
+                "JP_NO": "0105554053903",
+                "JP_TNAME": "ร็อค โซลูชั่น จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การบริการอินเทอร์เน็ตแบบใช้สายและไร้สาย",
+                "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร",
+                "_id": "0105554053903",
+                "activity_code": "61101",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "REVIVA CO.,LTD.",
+                "JP_NO": "0105545075746",
+                "JP_TNAME": "รีไวว่า  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "ร้านขายปลีกหนังสือหนังสือพิมพ์วารสารและนิตยสาร",
+                "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร",
+                "_id": "0105545075746",
+                "activity_code": "47611",
+                "avgPriceDiff": 0.0,
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 40960.0,
+                "totalPriceBuild": 40960.0,
+                "totalProjects": 3
+            },
+            {
+                "JP_ENAME": "SUCCESS TRAVEL  ",
+                "JP_NO": "0105543016165",
+                "JP_TNAME": "ซัคเซส แทรเวล จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "ธุรกิจจัดนำเที่ยว",
+                "PARTNER": " นายพันจันทร์ ธนวัฒนเสถียร",
+                "_id": "0105543016165",
+                "activity_code": "79120",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 16)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/f817ffe3-a4df-470e-85f3-da354149f867.jpg",
+        "memberType": "partylist",
+        "name": "ธวัชชัย ผลสะอาด",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "DOCTOR RECYCLE LIMITED PARTNERSHIP",
+                "JP_NO": "0103550007263",
+                "JP_TNAME": "ด็อกเตอร์ รีไซเคิล",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การนำวัสดุที่ใช้แล้วกลับมาใช้ใหม่",
+                "PARTNER": " นายธวัชชัย ผลสะอาด",
+                "_id": "0103550007263",
+                "activity_code": "38300",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 17)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/76f0df50-8d36-4469-9540-7014e173df95.jpg",
+        "memberType": "partylist",
+        "name": "อดุลย์ อารีหะหมัด",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "A. ZADA GROUP LIMITED PARTNERSHIP",
+                "JP_NO": "0963539000153",
+                "JP_TNAME": "เอ.ซาด้า กรุ๊ป",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายอดุลย์ อารีหะหมัด",
+                "_id": "0963539000153",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 18)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/91198588-d9a9-474d-aebd-1f7143b80c87.jpg",
+        "memberType": "partylist",
+        "name": "อาหะมะ เจ๊ะอุมา",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0963539000510",
+                "JP_TNAME": "สหายการไฟฟ้า",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ชนิดใช้ในครัวเรือน",
+                "PARTNER": " นายอาหะมะ เจ๊ะอุมา",
+                "_id": "0963539000510",
+                "activity_code": "46421",
+                "cpm": "3,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "AWWAB GROUP COMPANY LIMITED",
+                "JP_NO": "0965558000238",
+                "JP_TNAME": "ออว์ว๊าบ  กรุ๊ป จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายอาหะมะ เจ๊ะอุมา",
+                "_id": "0965558000238",
+                "activity_code": "41002",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "SABEANG PATTHANAKIJ LIMITED PARTNERSHIP",
+                "JP_NO": "0963553000033",
+                "JP_TNAME": "สาเบ็ง พัฒนากิจ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งยางพาราและพลาสติกขั้นต้น",
+                "PARTNER": " นายอาหะมะ เจ๊ะอุมา",
+                "_id": "0963553000033",
+                "activity_code": "46693",
+                "avgPriceDiff": 0.0,
+                "cpm": "9,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 385945.0,
+                "totalPriceBuild": 385945.0,
+                "totalProjects": 5
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 19)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/d3228a06-4820-4d27-ac3e-11f5a9cd94d2.jpg",
+        "memberType": "partylist",
+        "name": "มะลีเป็ง สาและ",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "MUCH MARKETING & TRADING CO., LTD.",
+                "JP_NO": "0905534000530",
+                "JP_TNAME": "มัชมาร์เก็ตติ้งแอนด์เทรดดิ้ง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งสินค้าทั่วไปโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นายมะลีเป็ง สาและ",
+                "_id": "0905534000530",
+                "activity_code": "46109",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 20)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/90f46611-63aa-4e1b-9847-84a1c45f59cd.jpg",
+        "memberType": "partylist",
+        "name": "ภัทร์รวี ศุภปภาดา",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 21)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/234262c1-d5e6-4437-87b5-7f03fb141fdc.jpg",
+        "memberType": "partylist",
+        "name": "ปคุณา เอี่ยมสะอาด",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เพื่อธรรม",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 22)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/23/7f1f6443-c803-4d43-b3f9-20b1cbe37c68.jpg",
+        "memberType": "partylist",
+        "name": "ภูเทพ ศิทัศเทวากูน",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    }
+]
