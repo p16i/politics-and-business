@@ -1,1 +1,12 @@
-[{"name": "ประวัติ เทียนขุนทด", "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 14)", "image": "http://202.6.26.16/images/candidate/thumb/10/14/51be8dee-fd74-4677-9a5c-107edfce008a.jpg", "PartyName": "อนาคตไทย", "memberType": "zone", "province_name": "กรุงเทพมหานคร", "zone_number": 14, "relatedTo": []}]
+[
+    {
+        "PartyName": "อนาคตไทย",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 14)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/14/51be8dee-fd74-4677-9a5c-107edfce008a.jpg",
+        "memberType": "zone",
+        "name": "ประวัติ เทียนขุนทด",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": 14
+    }
+]

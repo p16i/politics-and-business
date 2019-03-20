@@ -1,24 +1,24 @@
 [
     {
-        "PartyName": "\u0e1e\u0e25\u0e31\u0e07\u0e04\u0e19\u0e01\u0e35\u0e2c\u0e32",
-        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23 \u0e40\u0e02\u0e15 6)",
+        "PartyName": "พลังคนกีฬา",
+        "desc": "ส.ส. เขต (สกลนคร เขต 6)",
         "image": "http://202.6.26.16/images/candidate/thumb/47/6/c36ed983-8f0c-4f10-b78c-fd822fb9cd79.jpg",
         "memberType": "zone",
-        "name": "\u0e01\u0e24\u0e29\u0e0f\u0e32\u0e40\u0e14\u0e0a\u0e1b\u0e01\u0e23\u0e13\u0e4c \u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e2a\u0e34\u0e07\u0e2b\u0e4c",
-        "province_name": "\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23",
+        "name": "กฤษฏาเดชปกรณ์ เชื้อสิงห์",
+        "province_name": "สกลนคร",
         "relatedTo": [
             {
                 "JP_ENAME": "UNITED PROFESSIONAL CO.,LTD.",
                 "JP_NO": "0105545061150",
-                "JP_TNAME": "\u0e22\u0e39\u0e44\u0e19\u0e40\u0e15\u0e47\u0e14 \u0e42\u0e1b\u0e23\u0e40\u0e1f\u0e2a\u0e0a\u0e31\u0e48\u0e19\u0e41\u0e19\u0e25 \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TNAME": "ยูไนเต็ด โปรเฟสชั่นแนล จำกัด",
                 "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e17\u0e32\u0e07\u0e01\u0e0e\u0e2b\u0e21\u0e32\u0e22",
-                "PARTNER": " \u0e19\u0e32\u0e22\u0e01\u0e24\u0e29\u0e0f\u0e32\u0e40\u0e14\u0e0a\u0e1b\u0e01\u0e23\u0e13\u0e4c \u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e2a\u0e34\u0e07\u0e2b\u0e4c",
+                "OBJ_TNAME": "กิจกรรมทางกฎหมาย",
+                "PARTNER": " นายกฤษฏาเดชปกรณ์ เชื้อสิงห์",
                 "_id": "0105545061150",
                 "activity_code": "69100",
                 "cpm": "1,000,000.00",
-                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
-                "stn": "\u0e22\u0e31\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e34\u0e08\u0e01\u0e32\u0e23\u0e2d\u0e22\u0e39\u0e48"
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
             }
         ],
         "zone_number": 6

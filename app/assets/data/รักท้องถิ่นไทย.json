@@ -1,1 +1,348 @@
-[{"name": "เกตุแก้ว หาญเชิงชัย", "desc": "ส.ส. เขต (บึงกาฬ เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/38/2/8df8faa3-49ff-4303-b6b4-777fb653673c.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "บึงกาฬ", "zone_number": 2, "relatedTo": []}, {"name": "เจริญ พันธ์สาย", "desc": "ส.ส. เขต (อำนาจเจริญ เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/37/1/a713d797-e9d6-43af-a135-fdc8cd873152.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "อำนาจเจริญ", "zone_number": 1, "relatedTo": []}, {"name": "อภิชาติ แสงสว่าง", "desc": "ส.ส. เขต (อำนาจเจริญ เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/37/2/6b3e0412-f34b-4754-8f3e-41b651360da0.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "อำนาจเจริญ", "zone_number": 2, "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "BONGMEDIA  LIMITED PARTNERSHIP", "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา", "_id": "0373555000249", "JP_TNAME": "บุ่งมีเดีย", "JP_TYPE_CODE": "3", "JP_NO": "0373555000249", "PARTNER": " นายอภิชาติ แสงสว่าง", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "73101"}, {"jptn": "บริษัทจำกัด", "JP_ENAME": "T.C.M.GROUP CO.,LTD.", "OBJ_TNAME": "การขายส่งผลิตภัณฑ์อาหารอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น", "_id": "0105555067410", "JP_TNAME": "ที.ซี.เอ็ม.ช้อปปิ้ง  จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105555067410", "PARTNER": " นายอภิชาติ แสงสว่าง", "cpm": "1,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46319"}, {"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "PAI KONG LIMITED PARTNERSHIP", "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง", "_id": "0503554001223", "JP_TNAME": "ป๋าย กง", "JP_TYPE_CODE": "3", "JP_NO": "0503554001223", "PARTNER": " นายอภิชาติ แสงสว่าง", "cpm": "500,000.00", "stn": "ร้าง", "activity_code": "92001"}]}, {"name": "ยุพา อุลหัสสา", "desc": "ส.ส. เขต (ยโสธร เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/35/1/680a7da2-360f-4b34-a846-df0f53ac237a.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ยโสธร", "zone_number": 1, "relatedTo": []}, {"name": "จิรภัทร ชาแท่น", "desc": "ส.ส. เขต (ยโสธร เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/35/3/1bd5d021-3d29-4381-9e29-c5088b3e5de6.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ยโสธร", "zone_number": 3, "relatedTo": []}, {"name": "จิดาภา จันทร์สว่าง", "desc": "ส.ส. เขต (เลย เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/42/1/571c79fb-5996-413b-b1f4-068f983674d0.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "เลย", "zone_number": 1, "relatedTo": []}, {"name": "สมพร นนทะศิริ", "desc": "ส.ส. เขต (เลย เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/42/2/aee870bb-f80d-4374-8829-9381e2f54f94.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "เลย", "zone_number": 2, "relatedTo": []}, {"name": "บุษบา ไขมีเพ็ชร", "desc": "ส.ส. เขต (เลย เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/42/3/67a1c0dc-f28b-4a6c-a26c-fb2009ae4359.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "เลย", "zone_number": 3, "relatedTo": []}, {"name": "วรัญญา รัตนวงศ์", "desc": "ส.ส. เขต (หนองบัวลำภู เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/39/2/3ccca84e-e2e2-4490-85ba-249fa6ea5f5a.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "หนองบัวลำภู", "zone_number": 2, "relatedTo": []}, {"name": "จินตนา พรหงษา", "desc": "ส.ส. เขต (หนองบัวลำภู เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/39/3/c3fd7b4f-3d01-4e9e-b97f-7636562380f8.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "หนองบัวลำภู", "zone_number": 3, "relatedTo": []}, {"name": "บุญส่ง กว้างนอก", "desc": "ส.ส. เขต (ชัยภูมิ เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/36/2/54420660-ab44-40c8-96f0-3bf3d0624d5e.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": 2, "relatedTo": []}, {"name": "ประดิษฐ์ ภิรมย์ไกรภักดิ์", "desc": "ส.ส. เขต (ชัยภูมิ เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/36/4/6c790730-cd59-405d-b606-bad0e9fbe1b5.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ชัยภูมิ", "zone_number": 4, "relatedTo": []}, {"name": "ธีระยุทธ เวยสาร", "desc": "ส.ส. เขต (สกลนคร เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/47/5/b5165b1a-c175-42f0-913c-973b3b9b3441.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สกลนคร", "zone_number": 5, "relatedTo": []}, {"name": "สมมาตย์ สุวรรณรินทร์", "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/45/3/79d7e6f1-2167-4ea5-a987-550f7047c1e0.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ร้อยเอ็ด", "zone_number": 3, "relatedTo": []}, {"name": "สุเพียบ ยอดพรหม", "desc": "ส.ส. เขต (สุรินทร์ เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/32/1/5a38c535-bcff-48e9-b1ff-58f2a253344f.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": 1, "relatedTo": []}, {"name": "จักกพัต สิทธิจันทร์", "desc": "ส.ส. เขต (สุรินทร์ เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/32/2/1548017c-8fa1-4529-9b10-b3f66567c79f.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": 2, "relatedTo": []}, {"name": "อุทัย กิ่งมาลา", "desc": "ส.ส. เขต (สุรินทร์ เขต 3)", "image": "http://202.6.26.16/images/candidate/thumb/32/3/acbf28f0-a913-4ca1-b074-09256d76caee.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": 3, "relatedTo": []}, {"name": "บุญชู วิเศษวงษา", "desc": "ส.ส. เขต (สุรินทร์ เขต 4)", "image": "http://202.6.26.16/images/candidate/thumb/32/4/2fad10c0-4d74-40da-85fd-107604761964.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": 4, "relatedTo": []}, {"name": "สมุทร เครือเนียม", "desc": "ส.ส. เขต (สุรินทร์ เขต 6)", "image": "http://202.6.26.16/images/candidate/thumb/32/6/48acef96-dbdb-4b91-a0fe-3803916a8ca3.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": 6, "relatedTo": [{"jptn": "บริษัทจำกัด", "JP_ENAME": "JORM KACHA COMPANY LIMITED", "OBJ_TNAME": "การเช่าและการดำเนินการเกี่ยวกับอสังหาริมทรัพย์ที่เป็นของ ตนเองหรือเช่าจากผู้อื่นที่ไม่ใช่เพื่อเป็นที่พักอาศัย", "_id": "0105536110721", "JP_TNAME": "จอมคชา  จำกัด", "JP_TYPE_CODE": "5", "JP_NO": "0105536110721", "PARTNER": " นายสมุทร เครือเนียม", "cpm": "5,000,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "68104"}]}, {"name": "ทองน้อย สมใจ", "desc": "ส.ส. เขต (สุรินทร์ เขต 7)", "image": "http://202.6.26.16/images/candidate/thumb/32/7/eabf9f7f-290f-4896-bb75-67de9b6a6f32.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "สุรินทร์", "zone_number": 7, "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "SOMJISURACHARE LIMITED PARTNERSHIP", "OBJ_TNAME": "การผลิตสุรากลั่น", "_id": "0323546000363", "JP_TNAME": "สมใจสุราแช่", "JP_TYPE_CODE": "3", "JP_NO": "0323546000363", "PARTNER": " นายทองน้อย สมใจ", "cpm": "50,000.00", "stn": "ร้าง", "activity_code": "11011"}]}, {"name": "ธนาภร ขันภักดี", "desc": "ส.ส. เขต (ขอนแก่น เขต 5)", "image": "http://202.6.26.16/images/candidate/thumb/40/5/d95579c3-de0d-4916-a3c7-fb1cbc360f18.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ขอนแก่น", "zone_number": 5, "relatedTo": []}, {"name": "วินิจ สิงห์ทุย", "desc": "ส.ส. เขต (ขอนแก่น เขต 6)", "image": "http://202.6.26.16/images/candidate/thumb/40/6/976f66b7-0cbd-4821-a54d-ec606ffcfaac.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "ขอนแก่น", "zone_number": 6, "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "THAI TAKUTA CHIANG KONG  LIMITED PARTNERSHIP", "OBJ_TNAME": "การขายส่งของเสียและเศษวัสดุเพื่อนำกลับมาใช้ใหม่", "_id": "0103548037878", "JP_TNAME": "ไทย ทาคูยา เชียงกง", "JP_TYPE_CODE": "3", "JP_NO": "0103548037878", "PARTNER": " นายวินิจ สิงห์ทุย", "cpm": "50,000.00", "stn": "ร้าง", "activity_code": "46695"}]}, {"name": "บุญส่ง สามารถ", "desc": "ส.ส. เขต (อุบลราชธานี เขต 1)", "image": "http://202.6.26.16/images/candidate/thumb/34/1/be7903cc-6c26-4ca6-af1c-5a292fc7e9b2.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "อุบลราชธานี", "zone_number": 1, "relatedTo": []}, {"name": "ณัฐชนานันท์ วรรณศวัลย์", "desc": "ส.ส. เขต (อุบลราชธานี เขต 2)", "image": "http://202.6.26.16/images/candidate/thumb/34/2/57381c6f-9be0-4d98-9da0-144847b4c0ce.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "อุบลราชธานี", "zone_number": 2, "relatedTo": [{"jptn": "ห้างหุ้นส่วนจำกัด", "JP_ENAME": "WANNAWAN LIMITED PARTNERSHIP", "OBJ_TNAME": "การขายส่งสินค้าทั่วไปโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง", "_id": "0343552000337", "JP_TNAME": "อุสิมา", "JP_TYPE_CODE": "3", "JP_NO": "0343552000337", "PARTNER": " นางณัฐชนานันท์ วรรณศวัลย์", "cpm": "710,000.00", "stn": "ยังดำเนินกิจการอยู่", "activity_code": "46109"}]}, {"name": "เชิดชัย พรพัชระกุล", "desc": "ส.ส. เขต (อุบลราชธานี เขต 10)", "image": "http://202.6.26.16/images/candidate/thumb/34/10/2057f890-b6b3-40d9-8147-bd0f8894c0c0.jpg", "PartyName": "รักท้องถิ่นไทย", "memberType": "zone", "province_name": "อุบลราชธานี", "zone_number": 10, "relatedTo": []}]
+[
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (บึงกาฬ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/38/2/8df8faa3-49ff-4303-b6b4-777fb653673c.jpg",
+        "memberType": "zone",
+        "name": "เกตุแก้ว หาญเชิงชัย",
+        "province_name": "บึงกาฬ",
+        "relatedTo": [],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (อำนาจเจริญ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/37/1/a713d797-e9d6-43af-a135-fdc8cd873152.jpg",
+        "memberType": "zone",
+        "name": "เจริญ พันธ์สาย",
+        "province_name": "อำนาจเจริญ",
+        "relatedTo": [],
+        "zone_number": 1
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (อำนาจเจริญ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/37/2/6b3e0412-f34b-4754-8f3e-41b651360da0.jpg",
+        "memberType": "zone",
+        "name": "อภิชาติ แสงสว่าง",
+        "province_name": "อำนาจเจริญ",
+        "relatedTo": [
+            {
+                "JP_ENAME": "BONGMEDIA  LIMITED PARTNERSHIP",
+                "JP_NO": "0373555000249",
+                "JP_TNAME": "บุ่งมีเดีย",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา",
+                "PARTNER": " นายอภิชาติ แสงสว่าง",
+                "_id": "0373555000249",
+                "activity_code": "73101",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "T.C.M.GROUP CO.,LTD.",
+                "JP_NO": "0105555067410",
+                "JP_TNAME": "ที.ซี.เอ็ม.ช้อปปิ้ง  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งผลิตภัณฑ์อาหารอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายอภิชาติ แสงสว่าง",
+                "_id": "0105555067410",
+                "activity_code": "46319",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "PAI KONG LIMITED PARTNERSHIP",
+                "JP_NO": "0503554001223",
+                "JP_TNAME": "ป๋าย กง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง",
+                "PARTNER": " นายอภิชาติ แสงสว่าง",
+                "_id": "0503554001223",
+                "activity_code": "92001",
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ยโสธร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/35/1/680a7da2-360f-4b34-a846-df0f53ac237a.jpg",
+        "memberType": "zone",
+        "name": "ยุพา อุลหัสสา",
+        "province_name": "ยโสธร",
+        "relatedTo": [],
+        "zone_number": 1
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ยโสธร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/35/3/1bd5d021-3d29-4381-9e29-c5088b3e5de6.jpg",
+        "memberType": "zone",
+        "name": "จิรภัทร ชาแท่น",
+        "province_name": "ยโสธร",
+        "relatedTo": [],
+        "zone_number": 3
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (เลย เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/42/1/571c79fb-5996-413b-b1f4-068f983674d0.jpg",
+        "memberType": "zone",
+        "name": "จิดาภา จันทร์สว่าง",
+        "province_name": "เลย",
+        "relatedTo": [],
+        "zone_number": 1
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (เลย เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/42/2/aee870bb-f80d-4374-8829-9381e2f54f94.jpg",
+        "memberType": "zone",
+        "name": "สมพร นนทะศิริ",
+        "province_name": "เลย",
+        "relatedTo": [],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (เลย เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/42/3/67a1c0dc-f28b-4a6c-a26c-fb2009ae4359.jpg",
+        "memberType": "zone",
+        "name": "บุษบา ไขมีเพ็ชร",
+        "province_name": "เลย",
+        "relatedTo": [],
+        "zone_number": 3
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/2/3ccca84e-e2e2-4490-85ba-249fa6ea5f5a.jpg",
+        "memberType": "zone",
+        "name": "วรัญญา รัตนวงศ์",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/3/c3fd7b4f-3d01-4e9e-b97f-7636562380f8.jpg",
+        "memberType": "zone",
+        "name": "จินตนา พรหงษา",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": 3
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/2/54420660-ab44-40c8-96f0-3bf3d0624d5e.jpg",
+        "memberType": "zone",
+        "name": "บุญส่ง กว้างนอก",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/4/6c790730-cd59-405d-b606-bad0e9fbe1b5.jpg",
+        "memberType": "zone",
+        "name": "ประดิษฐ์ ภิรมย์ไกรภักดิ์",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": 4
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สกลนคร เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/47/5/b5165b1a-c175-42f0-913c-973b3b9b3441.jpg",
+        "memberType": "zone",
+        "name": "ธีระยุทธ เวยสาร",
+        "province_name": "สกลนคร",
+        "relatedTo": [],
+        "zone_number": 5
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/3/79d7e6f1-2167-4ea5-a987-550f7047c1e0.jpg",
+        "memberType": "zone",
+        "name": "สมมาตย์ สุวรรณรินทร์",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": 3
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/1/5a38c535-bcff-48e9-b1ff-58f2a253344f.jpg",
+        "memberType": "zone",
+        "name": "สุเพียบ ยอดพรหม",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": 1
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/2/1548017c-8fa1-4529-9b10-b3f66567c79f.jpg",
+        "memberType": "zone",
+        "name": "จักกพัต สิทธิจันทร์",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/3/acbf28f0-a913-4ca1-b074-09256d76caee.jpg",
+        "memberType": "zone",
+        "name": "อุทัย กิ่งมาลา",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": 3
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/4/2fad10c0-4d74-40da-85fd-107604761964.jpg",
+        "memberType": "zone",
+        "name": "บุญชู วิเศษวงษา",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": 4
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/6/48acef96-dbdb-4b91-a0fe-3803916a8ca3.jpg",
+        "memberType": "zone",
+        "name": "สมุทร เครือเนียม",
+        "province_name": "สุรินทร์",
+        "relatedTo": [
+            {
+                "JP_ENAME": "JORM KACHA COMPANY LIMITED",
+                "JP_NO": "0105536110721",
+                "JP_TNAME": "จอมคชา  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การเช่าและการดำเนินการเกี่ยวกับอสังหาริมทรัพย์ที่เป็นของ ตนเองหรือเช่าจากผู้อื่นที่ไม่ใช่เพื่อเป็นที่พักอาศัย",
+                "PARTNER": " นายสมุทร เครือเนียม",
+                "_id": "0105536110721",
+                "activity_code": "68104",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": 6
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/7/eabf9f7f-290f-4896-bb75-67de9b6a6f32.jpg",
+        "memberType": "zone",
+        "name": "ทองน้อย สมใจ",
+        "province_name": "สุรินทร์",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SOMJISURACHARE LIMITED PARTNERSHIP",
+                "JP_NO": "0323546000363",
+                "JP_TNAME": "สมใจสุราแช่",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตสุรากลั่น",
+                "PARTNER": " นายทองน้อย สมใจ",
+                "_id": "0323546000363",
+                "activity_code": "11011",
+                "cpm": "50,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": 7
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/5/d95579c3-de0d-4916-a3c7-fb1cbc360f18.jpg",
+        "memberType": "zone",
+        "name": "ธนาภร ขันภักดี",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": 5
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/6/976f66b7-0cbd-4821-a54d-ec606ffcfaac.jpg",
+        "memberType": "zone",
+        "name": "วินิจ สิงห์ทุย",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [
+            {
+                "JP_ENAME": "THAI TAKUTA CHIANG KONG  LIMITED PARTNERSHIP",
+                "JP_NO": "0103548037878",
+                "JP_TNAME": "ไทย ทาคูยา เชียงกง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งของเสียและเศษวัสดุเพื่อนำกลับมาใช้ใหม่",
+                "PARTNER": " นายวินิจ สิงห์ทุย",
+                "_id": "0103548037878",
+                "activity_code": "46695",
+                "cpm": "50,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": 6
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/1/be7903cc-6c26-4ca6-af1c-5a292fc7e9b2.jpg",
+        "memberType": "zone",
+        "name": "บุญส่ง สามารถ",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": 1
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/2/57381c6f-9be0-4d98-9da0-144847b4c0ce.jpg",
+        "memberType": "zone",
+        "name": "ณัฐชนานันท์ วรรณศวัลย์",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "WANNAWAN LIMITED PARTNERSHIP",
+                "JP_NO": "0343552000337",
+                "JP_TNAME": "อุสิมา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งสินค้าทั่วไปโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นางณัฐชนานันท์ วรรณศวัลย์",
+                "_id": "0343552000337",
+                "activity_code": "46109",
+                "cpm": "710,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": 2
+    },
+    {
+        "PartyName": "รักท้องถิ่นไทย",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/10/2057f890-b6b3-40d9-8147-bd0f8894c0c0.jpg",
+        "memberType": "zone",
+        "name": "เชิดชัย พรพัชระกุล",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": 10
+    }
+]
