@@ -1,0 +1,639 @@
+[
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e1e\u0e31\u0e07\u0e07\u0e32 \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/82/1/8086fb45-7e0f-4e98-ac2e-4f456de9b1a5.jpg",
+        "memberType": "zone",
+        "name": "\u0e27\u0e2a\u0e31\u0e19\u0e15\u0e4c \u0e28\u0e23\u0e35\u0e23\u0e31\u0e15\u0e19\u0e4c",
+        "province_name": "\u0e1e\u0e31\u0e07\u0e07\u0e32",
+        "relatedTo": [
+            {
+                "JP_ENAME": "WORLD WIDE SMART COMPANY LIMITED",
+                "JP_NO": "0115548003037",
+                "JP_TNAME": "\u0e40\u0e27\u0e34\u0e25\u0e4c\u0e14 \u0e27\u0e32\u0e22 \u0e2a\u0e21\u0e32\u0e23\u0e4c\u0e17  \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e07\u0e32\u0e19\u0e27\u0e34\u0e28\u0e27\u0e01\u0e23\u0e23\u0e21\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e49\u0e04\u0e33\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e17\u0e32\u0e07\u0e14\u0e49\u0e32\u0e19\u0e40\u0e17\u0e04\u0e19\u0e34\u0e04 \u0e17\u0e35\u0e48\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e02\u0e49\u0e2d\u0e07",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e27\u0e2a\u0e31\u0e19\u0e15\u0e4c \u0e28\u0e23\u0e35\u0e23\u0e31\u0e15\u0e19\u0e4c",
+                "_id": "0115548003037",
+                "activity_code": "71102",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e22\u0e31\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e34\u0e08\u0e01\u0e32\u0e23\u0e2d\u0e22\u0e39\u0e48"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48 \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/81/1/800de9b6-e508-4294-a934-6672456fcd8a.jpg",
+        "memberType": "zone",
+        "name": "\u0e2d\u0e38\u0e29\u0e32 \u0e2a\u0e32\u0e22\u0e40\u0e2a\u0e47\u0e19",
+        "province_name": "\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48 \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/81/2/208c5287-443b-4b61-9265-4231a98120c7.jpg",
+        "memberType": "zone",
+        "name": "\u0e25\u0e31\u0e14\u0e14\u0e32 \u0e04\u0e07\u0e20\u0e31\u0e01\u0e14\u0e35",
+        "province_name": "\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23 \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/49/2/267e7b54-1cce-4786-b73e-103eb74b0c31.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e31\u0e0d\u0e0d\u0e32 \u0e14\u0e48\u0e32\u0e19\u0e27\u0e31\u0e19\u0e14\u0e35",
+        "province_name": "\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e15\u0e23\u0e31\u0e07 \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/1/a61a3ade-283f-49d4-80bd-4f0ef3994986.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e38\u0e19\u0e17\u0e23 \u0e02\u0e27\u0e31\u0e0d\u0e14\u0e35",
+        "province_name": "\u0e15\u0e23\u0e31\u0e07",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e15\u0e23\u0e31\u0e07 \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/2/8f197f76-4929-431a-a155-fc3e232c447b.jpg",
+        "memberType": "zone",
+        "name": "\u0e2d\u0e33\u0e19\u0e32\u0e08 \u0e27\u0e07\u0e28\u0e4c\u0e14\u0e32\u0e23\u0e32\u0e01\u0e38\u0e25",
+        "province_name": "\u0e15\u0e23\u0e31\u0e07",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e15\u0e23\u0e31\u0e07 \u0e40\u0e02\u0e15 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/3/8083dfda-5980-42ca-870a-a53656a6a8ac.jpg",
+        "memberType": "zone",
+        "name": "\u0e1e\u0e34\u0e19 \u0e40\u0e1a\u0e47\u0e0d\u0e23\u0e30\u0e40\u0e2b\u0e21",
+        "province_name": "\u0e15\u0e23\u0e31\u0e07",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/1/8802454b-69e9-4a2d-83c3-5e90d1f84ff1.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e23\u0e34\u0e14\u0e32 \u0e17\u0e32\u0e1a\u0e23\u0e23\u0e2b\u0e32\u0e23",
+        "province_name": "\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/2/2675feff-64ac-4c9e-8838-03435da7558b.jpg",
+        "memberType": "zone",
+        "name": "\u0e18\u0e27\u0e31\u0e0a \u0e42\u0e1e\u0e19\u0e0a\u0e31\u0e22",
+        "province_name": "\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c \u0e40\u0e02\u0e15 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/3/e9e0856c-f62a-4131-af22-b8a0a11bb269.jpg",
+        "memberType": "zone",
+        "name": "\u0e1b\u0e23\u0e34\u0e0d\u0e0d\u0e32 \u0e17\u0e2d\u0e07\u0e40\u0e2a\u0e19",
+        "province_name": "\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c \u0e40\u0e02\u0e15 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/4/87ccc64f-8bdd-4d84-a294-f888e57142c8.jpg",
+        "memberType": "zone",
+        "name": "\u0e13\u0e23\u0e07\u0e04\u0e4c\u0e1e\u0e25 \u0e28\u0e23\u0e35\u0e2a\u0e2d\u0e07\u0e40\u0e21\u0e37\u0e2d\u0e07",
+        "province_name": "\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c \u0e40\u0e02\u0e15 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/5/dfabbcf4-b9a4-44c4-b734-04cb903bb38b.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e38\u0e21\u0e32\u0e2a\u0e34\u0e17\u0e18\u0e34 \u0e28\u0e23\u0e35\u0e25\u0e33\u0e1e\u0e31\u0e07",
+        "province_name": "\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/2/95a3a841-7725-4508-9965-636077d0a1fb.jpg",
+        "memberType": "zone",
+        "name": "\u0e40\u0e2a\u0e23\u0e35\u0e1e\u0e25 \u0e28\u0e23\u0e35\u0e2d\u0e20\u0e31\u0e22",
+        "province_name": "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/3/e0206fbf-6e11-44b2-9a59-cb6d4c3f8594.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e34\u0e07\u0e2b\u0e32 \u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e0a\u0e39",
+        "province_name": "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/4/697e1afb-350d-4831-85fa-affb299395bf.jpg",
+        "memberType": "zone",
+        "name": "\u0e18\u0e23\u0e23\u0e28 \u0e17\u0e2d\u0e07\u0e04\u0e07",
+        "province_name": "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/5/a5e859c7-9107-482d-a9de-5ff26e688e80.jpg",
+        "memberType": "zone",
+        "name": "\u0e18\u0e35\u0e23 \u0e23\u0e31\u0e15\u0e19\u0e01\u0e38\u0e25",
+        "province_name": "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/6/11a052b1-a814-40d8-adcc-6faf95cbb13b.jpg",
+        "memberType": "zone",
+        "name": "\u0e18\u0e27\u0e31\u0e0a\u0e0a\u0e31\u0e22 \u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e40\u0e08\u0e23\u0e34\u0e0d",
+        "province_name": "\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e07\u0e02\u0e25\u0e32 \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/2/197df9b7-8338-456b-b3cc-87877c48fd62.jpg",
+        "memberType": "zone",
+        "name": "\u0e08\u0e23\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2d\u0e31\u0e25\u0e23\u0e35\u0e2d\u0e32\u0e2b\u0e4c\u0e0b\u0e38\u0e19\u0e2b\u0e19\u0e35\u0e48",
+        "province_name": "\u0e2a\u0e07\u0e02\u0e25\u0e32",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e07\u0e02\u0e25\u0e32 \u0e40\u0e02\u0e15 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/5/6480a5d8-1f82-4154-82b2-6722bdf0e74a.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e32\u0e22\u0e31\u0e0d\u0e2b\u0e4c \u0e41\u0e01\u0e49\u0e27\u0e44\u0e1f",
+        "province_name": "\u0e2a\u0e07\u0e02\u0e25\u0e32",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2a\u0e07\u0e02\u0e25\u0e32 \u0e40\u0e02\u0e15 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/6/3774e7b4-ec69-4eeb-903c-21f439ec2818.jpg",
+        "memberType": "zone",
+        "name": "\u0e2d\u0e32\u0e23\u0e22\u0e32 \u0e08\u0e31\u0e19\u0e17\u0e27\u0e31\u0e25\u0e22\u0e4c",
+        "province_name": "\u0e2a\u0e07\u0e02\u0e25\u0e32",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19 \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/1/07a0dc01-de8e-49ee-8058-5b819b089d86.jpg",
+        "memberType": "zone",
+        "name": "\u0e1e\u0e08\u0e19\u0e4c \u0e2a\u0e32\u0e23\u0e1a\u0e23\u0e23\u0e13",
+        "province_name": "\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/1/52fec00a-6242-47d4-b8a9-bef2b50b63d0.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e31\u0e19\u0e17\u0e31\u0e14 \u0e1e\u0e31\u0e19\u0e18\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/3/51060ec4-e11c-4990-958f-2fd6e9fe4cc4.jpg",
+        "memberType": "zone",
+        "name": "\u0e1e\u0e31\u0e12\u0e19\u0e1e\u0e07\u0e29\u0e4c \u0e41\u0e01\u0e49\u0e27\u0e27\u0e07\u0e29\u0e32",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/4/320865ef-0bd0-4347-b4e7-beda078d52f5.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e31\u0e0d\u0e08\u0e23 \u0e17\u0e32\u0e1a\u0e38\u0e15\u0e14\u0e32",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/6/1e39fd11-2bc7-47ae-88e9-64e123f3770c.jpg",
+        "memberType": "zone",
+        "name": "\u0e17\u0e2d\u0e07\u0e21\u0e32 \u0e2b\u0e19\u0e31\u0e19\u0e15\u0e4a\u0e30",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/7/1a12c28f-68ed-4f54-81cb-362b37bc9f2d.jpg",
+        "memberType": "zone",
+        "name": "\u0e40\u0e15\u0e34\u0e21 \u0e21\u0e31\u0e48\u0e19\u0e2a\u0e31\u0e15\u0e22\u0e4c",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/8/e509b29d-9795-472b-aa4a-3d99374a04de.jpg",
+        "memberType": "zone",
+        "name": "\u0e01\u0e24\u0e29\u0e14\u0e32 \u0e27\u0e34\u0e23\u0e31\u0e07\u0e29\u0e32",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/9/6a881055-3509-46a3-81f2-d50a06be9b0d.jpg",
+        "memberType": "zone",
+        "name": "\u0e19\u0e34\u0e20\u0e32\u0e27\u0e23\u0e23\u0e13 \u0e40\u0e2a\u0e32\u0e18\u0e07",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e40\u0e02\u0e15 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/10/4cd3b1c8-d4b4-4ff7-ac20-a7bbbcfe31d9.jpg",
+        "memberType": "zone",
+        "name": "\u0e08\u0e31\u0e01\u0e23\u0e1e\u0e31\u0e19\u0e18\u0e4c \u0e08\u0e31\u0e19\u0e1e\u0e27\u0e07",
+        "province_name": "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+        "relatedTo": [],
+        "zone_number": "10"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32 \u0e40\u0e02\u0e15 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/1/ff7bd372-be23-4a8f-b004-87c936bceee8.jpg",
+        "memberType": "zone",
+        "name": "\u0e2a\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c\u0e0a\u0e31\u0e22 \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+        "province_name": "\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0303542001616",
+                "JP_TNAME": "\u0e40\u0e2d\u0e2a.\u0e40\u0e2d\u0e2a.\u0e1e\u0e35 \u0e21\u0e32\u0e23\u0e4c\u0e40\u0e01\u0e47\u0e15\u0e15\u0e34\u0e49\u0e07 \u0e41\u0e2d\u0e19\u0e14\u0e4c\u0e04\u0e2d\u0e19\u0e2a\u0e4c",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e02\u0e32\u0e22\u0e2a\u0e48\u0e07\u0e1c\u0e25\u0e34\u0e15\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e19\u0e21",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e2a\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c\u0e0a\u0e31\u0e22 \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+                "_id": "0303542001616",
+                "activity_code": "46314",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e2b\u0e49\u0e32\u0e07\u0e2b\u0e38\u0e49\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            },
+            {
+                "JP_ENAME": "SEMA INTER CONS CO., LTD.",
+                "JP_NO": "0305538000602",
+                "JP_TNAME": "\u0e40\u0e2a\u0e21\u0e32\u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e04\u0e2d\u0e19\u0e2a\u0e4c \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01\u0e2d\u0e32\u0e28\u0e31\u0e22",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e2a\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c\u0e0a\u0e31\u0e22 \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+                "_id": "0305538000602",
+                "activity_code": "41001",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            },
+            {
+                "JP_ENAME": "REANGSAVAITURAKIJ LIMITED PARTNERSHIP",
+                "JP_NO": "0303551002158",
+                "JP_TNAME": "\u0e40\u0e23\u0e37\u0e2d\u0e07\u0e44\u0e2a\u0e27\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e23\u0e31\u0e01\u0e29\u0e32\u0e04\u0e27\u0e32\u0e21\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e2a\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c\u0e0a\u0e31\u0e22 \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+                "_id": "0303551002158",
+                "activity_code": "80100",
+                "cpm": "500,000.00",
+                "jptn": "\u0e2b\u0e49\u0e32\u0e07\u0e2b\u0e38\u0e49\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e01\u0e32\u0e23\u0e0a\u0e33\u0e23\u0e30\u0e1a\u0e31\u0e0d\u0e0a\u0e35"
+            },
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0303540000388",
+                "JP_TNAME": "\u0e2a.\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e17\u0e2d\u0e07 \u0e04\u0e2d\u0e19\u0e2a\u0e15\u0e23\u0e31\u0e04\u0e0a\u0e31\u0e48\u0e19",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01\u0e2d\u0e32\u0e28\u0e31\u0e22",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e2a\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c\u0e0a\u0e31\u0e22 \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+                "_id": "0303540000388",
+                "activity_code": "41002",
+                "cpm": "3,000,000.00",
+                "jptn": "\u0e2b\u0e49\u0e32\u0e07\u0e2b\u0e38\u0e49\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32 \u0e40\u0e02\u0e15 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/2/deb6193b-db17-42bd-89b1-6f2e9c2b5637.jpg",
+        "memberType": "zone",
+        "name": "\u0e2d\u0e42\u0e13\u0e17\u0e31\u0e22 \u0e1e\u0e34\u0e19\u0e34\u0e08\u0e44\u0e0a\u0e22",
+        "province_name": "\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32 \u0e40\u0e02\u0e15 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/4/51939ab0-ec19-4253-8c20-821d88f5654b.jpg",
+        "memberType": "zone",
+        "name": "\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c \u0e1b\u0e25\u0e31\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10",
+        "province_name": "\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e40\u0e02\u0e15 (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32 \u0e40\u0e02\u0e15 12)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/12/1b7386ad-22a0-4b82-ad58-596959eaff13.jpg",
+        "memberType": "zone",
+        "name": "\u0e13\u0e1b\u0e20\u0e31\u0e2a \u0e0a\u0e14\u0e01\u0e25\u0e32\u0e07",
+        "province_name": "\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32",
+        "relatedTo": [],
+        "zone_number": "12"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/8d62e987-6a13-4aab-8abf-2faedfb462e0.jpg",
+        "memberType": "partylist",
+        "name": "\u0e0a\u0e34\u0e07\u0e0a\u0e31\u0e22 \u0e21\u0e07\u0e04\u0e25\u0e18\u0e23\u0e23\u0e21",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "THE AGRICULTURE AND LABOURS DEVELOPMENT CO., LTD.",
+                "JP_NO": "0415527000087",
+                "JP_TNAME": "\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e01\u0e32\u0e23\u0e40\u0e01\u0e29\u0e15\u0e23\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e41\u0e23\u0e07\u0e07\u0e32\u0e19 \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e02\u0e32\u0e22\u0e2a\u0e48\u0e07\u0e27\u0e31\u0e15\u0e16\u0e38\u0e14\u0e34\u0e1a\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23\u0e40\u0e01\u0e29\u0e15\u0e23\u0e41\u0e25\u0e30\u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e42\u0e14\u0e22\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e04\u0e48\u0e32\u0e15\u0e2d\u0e1a\u0e41\u0e17\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e15\u0e32\u0e21\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e08\u0e49\u0e32\u0e07",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e0a\u0e34\u0e07\u0e0a\u0e31\u0e22 \u0e21\u0e07\u0e04\u0e25\u0e18\u0e23\u0e23\u0e21",
+                "_id": "0415527000087",
+                "activity_code": "46101",
+                "cpm": "5,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/e7040eb7-961f-49a1-be54-11e44664ed7a.jpg",
+        "memberType": "partylist",
+        "name": "\u0e27\u0e34\u0e17\u0e22\u0e32 \u0e1b\u0e23\u0e32\u0e1a\u0e20\u0e31\u0e22",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "V.S.C GUARD CO., LTD.",
+                "JP_NO": "0105541055805",
+                "JP_TNAME": "\u0e27\u0e35.\u0e40\u0e2d\u0e2a.\u0e0b\u0e35.\u0e01\u0e32\u0e23\u0e4c\u0e14 \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e23\u0e31\u0e01\u0e29\u0e32\u0e04\u0e27\u0e32\u0e21\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e27\u0e34\u0e17\u0e22\u0e32 \u0e1b\u0e23\u0e32\u0e1a\u0e20\u0e31\u0e22",
+                "_id": "0105541055805",
+                "activity_code": "80100",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/cb9b0e02-74b3-432a-a525-65c222d0cca6.jpg",
+        "memberType": "partylist",
+        "name": "\u0e27\u0e34\u0e40\u0e28\u0e29 \u0e2a\u0e38\u0e23\u0e34\u0e42\u0e22",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "K.S.CLEANING 2015 LIMITED PARTNERSHIP",
+                "JP_NO": "0103559001951",
+                "JP_TNAME": "\u0e40\u0e04.\u0e40\u0e2d\u0e2a.\u0e04\u0e25\u0e35\u0e19\u0e19\u0e34\u0e48\u0e07 2015",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e17\u0e33\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e30\u0e2d\u0e32\u0e14\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e2d\u0e32\u0e04\u0e32\u0e23",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e27\u0e34\u0e40\u0e28\u0e29 \u0e2a\u0e38\u0e23\u0e34\u0e42\u0e22",
+                "_id": "0103559001951",
+                "activity_code": "81210",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e2b\u0e49\u0e32\u0e07\u0e2b\u0e38\u0e49\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e01\u0e32\u0e23\u0e0a\u0e33\u0e23\u0e30\u0e1a\u0e31\u0e0d\u0e0a\u0e35"
+            },
+            {
+                "JP_ENAME": "STAR LIGHT FRAM IMPORT-EXPORT CO., LTD.",
+                "JP_NO": "0105530000613",
+                "JP_TNAME": "\u0e2a\u0e15\u0e32\u0e23\u0e4c\u0e44\u0e25\u0e17\u0e4c\u0e40\u0e1f\u0e23\u0e21 \u0e2d\u0e34\u0e21\u0e1b\u0e2d\u0e23\u0e4c\u0e15-\u0e40\u0e2d\u0e47\u0e01\u0e0b\u0e4c\u0e1b\u0e2d\u0e23\u0e4c\u0e15  \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e02\u0e32\u0e22\u0e2a\u0e48\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32\u0e25\u0e0a\u0e47\u0e2d\u0e01\u0e42\u0e01\u0e41\u0e25\u0e15\u0e41\u0e25\u0e30\u0e25\u0e39\u0e01\u0e01\u0e27\u0e32\u0e14",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e27\u0e34\u0e40\u0e28\u0e29 \u0e2a\u0e38\u0e23\u0e34\u0e42\u0e22",
+                "_id": "0105530000613",
+                "activity_code": "46317",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/c7d5c052-2d1f-49ee-b416-7c63cffba6cd.jpg",
+        "memberType": "partylist",
+        "name": "\u0e40\u0e2a\u0e01\u0e2a\u0e23\u0e23 \u0e0a\u0e14\u0e01\u0e25\u0e32\u0e07",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/e2060afb-bbc0-4db4-a01b-45b6751c0674.jpg",
+        "memberType": "partylist",
+        "name": "\u0e01\u0e24\u0e15\u0e34\u0e40\u0e14\u0e0a \u0e20\u0e31\u0e01\u0e14\u0e35\u0e25\u0e49\u0e19",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/81fecae3-1a2f-4dce-8ed2-fbaceda06431.jpg",
+        "memberType": "partylist",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 \u0e40\u0e2a\u0e23\u0e34\u0e21\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "P. SUPMONGKOL LTD., PART.",
+                "JP_NO": "0103543003380",
+                "JP_TNAME": "\u0e1b.\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e21\u0e07\u0e04\u0e25",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e17\u0e32\u0e2a\u0e35",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 \u0e40\u0e2a\u0e23\u0e34\u0e21\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c",
+                "_id": "0103543003380",
+                "activity_code": "43303",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e2b\u0e49\u0e32\u0e07\u0e2b\u0e38\u0e49\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e01\u0e32\u0e23\u0e0a\u0e33\u0e23\u0e30\u0e1a\u0e31\u0e0d\u0e0a\u0e35"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/7c1d1d8e-3e9c-4857-a65a-f080251ba722.jpg",
+        "memberType": "partylist",
+        "name": "\u0e0a\u0e27\u0e25\u0e34\u0e15 \u0e20\u0e39\u0e48\u0e1e\u0e31\u0e12\u0e19\u0e4c",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/3197dd9a-00ae-4e84-83cc-203d0acf85b7.jpg",
+        "memberType": "partylist",
+        "name": "\u0e18\u0e31\u0e0d\u0e13\u0e35\u0e22\u0e4c \u0e28\u0e23\u0e35\u0e27\u0e23\u0e40\u0e23\u0e37\u0e2d\u0e07\u0e0a\u0e31\u0e22",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/65feea54-218a-4e21-8483-a9ef381b7ac3.jpg",
+        "memberType": "partylist",
+        "name": "\u0e13\u0e31\u0e10\u0e23\u0e31\u0e0a\u0e15\u0e4c \u0e09\u0e32\u0e22\u0e27\u0e23\u0e20\u0e31\u0e17\u0e23",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "PANDA LOGISTICS COMPANY LIMITED",
+                "JP_NO": "0115557017371",
+                "JP_TNAME": "\u0e41\u0e1e\u0e19\u0e14\u0e49\u0e32 \u0e42\u0e25\u0e08\u0e34\u0e2a\u0e15\u0e34\u0e01\u0e2a\u0e4c  \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e02\u0e19\u0e2a\u0e48\u0e07\u0e41\u0e25\u0e30\u0e02\u0e19\u0e16\u0e48\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e04\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e32\u0e23",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e13\u0e31\u0e10\u0e23\u0e31\u0e0a\u0e15\u0e4c \u0e09\u0e32\u0e22\u0e27\u0e23\u0e20\u0e31\u0e17\u0e23",
+                "_id": "0115557017371",
+                "activity_code": "49323",
+                "cpm": "5,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e22\u0e31\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e34\u0e08\u0e01\u0e32\u0e23\u0e2d\u0e22\u0e39\u0e48"
+            },
+            {
+                "JP_ENAME": "PANDA INTERNATIONAL COMPANY LIMITED",
+                "JP_NO": "0115558022239",
+                "JP_TNAME": "\u0e41\u0e1e\u0e19\u0e14\u0e49\u0e32 \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19\u0e41\u0e19\u0e25 \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e02\u0e19\u0e2a\u0e48\u0e07\u0e41\u0e25\u0e30\u0e02\u0e19\u0e16\u0e48\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e04\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e32\u0e23",
+                "PARTNER": " \u0e19\u0e32\u0e22\u0e13\u0e31\u0e10\u0e23\u0e31\u0e0a\u0e15\u0e4c \u0e09\u0e32\u0e22\u0e27\u0e23\u0e20\u0e31\u0e17\u0e23",
+                "_id": "0115558022239",
+                "activity_code": "49323",
+                "cpm": "2,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e22\u0e31\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e34\u0e08\u0e01\u0e32\u0e23\u0e2d\u0e22\u0e39\u0e48"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/5ba600e5-810b-4dc5-a3d3-27a4363bd618.jpg",
+        "memberType": "partylist",
+        "name": "\u0e2a\u0e38\u0e23\u0e0a\u0e31\u0e22 \u0e2a\u0e38\u0e14\u0e23\u0e31\u0e01\u0e29\u0e4c",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 11)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/bf5e2690-ecb1-44b8-8806-b665c8af61ac.jpg",
+        "memberType": "partylist",
+        "name": "\u0e18\u0e19\u0e20\u0e31\u0e17\u0e23 \u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e40\u0e1e\u0e47\u0e0a\u0e23\u0e4c\u0e1a\u0e38\u0e23\u0e35",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 12)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/1ee06b16-5f23-4a88-ad07-b6f4c105a4bc.jpg",
+        "memberType": "partylist",
+        "name": "\u0e2d\u0e23\u0e08\u0e34\u0e23\u0e32 \u0e42\u0e01\u0e28\u0e25\u0e42\u0e0a\u0e15\u0e34\u0e0a\u0e42\u0e25\u0e18\u0e23",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "CON'S SERVICE CENTER COMPANY LIMITED",
+                "JP_NO": "0105556106320",
+                "JP_TNAME": "\u0e04\u0e2d\u0e19\u0e2a\u0e4c \u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e27\u0e34\u0e2a \u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c \u0e08\u0e33\u0e01\u0e31\u0e14",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "\u0e01\u0e32\u0e23\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01\u0e2d\u0e32\u0e28\u0e31\u0e22",
+                "PARTNER": " \u0e19\u0e32\u0e07\u0e2a\u0e32\u0e27\u0e2d\u0e23\u0e08\u0e34\u0e23\u0e32 \u0e42\u0e01\u0e28\u0e25\u0e42\u0e0a\u0e15\u0e34\u0e0a\u0e42\u0e25\u0e18\u0e23",
+                "_id": "0105556106320",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e08\u0e33\u0e01\u0e31\u0e14",
+                "stn": "\u0e23\u0e49\u0e32\u0e07"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48",
+        "desc": "\u0e2a.\u0e2a. \u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e23\u0e32\u0e22\u0e0a\u0e37\u0e48\u0e2d (\u0e25\u0e33\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 13)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/3a71ae75-ceba-4549-85bf-4ad564e1be05.jpg",
+        "memberType": "partylist",
+        "name": "\u0e19\u0e1e\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c \u0e0a\u0e38\u0e15\u0e34\u0e1e\u0e07\u0e28\u0e4c\u0e27\u0e31\u0e12\u0e19\u0e4c",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    }
+]
