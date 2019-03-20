@@ -273,7 +273,9 @@ class Party extends React.Component {
               </div>
 
               <div className={partyStyle.orgFooter}>
-                <Link className="FooterLink"  to={`/g/${this.props.params.orgID}/`}>ค้นหาเพิ่มเติมใน เว็บภาษีไปไหน</Link>
+                <div className="FooterLink">
+                  <a href={`https://govspending.data.go.th/budget?winner=${this.props.params.orgID}`} target="_blank">ค้นหาเพิ่มเติมใน เว็บภาษีไปไหน</a>
+                </div>
                 <div className="FooterLink">
                   <a href={config.url.credenBusinessPage.replace(/<ID>/, selectedObject._id)} target="_blank">ค้นหาเพิ่มเติมใน Creden.co</a>
                 </div>
