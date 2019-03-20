@@ -511,7 +511,21 @@
         "memberType": "zone",
         "name": "สายัณห์ บุตรดี",
         "province_name": "อุดรธานี",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "BUDDELERT INTER GROUP LIMITED PARTNERSHIP",
+                "JP_NO": "0423547000382",
+                "JP_TNAME": "บุตรดีเลิศ อินเตอร์กรุ๊ป",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการอื่นๆซึ่งมิได้จัด ประเภทไว้ในที่อื่น",
+                "PARTNER": " สิบตรีสายัณห์ บุตรดีเลิศ",
+                "_id": "0423547000382",
+                "activity_code": "70209",
+                "cpm": "150,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "8"
     },
     {

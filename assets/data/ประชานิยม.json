@@ -2209,7 +2209,21 @@
         "memberType": "zone",
         "name": "ราตรี สุขสม",
         "province_name": "ปทุมธานี",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "NANTANACH COMPANY LIMITED",
+                "JP_NO": "0105534096712",
+                "JP_TNAME": "นันทนัช จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "ร้านขายปลีกเสื้อผ้า",
+                "PARTNER": " นางสาวราตรี สุขสมนึก",
+                "_id": "0105534096712",
+                "activity_code": "47711",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "6"
     },
     {

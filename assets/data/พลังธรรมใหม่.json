@@ -705,7 +705,21 @@
         "memberType": "zone",
         "name": "ณรงค์ วิไล",
         "province_name": "ลพบุรี",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "FUJIGO LIMITED PARTNERSHIP",
+                "JP_NO": "0103525023960",
+                "JP_TNAME": "ฟูจิโก",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "ธุรกิจจัดนำเที่ยว",
+                "PARTNER": " นายณรงค์ วิไลวรรณ",
+                "_id": "0103525023960",
+                "activity_code": "79120",
+                "cpm": "200,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "4"
     },
     {
@@ -2434,21 +2448,7 @@
         "memberType": "partylist",
         "name": "นภา วันดี",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "EDUCATION SEEDS COMPANY LIMITED",
-                "JP_NO": "0125557027237",
-                "JP_TNAME": "เอ็ดดูเคชั่น ซีดส์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การบริการที่สนับสนุนการศึกษา",
-                "PARTNER": " นางสาวรุ่งนภา วันดี",
-                "_id": "0125557027237",
-                "activity_code": "85500",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

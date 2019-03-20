@@ -1179,21 +1179,7 @@
         "memberType": "zone",
         "name": "กุล บัวศรี",
         "province_name": "เพชรบูรณ์",
-        "relatedTo": [
-            {
-                "JP_ENAME": "SOOTTIPAN PANICH LIMITED PARTNERSHIP",
-                "JP_NO": "0903547000311",
-                "JP_TNAME": "โสตถิพันธ์พาณิชย์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตสุราผลไม้ (ไวน์) ซึ่งมิได้จัดประเภทไว้ที่อื่น",
-                "PARTNER": " นายรักสกุล บัวศรี",
-                "_id": "0903547000311",
-                "activity_code": "11029",
-                "cpm": "1,200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "4"
     },
     {

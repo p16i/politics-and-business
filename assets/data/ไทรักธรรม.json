@@ -2519,21 +2519,7 @@
         "memberType": "zone",
         "name": "สมัย ตะเภาเงิน",
         "province_name": "บุรีรัมย์",
-        "relatedTo": [
-            {
-                "JP_ENAME": "NGOENSAMAI 56 LIMITED PARTNERSHIP",
-                "JP_NO": "0103556010151",
-                "JP_TNAME": "เงินสมัย 56",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง",
-                "PARTNER": " นางสมัย ตะเภาเงิน",
-                "_id": "0103556010151",
-                "activity_code": "92001",
-                "cpm": "200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "8"
     },
     {

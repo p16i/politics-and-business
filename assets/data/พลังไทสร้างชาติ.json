@@ -1146,25 +1146,7 @@
         "memberType": "zone",
         "name": "กนก กล่ำดิษฐ",
         "province_name": "สมุทรปราการ",
-        "relatedTo": [
-            {
-                "JP_ENAME": "JUANINGLANGUAGE CO.,LTD.",
-                "JP_NO": "0115554006662",
-                "JP_TNAME": "สอนภาษา ฮวน อิ๋ง จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "กิจกรรมการเรียนการสอนภาษา",
-                "PARTNER": " ว่าที่ร้อยตรีกนก กล่ำดิษฐ",
-                "_id": "0115554006662",
-                "activity_code": "85491",
-                "avgPriceDiff": 0.0,
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 2275360.0,
-                "totalPriceBuild": 2275360.0,
-                "totalProjects": 4
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "6"
     },
     {

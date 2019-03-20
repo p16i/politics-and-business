@@ -378,7 +378,21 @@
         "memberType": "zone",
         "name": "สาธิต สุขรี",
         "province_name": "อุทัยธานี",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "PORNPICHET 88 LIMITED PARTNERSHIP",
+                "JP_NO": "0103556001984",
+                "JP_TNAME": "พรพิเชษฐ์ 88",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง",
+                "PARTNER": " นายสาธิต สุขรี่",
+                "_id": "0103556001984",
+                "activity_code": "92001",
+                "cpm": "200,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
         "zone_number": "1"
     },
     {
@@ -834,7 +848,21 @@
         "memberType": "zone",
         "name": "ไพรวัลย์ บุญศรี",
         "province_name": "ยโสธร",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "RATTANAPORN RUNGRUEANGKICH LIMITED PARTNERSHIP",
+                "JP_NO": "0633547000607",
+                "JP_TNAME": "รัตนาภรณ์รุ่งเรืองกิจ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตน้ำดื่มบริสุทธิ์และน้ำแร่บรรจุขวด",
+                "PARTNER": " นายไพรวัลย์ บุญศรีกุล",
+                "_id": "0633547000607",
+                "activity_code": "11041",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "3"
     },
     {

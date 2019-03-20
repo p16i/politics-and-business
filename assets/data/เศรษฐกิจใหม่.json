@@ -982,47 +982,7 @@
         "memberType": "zone",
         "name": "อาภากร นามเดช",
         "province_name": "หนองคาย",
-        "relatedTo": [
-            {
-                "JP_ENAME": "SAKARPA SAI THONG LIMITED PARTNERSHIP",
-                "JP_NO": "0203540001491",
-                "JP_TNAME": "ศักดิ์อาภาทรายทอง",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขายส่งอิฐหินปูนทรายและผลิตภัณฑ์คอนกรีต",
-                "PARTNER": " นางอาภากร นามเดช",
-                "_id": "0203540001491",
-                "activity_code": "46631",
-                "cpm": "500,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "APAKORN SAIKEAW  LIMITED PARTNERSHIP",
-                "JP_NO": "0103549006666",
-                "JP_TNAME": "อาภากร ทรายแก้ว",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขุดกรวดและทราย",
-                "PARTNER": " นางอาภากร นามเดช",
-                "_id": "0103549006666",
-                "activity_code": "08103",
-                "cpm": "600,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "PHANSAN SAIKAEW LTD., PART.",
-                "JP_NO": "0203541002105",
-                "JP_TNAME": "ไพศาลทรายแก้ว",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การผลิตอิฐ",
-                "PARTNER": " นางอาภากร นามเดช",
-                "_id": "0203541002105",
-                "activity_code": "23921",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "3"
     },
     {
@@ -4854,19 +4814,6 @@
         "name": "ผดุง แสนสุข",
         "province_name": "กรุงเทพมหานคร",
         "relatedTo": [
-            {
-                "JP_ENAME": "NON",
-                "JP_NO": "0123540003982",
-                "JP_TNAME": "ทรัพย์มงคลชัย (1997)",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การขนส่งผู้โดยสารทางบกอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " พันโทผดุง แสนสุข",
-                "_id": "0123540003982",
-                "activity_code": "49329",
-                "cpm": "200,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            },
             {
                 "JP_ENAME": "HIGHLAND MINING CO.,LTD.",
                 "JP_NO": "0105554106292",
