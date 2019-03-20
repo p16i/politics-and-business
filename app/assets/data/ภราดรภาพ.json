@@ -1371,21 +1371,7 @@
         "memberType": "zone",
         "name": "ทิมาภรณ์ ชัยชนะ",
         "province_name": "นครศรีธรรมราช",
-        "relatedTo": [
-            {
-                "JP_ENAME": "R.ST.NAKHON TRADING  LIMITED PARTNERSHIP",
-                "JP_NO": "0803546001802",
-                "JP_TNAME": "อาร์.เอส.ที.นครเทรดดิ้ง",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
-                "PARTNER": " นางจันทิมาภรณ์ ชัยชนะ",
-                "_id": "0803546001802",
-                "activity_code": "41002",
-                "cpm": "2,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "1"
     },
     {
@@ -1721,34 +1707,7 @@
         "memberType": "zone",
         "name": "กรณ์ ขาวสะอาด",
         "province_name": "อุบลราชธานี",
-        "relatedTo": [
-            {
-                "JP_ENAME": "HAPPY HOUR VITAMINS (THAILAND) COMPANY LIMITED",
-                "JP_NO": "0835561004215",
-                "JP_TNAME": "แฮปปี้ อาวร์ วิตามิน (ไทยแลนด์) จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งผลิตภัณฑ์อาหารอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นายพลากรณ์ ขาวสะอาด",
-                "_id": "0835561004215",
-                "activity_code": "46319",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
-                "JP_ENAME": "PAXTON INTERNATIONAL  COMPANY LIMITED",
-                "JP_NO": "0835548011980",
-                "JP_TNAME": "แพคทอน อินเตอร์เนชั่นแนล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การซื้อและการขายอสังหาริมทรัพย์ที่เป็นของตนเอง เพื่อการพักอาศัย",
-                "PARTNER": " นายพลากรณ์ ขาวสะอาด",
-                "_id": "0835548011980",
-                "activity_code": "68101",
-                "cpm": "2,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "6"
     },
     {

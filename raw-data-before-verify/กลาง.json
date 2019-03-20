@@ -1,0 +1,743 @@
+[
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (สมุทรสาคร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/74/1/ee56ed32-b372-4ae2-9c94-bc65043f0a0d.jpg",
+        "memberType": "zone",
+        "name": "กนกคัคนางค พงศ์สถาพร",
+        "province_name": "สมุทรสาคร",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/3/422707cf-1aba-4894-b819-df47d950b6a3.jpg",
+        "memberType": "zone",
+        "name": "ชัยวัฒน์ พหลทัพย์",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/1/7c457d7e-9bdd-4c21-9491-7607b4a69256.jpg",
+        "memberType": "zone",
+        "name": "ศุภศิษฏ์ อนันตศาลา",
+        "province_name": "ลพบุรี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SUPASIT LIFE VISION LIMITED PARTNERSHIP",
+                "JP_NO": "0163561000630",
+                "JP_TNAME": "ศุภศิษฏ์ ไลฟ์ วิชั่นส์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา",
+                "PARTNER": " นายศุภศิษฏ์ อนันตศาลา",
+                "_id": "0163561000630",
+                "activity_code": "73101",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/2/32c23468-e489-4d40-8f28-4d02cad551dc.jpg",
+        "memberType": "zone",
+        "name": "นิติพงษ์ จันทบาล",
+        "province_name": "ลพบุรี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/3/fecd0ba8-f773-4a03-beab-26c1e27399af.jpg",
+        "memberType": "zone",
+        "name": "ประดิษฐ์ แซ่เอี๋ยว",
+        "province_name": "ลพบุรี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SUPASIT LIFE VISION LIMITED PARTNERSHIP",
+                "JP_NO": "0163561000630",
+                "JP_TNAME": "ศุภศิษฏ์ ไลฟ์ วิชั่นส์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา",
+                "PARTNER": " นายประดิษฐ์ แซ่เอี๋ยว",
+                "_id": "0163561000630",
+                "activity_code": "73101",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/2/1ea66bf5-b52b-4dc0-aa6a-af47ca679bd1.jpg",
+        "memberType": "zone",
+        "name": "แก่นจันทร์ ภูสีเขียว",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/5/a88aa487-25ae-4554-8532-c04573b963ce.jpg",
+        "memberType": "zone",
+        "name": "ราชพฤกษ์ เพิ่มขึ้น",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (มหาสารคาม เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/44/1/9336b70e-ae90-4f25-af5f-cefd3b00b4b7.jpg",
+        "memberType": "zone",
+        "name": "ดนัยชญาพัฒน์ อุทัยเรือง",
+        "province_name": "มหาสารคาม",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (มหาสารคาม เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/44/4/b98cd412-e2df-481b-b243-064eece0e510.jpg",
+        "memberType": "zone",
+        "name": "ชินกร ศรีคราม",
+        "province_name": "มหาสารคาม",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/1/100cc49e-2ed1-43f5-b3b7-fc2ef096a29a.jpg",
+        "memberType": "zone",
+        "name": "สรนันท์ ศรีวงษ์",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [
+            {
+                "JP_ENAME": "BAOWEE RADIO LIMITED PARTNERSHIP",
+                "JP_NO": "0363556001249",
+                "JP_TNAME": "บ่าววี เรดิโอ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การออกอากาศทางวิทยุกระจายเสียง (ยกเว้นทางออนไลน์)",
+                "PARTNER": " นายสรนันท์ ศรีวงษ์",
+                "_id": "0363556001249",
+                "activity_code": "60101",
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ปทุมธานี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/13/4/e9dd164e-da00-45e5-8731-da74a9c0c38d.jpg",
+        "memberType": "zone",
+        "name": "วรวิทย์ จึงสุระ",
+        "province_name": "ปทุมธานี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/2/dec6455a-bf2b-4f93-9880-44a64244e0d4.jpg",
+        "memberType": "zone",
+        "name": "จิรพรรณ แซ่อุ่ย",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/3/1be2cf52-860c-4a9c-87c3-38ade5c2eb68.jpg",
+        "memberType": "zone",
+        "name": "สุรธัช เณรภักดี",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/7/a8d1cdbe-051b-4fe0-a4d2-c7f14daee91f.jpg",
+        "memberType": "zone",
+        "name": "ภัทรานิษฐ์ เจริญธรรม",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/1/98fd9203-7320-4ba9-aed0-596073ef5840.jpg",
+        "memberType": "zone",
+        "name": "จิทิพันธ์ คำศรี",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/2/1456ba45-7e7d-4598-b43d-60a489b39df1.jpg",
+        "memberType": "zone",
+        "name": "อารีรัตน์ วรรณทวี",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/3/1697f2ae-2183-45b8-8384-135c18287631.jpg",
+        "memberType": "zone",
+        "name": "เข็มมา สีทิ",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/5/554b3e74-e951-4dad-bfd2-104c578c238d.jpg",
+        "memberType": "zone",
+        "name": "ดำรงค์ เกษแก้ว",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/6/00a98894-78cb-4fd8-b86f-241fda36222b.jpg",
+        "memberType": "zone",
+        "name": "เศรษฐา สมศิริ",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/8/31ec5afd-ce5b-44b1-b328-1e31561cd063.jpg",
+        "memberType": "zone",
+        "name": "กุหลาบ นามวงษ์",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/1/f11d6e36-24dc-4505-bb7f-af0fe771472c.jpg",
+        "memberType": "zone",
+        "name": "ณัฐกิตติ์ กานต์ติวรรณ",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/2/7492bfc3-ecc6-44e8-b4e5-dbaef432a8f1.jpg",
+        "memberType": "zone",
+        "name": "รัชพล มหาภาควงศ์",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/5/4610bc77-3a87-4c9f-ad26-b171d885af8d.jpg",
+        "memberType": "zone",
+        "name": "ฐกฤต ราชโคตร",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/6/99b038b9-196c-4bfe-bb54-d9b37c70243c.jpg",
+        "memberType": "zone",
+        "name": "ธิษณามตี นารัตน์ตุง",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/7/1bf9c256-e477-4dac-b692-44a302eb14ae.jpg",
+        "memberType": "zone",
+        "name": "ทรงพล ราชโคตร",
+        "province_name": "อุดรธานี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "J.P.DIE CASTING SERVICE LIMITED PARTNERSHIP",
+                "JP_NO": "0203547002131",
+                "JP_TNAME": "เจ.พี ไดแคสติ้ง เซอร์วิส จำกัด",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายปลีกชิ้นส่วนและอุปกรณ์เสริมใหม่ของจักรยานยนต์",
+                "PARTNER": " นายทรงพล ราชโคตร",
+                "_id": "0203547002131",
+                "activity_code": "45403",
+                "cpm": "1,500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/4/0871dda6-7280-486f-8abd-b254aec0f8da.jpg",
+        "memberType": "zone",
+        "name": "สุจิตรา คำไธสง",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/8/435e2793-7912-41cd-905e-022f9011c913.jpg",
+        "memberType": "zone",
+        "name": "น้อง ต้นแปะ",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/9/7a6831d8-d0c4-40d8-a0a0-7989fe253db5.jpg",
+        "memberType": "zone",
+        "name": "เฉลิม แงวกุดเรือ",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/1/2a3750ad-0b5b-4cb3-9442-fb1eff099872.jpg",
+        "memberType": "zone",
+        "name": "กุศล เลิศวิบูลย์กิจ",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/3/d23adef2-d740-42c9-8571-863190e41387.jpg",
+        "memberType": "zone",
+        "name": "แดง มาระพันธ์",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/8/f9d90a58-47bb-4971-aa1d-1e90549a7e33.jpg",
+        "memberType": "zone",
+        "name": "นริศรา มาระพันธ์",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/2/47daca11-9464-4c1b-a9b1-168a7863114a.jpg",
+        "memberType": "zone",
+        "name": "อัศจรรย์ เขมกานนท์",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/7/883903f9-c718-480d-8f2c-e8a8008b04ee.jpg",
+        "memberType": "zone",
+        "name": "นิธิศ ศรีแย้ม",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "MOORUAY COMPANY LIMITED",
+                "JP_NO": "0115561005005",
+                "JP_TNAME": "หมูรวย จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การบริการด้านอาหารในภัตตาคาร/ร้านอาหาร",
+                "PARTNER": " นายนิธิศ ศรีแย้ม",
+                "_id": "0115561005005",
+                "activity_code": "56101",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/8/fb4563aa-bdde-4f2f-9bfb-55e9b06bf658.jpg",
+        "memberType": "zone",
+        "name": "สนั่น พานทอง",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 15)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/15/c157b8ee-0437-4597-9d4f-8ce3be63ab77.jpg",
+        "memberType": "zone",
+        "name": "สุรัสวดี ตรีเหรา",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "RAM PROPERTIES COMPANY LIMITED",
+                "JP_NO": "0105560179981",
+                "JP_TNAME": "ราม พร๊อพเพอร์ตี้ส์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การติดตั้งส่วนประกอบอาคารและการตกแต่งภายใน",
+                "PARTNER": " นางสาวสุรัสวดี ตรีเหรา",
+                "_id": "0105560179981",
+                "activity_code": "43301",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "ROYAL THAI ASSET MANAGEMENT COMPANY LIMITED",
+                "JP_NO": "0105553130424",
+                "JP_TNAME": "โรแยล ไทย แอซเซท แมนเนจเม้นท์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมบริการอื่นๆที่เกี่ยวกับอสังหาริมทรัพย์โดยได้รับ ค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นางสาวสุรัสวดี ตรีเหรา",
+                "_id": "0105553130424",
+                "activity_code": "68202",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "15"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 17)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/17/41db1edd-94bc-445f-aea2-a63942aaab8b.jpg",
+        "memberType": "zone",
+        "name": "กัณฑ์ พรหมสุวรรณ์",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "17"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 20)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/20/84d373fc-6b40-4471-a25e-61e40328a421.jpg",
+        "memberType": "zone",
+        "name": "เผ่าชนะ ชูเวช",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "XAAVEE DESIGN  COMPANY LIMITED",
+                "JP_NO": "0105547029491",
+                "JP_TNAME": "ซาวี่ ดีไซน์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การบริการเป็นตลาดกลางในการซื้อขายสินค้าหรือบริการ โดยวิธีใช้สื่ออิเล็กทรอนิกส์ผ่านระบบเครือข่ายอินเทอร์เน็ต",
+                "PARTNER": " นายเผ่าชนะ ชูเวช",
+                "_id": "0105547029491",
+                "activity_code": "63113",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "CHOOWAVE MARINE COMPANY LIMITED",
+                "JP_NO": "0125556022762",
+                "JP_TNAME": "ชูเวฟ มารีน จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การผลิตชุดกีฬา",
+                "PARTNER": " นายเผ่าชนะ ชูเวช",
+                "_id": "0125556022762",
+                "activity_code": "14115",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "20"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 21)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/21/fb7ccaee-7b63-4e05-9544-e568a537d514.jpg",
+        "memberType": "zone",
+        "name": "บุญเรือง คำศิลา",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "21"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 22)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/22/b7908920-d98e-44d9-9600-7a9a5f6eac40.jpg",
+        "memberType": "zone",
+        "name": "จันทนา แสนสำราญ",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "22"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 23)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/23/a228f6eb-3e53-4a83-9cc2-0b6fe5c0eda8.jpg",
+        "memberType": "zone",
+        "name": "สมสุข สวัสดิ์ใหม่",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "23"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 24)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/24/f16598ed-4049-4d6d-baef-508dfb3bd26c.jpg",
+        "memberType": "zone",
+        "name": "ศรุต คงตระกูล",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "24"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 25)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/25/6c1667c0-3ee6-4ef5-9d55-e0bf4481ccfd.jpg",
+        "memberType": "zone",
+        "name": "จันทร์จิรา เกษมศรีนิวัฒนา",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "J. NIWATANA GRAMENT CO., LTD.",
+                "JP_NO": "0105534072732",
+                "JP_TNAME": "จ.นิวัฒนาการ์เมนท์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การผลิตเครื่องปกคลุมหรือสวมศีรษะ",
+                "PARTNER": " นางสาวจันทร์จิรา เกษมศรีนิวัฒนา",
+                "_id": "0105534072732",
+                "activity_code": "14131",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "25"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 26)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/26/8a0b8445-4245-46ab-b31b-b9ba3180b87c.jpg",
+        "memberType": "zone",
+        "name": "ดนิตา วงค์รัตน์",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "26"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 27)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/27/76b482db-201f-4cd3-b1de-29f1a422d3ea.jpg",
+        "memberType": "zone",
+        "name": "สุกิต น้อมศิริ",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "THE SUKIT NOMSIRI CONSULTANT LAW OFFICE COMPANY LIMITED",
+                "JP_NO": "0105554038262",
+                "JP_TNAME": "สำนักงานกฏหมายสุกิต น้อมศิริ คอนซัลแตนท์  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การจัดการแสดงทางธุรกิจและการแสดงสินค้า",
+                "PARTNER": " ว่าที่ร้อยตรีสุกิต น้อมศิริ",
+                "_id": "0105554038262",
+                "activity_code": "82302",
+                "cpm": "200,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "27"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 29)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/29/61d28bac-ea31-46bf-bc7e-21b74cb63ae8.jpg",
+        "memberType": "zone",
+        "name": "อภัสนันท์ ชูเชิด",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "KANOKTAVEEROJ LIMITED PARTNERSHIP",
+                "JP_NO": "0123551000823",
+                "JP_TNAME": "กนกทวีโรจน์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งวัสดุก่อสร้างอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นางสาวอภัสนันท์ ชูเชิด",
+                "_id": "0123551000823",
+                "activity_code": "46639",
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "29"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 30)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/30/50bc9cea-ab65-4b86-8643-42232f5f438f.jpg",
+        "memberType": "zone",
+        "name": "ศิวะ ไวทย์รุ่งโรจน์",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "WONG SALE AND SUPPLY LIMITED PARTNERSHIP",
+                "JP_NO": "0133557001121",
+                "JP_TNAME": "หว่อง เซลล์ แอนด์ ซัพพลาย",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ",
+                "PARTNER": " นายศิวะ ไวทย์รุ่งโรจน์",
+                "_id": "0133557001121",
+                "activity_code": "47524",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "30"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/92/0e4f4e03-4982-40cd-a418-42616ddb3884.jpg",
+        "memberType": "partylist",
+        "name": "ชุมพล ครุฑแก้ว",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "ROCKHOPPER COMPANY LIMITED",
+                "JP_NO": "0125560018308",
+                "JP_TNAME": "ร็อคฮอปเปอร์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมอื่นๆทางด้านการกีฬาซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายชุมพล ครุฑแก้ว",
+                "_id": "0125560018308",
+                "activity_code": "93199",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "LIGHT SPEED COMPANY LIMITED",
+                "JP_NO": "0105557082688",
+                "JP_TNAME": "เร็วแสง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งของใช้ในครัวเรือนที่ทำจากสิ่งทอ",
+                "PARTNER": " นายชุมพล ครุฑแก้ว",
+                "_id": "0105557082688",
+                "activity_code": "46412",
+                "cpm": "2,500,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/92/cce09c9c-2cc8-44b1-b200-8a789c8d0a73.jpg",
+        "memberType": "partylist",
+        "name": "นวรัตน์ ไชยพลอนันท์",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/92/c26c2edc-3b9b-4458-b9b8-e025bd069725.jpg",
+        "memberType": "partylist",
+        "name": "ชาติชาย ตู้ประกาย",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/92/77cf389d-e97a-4e47-b59a-6b7e3237df3e.jpg",
+        "memberType": "partylist",
+        "name": "สุขทวี สุวรรณชัยรบ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/92/17ff5f12-42b2-4973-a4e3-e603687cc811.jpg",
+        "memberType": "partylist",
+        "name": "ชนาธิป เตียวเจริญโชค",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "กลาง",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/92/1f566971-ab35-4793-9ce2-cde1ff62d17c.jpg",
+        "memberType": "partylist",
+        "name": "ภูมิ วชร เจริญผลิตผล",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "CHAIBURI LAW AND BUSINESS COMPANY LIMITED",
+                "JP_NO": "0505561014078",
+                "JP_TNAME": "ไชยบุรี ลอว์ แอนด์ บิสซิเนส จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมทางกฎหมาย",
+                "PARTNER": " นายภูมิ วชร เจริญผลิตผล",
+                "_id": "0505561014078",
+                "activity_code": "69100",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    }
+]

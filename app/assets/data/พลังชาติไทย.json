@@ -757,19 +757,6 @@
         "province_name": "พัทลุง",
         "relatedTo": [
             {
-                "JP_ENAME": "THAI FRIENDS SOCKS COMPANY LIMITED",
-                "JP_NO": "0105556075467",
-                "JP_TNAME": "ไทยเฟรนด์ ซ็อคส์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การทอผ้าจากเส้นใยอื่น ๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น",
-                "PARTNER": " นายชัยมงคล แก้วมณี",
-                "_id": "0105556075467",
-                "activity_code": "13129",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่"
-            },
-            {
                 "JP_ENAME": "MONGKOL TRANSPORT LIMITED PARTNERSHIP",
                 "JP_NO": "0833547002004",
                 "JP_TNAME": "มงคล ทรานสปอร์ต",
@@ -4092,7 +4079,21 @@
         "memberType": "zone",
         "name": "ยงยุทธ บุญมา",
         "province_name": "นครราชสีมา",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0603498000041",
+                "JP_TNAME": "สุขสมบูรณ์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งสินค้าวัฒนธรรมและนันทนาการอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายแพทย์ร้อยเอกยงยุทธ บุญมาก",
+                "_id": "0603498000041",
+                "activity_code": "46439",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "8"
     },
     {

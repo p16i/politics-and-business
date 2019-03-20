@@ -315,34 +315,7 @@
         "memberType": "zone",
         "name": "เทพ บุญศรี",
         "province_name": "ตรัง",
-        "relatedTo": [
-            {
-                "JP_ENAME": "PSB SHIPPING INTERNATIONAL COMPANY LIMITED",
-                "JP_NO": "0105534092814",
-                "JP_TNAME": "พีเอสบี ชิปปิ้ง อินเตอร์เนชั่นแนล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งสินค้าทั่วไปโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
-                "PARTNER": " นายวีรเทพ บุญศรี",
-                "_id": "0105534092814",
-                "activity_code": "46109",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            },
-            {
-                "JP_ENAME": "KORAPOO POWER LIMITED PARTNERSHIP",
-                "JP_NO": "0103554014477",
-                "JP_TNAME": "กรภู พาวเวอร์",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง",
-                "PARTNER": " นายหัตถ์เทพ บุญศรี",
-                "_id": "0103554014477",
-                "activity_code": "92001",
-                "cpm": "100,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เสร็จการชำระบัญชี"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "3"
     },
     {
@@ -1614,7 +1587,21 @@
         "memberType": "zone",
         "name": "สมศักดิ์ ศรีธรรม",
         "province_name": "สุราษฎร์ธานี",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "SURIYA THEP CO., LTD.",
+                "JP_NO": "0105528034956",
+                "JP_TNAME": "สุริยะเทพ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งและขนถ่ายสินค้า รวมถึงคนโดยสาร",
+                "PARTNER": " นายสมศักดิ์ ศรีธรรมศักดิ์",
+                "_id": "0105528034956",
+                "activity_code": "49323",
+                "cpm": "90,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "1"
     },
     {
@@ -3417,21 +3404,7 @@
         "memberType": "partylist",
         "name": "ชนก กลางประพันธ์",
         "province_name": "-",
-        "relatedTo": [
-            {
-                "JP_ENAME": "ARSAROM HOSPITALITY MANAGEMENT & CATERING SERVICE CO.,LTD.",
-                "JP_NO": "0205555029924",
-                "JP_TNAME": "อาศารม ฮอสพิแทลลิที แมนเนจเม้นท์ แอนด์ แคทเทอริ่ง เซอร์วิส จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "ร้านขายปลีกผักและผลไม้",
-                "PARTNER": " นางสาวธัญชนก กลางประพันธ์",
-                "_id": "0205555029924",
-                "activity_code": "47213",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "-"
     },
     {

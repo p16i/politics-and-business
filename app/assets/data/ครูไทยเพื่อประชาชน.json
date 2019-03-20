@@ -3067,25 +3067,7 @@
         "memberType": "zone",
         "name": "ชาญ แจ่มใส",
         "province_name": "บุรีรัมย์",
-        "relatedTo": [
-            {
-                "JP_ENAME": "THAI ROYAL ENTERPRISE COMPANY LIMITED",
-                "JP_NO": "0105557158617",
-                "JP_TNAME": "ไทย โรยัล เอ็นเทอร์ไพรซ์ จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขายส่งอุปกรณ์ขนส่ง (ยกเว้นยานยนต์จักรยานยนต์และจักรยาน)",
-                "PARTNER": " นายชัยชาญ แจ่มใส",
-                "_id": "0105557158617",
-                "activity_code": "46591",
-                "avgPriceDiff": -0.007628724413503268,
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 11623337.0,
-                "totalPriceBuild": 11698322.0,
-                "totalProjects": 42
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "5"
     },
     {

@@ -1,0 +1,1218 @@
+[
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (พังงา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/82/1/49cdb047-184a-4b4e-afd3-f36ede37e5d9.jpg",
+        "memberType": "zone",
+        "name": "สุริยัน ส่งศฤงคาร",
+        "province_name": "พังงา",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อ่างทอง เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/15/1/fa5d1cf2-dfa1-4595-964a-63fb756f9aec.jpg",
+        "memberType": "zone",
+        "name": "พงษ์บัญชา คชวงษ์",
+        "province_name": "อ่างทอง",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กระบี่ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/81/2/aa42cfe5-5d68-4e91-846f-8902cf85a10f.jpg",
+        "memberType": "zone",
+        "name": "สุวดี เพ็ชรแขก",
+        "province_name": "กระบี่",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (บึงกาฬ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/38/1/de3e9b43-917c-482c-bfba-55583fdc8df7.jpg",
+        "memberType": "zone",
+        "name": "บุญนำ วังตะเคน",
+        "province_name": "บึงกาฬ",
+        "relatedTo": [
+            {
+                "JP_ENAME": "MITRAPAB AND T LTD.,PART.",
+                "JP_NO": "0403551000731",
+                "JP_TNAME": "มิตรภาพ บี แอนด์ ที",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการรักษาความปลอดภัยส่วนบุคคล",
+                "PARTNER": " นายบุญนำ วังตะเคน",
+                "_id": "0403551000731",
+                "activity_code": "80100",
+                "cpm": "2,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ภูเก็ต เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/83/1/e44d1c52-0e75-4a4e-8d90-ba87ba889b22.jpg",
+        "memberType": "zone",
+        "name": "ประวัติชัย พิเศษสินธ์",
+        "province_name": "ภูเก็ต",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ภูเก็ต เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/83/2/58fc5d24-72fc-4abd-a5d5-095aae6031c6.jpg",
+        "memberType": "zone",
+        "name": "มนูญ เรืองสุวรรณ์",
+        "province_name": "ภูเก็ต",
+        "relatedTo": [
+            {
+                "JP_ENAME": "RUANGSUWAN INTER SERVICE LTD., PART.",
+                "JP_NO": "0833537000548",
+                "JP_TNAME": "เรืองสุวรรณ์ อินเตอร์ เซอร์วิส",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายมนูญ เรืองสุวรรณ์",
+                "_id": "0833537000548",
+                "activity_code": "41002",
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อำนาจเจริญ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/37/1/cb445034-d98d-41ee-8008-4f4ec3422108.jpg",
+        "memberType": "zone",
+        "name": "หนูพิศ บุญเจริญ",
+        "province_name": "อำนาจเจริญ",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อำนาจเจริญ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/37/2/bf0b0c1b-6b17-40ff-a0cf-776f1501750c.jpg",
+        "memberType": "zone",
+        "name": "เสน่ห์ ใจภักดี",
+        "province_name": "อำนาจเจริญ",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชุมพร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/86/3/86094739-285c-40a3-81ce-c3973543984f.jpg",
+        "memberType": "zone",
+        "name": "วราพร ช่วยเพชร",
+        "province_name": "ชุมพร",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (พัทลุง เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/1/dc428580-11d0-447e-8602-87ebc1e7479b.jpg",
+        "memberType": "zone",
+        "name": "ชฎาภรณ์ อนันตวงศ์",
+        "province_name": "พัทลุง",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (พัทลุง เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/2/ab4ee6df-0290-4218-be82-136f726dc2f3.jpg",
+        "memberType": "zone",
+        "name": "ธเนษฐ ศรีอ่อน",
+        "province_name": "พัทลุง",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (พัทลุง เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/93/3/392b7a43-74c1-4f2d-b4cc-273c00f1b997.jpg",
+        "memberType": "zone",
+        "name": "สมศักดิ์ สงยอด",
+        "province_name": "พัทลุง",
+        "relatedTo": [
+            {
+                "JP_ENAME": "ANANTAWONG  SURATHAI  LIMITED  PARTNERSHIP",
+                "JP_NO": "0933546000562",
+                "JP_TNAME": "นวเทพ เทรดดิ้ง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตสุรากลั่น",
+                "PARTNER": " นายสมศักดิ์ สงยอด",
+                "_id": "0933546000562",
+                "activity_code": "11011",
+                "cpm": "10,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "SONGYOD ELECTRICS LTD.PART.",
+                "JP_NO": "0933554000371",
+                "JP_TNAME": "สงยอดอิเลคทริคส์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "ร้านขายปลีกอุปกรณ์ไฟฟ้าสำหรับให้แสงสว่าง",
+                "PARTNER": " นายสมศักดิ์ สงยอด",
+                "_id": "0933554000371",
+                "activity_code": "47593",
+                "avgPriceDiff": 0.0,
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 96840.0,
+                "totalPriceBuild": 96840.0,
+                "totalProjects": 2
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ยโสธร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/35/2/26d7e657-c732-4b8c-973e-8b83682503f3.jpg",
+        "memberType": "zone",
+        "name": "นนทชัย ศิริผลา",
+        "province_name": "ยโสธร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "KESKLAOW 01 LIMITED PARTNERSHIP",
+                "JP_NO": "0353559000634",
+                "JP_TNAME": "เกษเกล้า 01",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายนนทชัย ศิริผลา",
+                "_id": "0353559000634",
+                "activity_code": "41002",
+                "avgPriceDiff": -0.006932210086586362,
+                "cpm": "300,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 2026500.0,
+                "totalPriceBuild": 2038000.0,
+                "totalProjects": 17
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (เลย เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/42/1/7fafbf46-3c22-45ad-b1c0-bc83cf11b75b.jpg",
+        "memberType": "zone",
+        "name": "บุญโฮม จันทะโสม",
+        "province_name": "เลย",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (เลย เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/42/2/45c5517e-6150-4f0a-bdf3-c411157528be.jpg",
+        "memberType": "zone",
+        "name": "เอกพล วงเสน",
+        "province_name": "เลย",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุโขทัย เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/64/2/3b4d2a3b-e176-4973-807c-e52349da264b.jpg",
+        "memberType": "zone",
+        "name": "กฤษฎา ปัสสาวสังฆ์",
+        "province_name": "สุโขทัย",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (หนองคาย เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/43/2/fce9eff6-7b84-47e2-8ab3-d69f27c419aa.jpg",
+        "memberType": "zone",
+        "name": "ถิรภัทร มั่นเหมาะ",
+        "province_name": "หนองคาย",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (หนองคาย เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/43/3/30e2a86c-e2e3-4a35-a1d4-b7b12a1eacfe.jpg",
+        "memberType": "zone",
+        "name": "ปริมประภา คุณาวุธ",
+        "province_name": "หนองคาย",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/1/b85ddee2-1e67-48ee-b36c-b3e35c61f26c.jpg",
+        "memberType": "zone",
+        "name": "สมหมาย แสวงรักษ์",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/3/b3ca863f-8281-4460-abfa-d8b6653a711b.jpg",
+        "memberType": "zone",
+        "name": "ประจักษ์ เกษดา",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/3/79793608-9940-4b20-b7e5-412831676731.jpg",
+        "memberType": "zone",
+        "name": "จำเนียร เสริมสงค์",
+        "province_name": "ลพบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กาญจนบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/71/1/687e843e-2bf5-4a94-9ddd-abcfc6026f38.jpg",
+        "memberType": "zone",
+        "name": "ศยาธิป เชื้อวงศ์พรหม",
+        "province_name": "กาญจนบุรี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กาญจนบุรี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/71/2/0bcb8093-5c55-416a-976a-bf207ab66f9a.jpg",
+        "memberType": "zone",
+        "name": "ชัยณรงค์ สังข์เฉย",
+        "province_name": "กาญจนบุรี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/1/6ffc6f2d-0b27-4237-bed7-52f80c63ac89.jpg",
+        "memberType": "zone",
+        "name": "สุทาทิพย์ โคตาสี",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [
+            {
+                "JP_ENAME": "CHOR IEMCHAI CONSTRUCTION LIMITED PARTNERSHIP",
+                "JP_NO": "0133550028317",
+                "JP_TNAME": "ช.เอี่ยมชัย คอนสตรัคชั่น",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การเตรียมสถานที่ก่อสร้าง",
+                "PARTNER": " นางสาวสุทาทิพย์ โคตาสี",
+                "_id": "0133550028317",
+                "activity_code": "43120",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/2/bd297261-3e32-477d-8c62-9cfe30e61b27.jpg",
+        "memberType": "zone",
+        "name": "สนัด ขาวดี",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/3/d92415f8-df5f-4746-acf7-379111ed83d4.jpg",
+        "memberType": "zone",
+        "name": "อมราพร ไพรวัลย์",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชัยภูมิ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/36/4/a0ebf496-3754-40f8-9fe5-6f871d544369.jpg",
+        "memberType": "zone",
+        "name": "เกษร บุราณ",
+        "province_name": "ชัยภูมิ",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สกลนคร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/47/1/96345403-07a0-4b1c-892d-4c1f0ea52823.jpg",
+        "memberType": "zone",
+        "name": "ณรงค์ฤทธิ์ โสมเกษตรินทร์",
+        "province_name": "สกลนคร",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สกลนคร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/47/2/eacc94d5-43b1-4d45-b3ac-5f5f12c827ed.jpg",
+        "memberType": "zone",
+        "name": "นิวัติ ไพไหล",
+        "province_name": "สกลนคร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สกลนคร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/47/3/1511c948-b847-42a2-9935-0ba3ac4663f1.jpg",
+        "memberType": "zone",
+        "name": "สุพรรณ แสนทวีสัตย์",
+        "province_name": "สกลนคร",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/3/b38c5c3c-9161-4b8f-b4a7-0a05958da0f6.jpg",
+        "memberType": "zone",
+        "name": "จุมพล รัตนวงศ์",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [
+            {
+                "JP_ENAME": "RATANAWONGS PATTANA CO., LTD.",
+                "JP_NO": "0105536137742",
+                "JP_TNAME": "รัตนวงศ์ พัฒนา จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายปลีกเชื้อเพลิงยานยนต์ในร้านค้าเฉพาะ สถานี ปั๊ม",
+                "PARTNER": " นายจุมพล รัตนวงศ์",
+                "_id": "0105536137742",
+                "activity_code": "47300",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/4/e94bdbb1-2c90-42d3-b790-bb232b78efa9.jpg",
+        "memberType": "zone",
+        "name": "ดาวน้อย ฑีฆะวัฒน์",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/5/3a4f9bbc-62ae-4954-975e-143b9683d1b8.jpg",
+        "memberType": "zone",
+        "name": "ไพศาล หาญชะนะ",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/6/fc2e0383-3360-49a3-8ba2-a12ffeed1692.jpg",
+        "memberType": "zone",
+        "name": "มงคล สงพระ",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [
+            {
+                "JP_ENAME": "MONGKOLSUB WASADU KORSARN LIMITED PARTNERSHIP",
+                "JP_NO": "0453548000882",
+                "JP_TNAME": "มงคลทรัพย์วัสดุก่อสร้าง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ",
+                "PARTNER": " นายมงคล สงพระ",
+                "_id": "0453548000882",
+                "activity_code": "47524",
+                "avgPriceDiff": -0.004235140678705408,
+                "cpm": "5,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 882349.0,
+                "totalPriceBuild": 884549.0,
+                "totalProjects": 21
+            }
+        ],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ร้อยเอ็ด เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/45/7/9d36c084-7fb4-4921-aa80-da1282b29205.jpg",
+        "memberType": "zone",
+        "name": "ไพกิจ ภูกลาง",
+        "province_name": "ร้อยเอ็ด",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/1/df3d1ac1-2f4e-4a96-94a7-90ccf1469fae.jpg",
+        "memberType": "zone",
+        "name": "เทวฤทธิ์ อินทร์แจ้ง",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/2/a54c0437-044a-4916-92a6-0afa9d5b8b39.jpg",
+        "memberType": "zone",
+        "name": "ขวัญกมล คล่องแคล่ว",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/3/ee2628f3-0600-4859-86d4-3e3584106491.jpg",
+        "memberType": "zone",
+        "name": "เสถียร สุขประเสริฐ",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/4/ad74c9b1-fd24-4d08-9d97-277b637df61a.jpg",
+        "memberType": "zone",
+        "name": "สมศักดิ์ ไทยตรง",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/5/558498f2-1cb6-4b43-8173-12cc1de7b582.jpg",
+        "memberType": "zone",
+        "name": "สำเนียง หงษ์แก้ว",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (สุรินทร์ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/32/6/d8b53943-4f38-4f4c-ba81-1a0955f45508.jpg",
+        "memberType": "zone",
+        "name": "อธิคม อินทร์งาม",
+        "province_name": "สุรินทร์",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชลบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/20/3/e4895b66-ac70-4c0b-b1c7-6408d891165b.jpg",
+        "memberType": "zone",
+        "name": "กำธรพล ชุ่มเย็น",
+        "province_name": "ชลบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชลบุรี เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/20/6/422e45cf-8265-4341-b8f4-ebc761e1baf1.jpg",
+        "memberType": "zone",
+        "name": "อนิรุทธิ์ นาวินอุดมทรัพย์",
+        "province_name": "ชลบุรี",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ชลบุรี เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/20/7/46a39551-b032-4952-8165-c3f0167e2893.jpg",
+        "memberType": "zone",
+        "name": "ลัดดาวัลย์ คล้ายสอน",
+        "province_name": "ชลบุรี",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/1/8980fbcd-a709-48a1-ad70-de66048bd0a3.jpg",
+        "memberType": "zone",
+        "name": "ดารุณี ฉัตรรุ่งเรืองสุข",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/2/8dff60bb-a4a6-41a2-b1bc-1db792bfb8b9.jpg",
+        "memberType": "zone",
+        "name": "ธัสศมีย์ สมวาที",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/3/28292299-0da8-45af-881d-8407fa2fa6b5.jpg",
+        "memberType": "zone",
+        "name": "โสภณ นุ่นจุ้ย",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/4/51e3884c-62ed-4483-9edc-df8472f4f4bc.jpg",
+        "memberType": "zone",
+        "name": "วลัยลักษณ์ รักกำเหนิด",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/5/46491008-78b7-4341-97a0-e7014e269247.jpg",
+        "memberType": "zone",
+        "name": "วิรัตน์ ประจักษ์",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/6/2a6bebf0-f72e-4048-99f7-b251b8b479c2.jpg",
+        "memberType": "zone",
+        "name": "สุรนันท์ สุวรรณ",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/7/49d9bd95-71b9-4844-ba2e-0111e70f8222.jpg",
+        "memberType": "zone",
+        "name": "นำชัย ทวีทอง",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครศรีธรรมราช เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/80/8/e8d145ff-f9e1-47c6-a6b7-762d73bd6d21.jpg",
+        "memberType": "zone",
+        "name": "รุ่งโรจน์ พรหมเจริญ",
+        "province_name": "นครศรีธรรมราช",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (บุรีรัมย์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/31/1/ca172329-05b9-42b7-bb65-fa807b875666.jpg",
+        "memberType": "zone",
+        "name": "เสน่ห์ นัคราภิบาล",
+        "province_name": "บุรีรัมย์",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (บุรีรัมย์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/31/2/77c0dfd9-cbc3-4ffe-98cf-b388edc14558.jpg",
+        "memberType": "zone",
+        "name": "บรรจง โคมร้าย",
+        "province_name": "บุรีรัมย์",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (บุรีรัมย์ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/31/3/f39b0b0b-14a5-43f1-8a6d-2a92d84e5e21.jpg",
+        "memberType": "zone",
+        "name": "สงวนศักดิ์ สาตตา",
+        "province_name": "บุรีรัมย์",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (บุรีรัมย์ เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/31/8/afaa3773-54a0-4046-b0c9-b97bf760e9bf.jpg",
+        "memberType": "zone",
+        "name": "ติงลี่ อ่อนศิลา",
+        "province_name": "บุรีรัมย์",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/1/02539da8-ca27-482e-969f-40a4ebcdf65b.jpg",
+        "memberType": "zone",
+        "name": "หอม โภคพันธ์",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/5/0e30d3bb-af6f-4362-96b6-87910b677c09.jpg",
+        "memberType": "zone",
+        "name": "เดโช บุญสอน",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/6/10d5ed62-74fb-4200-b3c1-09a5f5d44169.jpg",
+        "memberType": "zone",
+        "name": "สว่าง สาธร",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [
+            {
+                "JP_ENAME": "TOOL WORK SERVICE COMPANY LIMITED",
+                "JP_NO": "0135550002760",
+                "JP_TNAME": "ทูล เวิร์ค เซอร์วิส จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งเครื่องจักรและอุปกรณ์เพื่อใช้ในงานอุตสาหกรรม",
+                "PARTNER": " นายสว่าง สาธร",
+                "_id": "0135550002760",
+                "activity_code": "46593",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/7/3de312d5-9de7-46bc-92c7-c8a8eb643d4e.jpg",
+        "memberType": "zone",
+        "name": "อมรรัตน์ พลทา",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ศรีสะเกษ เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/33/8/70b6c3e8-ec8e-4ada-93f9-fa01052f4424.jpg",
+        "memberType": "zone",
+        "name": "อ่อนสา จันโท",
+        "province_name": "ศรีสะเกษ",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/1/ad3917af-8409-4dbc-8176-93a3c9e10825.jpg",
+        "memberType": "zone",
+        "name": "นรา ทวีนันท์",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/2/aeb10dec-8bfe-4b3b-8ea7-93db3c106fd6.jpg",
+        "memberType": "zone",
+        "name": "ชาญชัย ศรีไชยมูล",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/3/f5f0e0c9-1b06-4d89-abc4-05a23ca94a29.jpg",
+        "memberType": "zone",
+        "name": "สุเมธา พรหมเครือ",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/4/4a00b301-6893-4bad-8eb0-90b3bf7ced2d.jpg",
+        "memberType": "zone",
+        "name": "อภิวัชร์ เผ่าหอม",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/5/2aff4de0-a256-4017-9ee5-f99c5247ea3b.jpg",
+        "memberType": "zone",
+        "name": "เดชา ผาอาจ",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/7/a293b6b7-a5fb-4b24-978c-92bbdf9d8ef1.jpg",
+        "memberType": "zone",
+        "name": "ธนาคม สังข์คร",
+        "province_name": "อุดรธานี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "TTS SAFETYGUARD CO.,LTD.",
+                "JP_NO": "0205555002414",
+                "JP_TNAME": "ทีทีเอส  เซฟตี้การ์ด จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการรักษาความปลอดภัยส่วนบุคคล",
+                "PARTNER": " นายธนาคม สังข์คร",
+                "_id": "0205555002414",
+                "activity_code": "80100",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (อุดรธานี เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/41/8/e0f763ad-7a0a-407a-bad1-4cede3a9d31c.jpg",
+        "memberType": "zone",
+        "name": "ไตรทศ พนาวัลย์รักษา",
+        "province_name": "อุดรธานี",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/2/50b16327-15c4-4a3b-9036-c7376009e7b7.jpg",
+        "memberType": "zone",
+        "name": "วีรยุทธ แรงดี",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/9/2f35f1bb-3ad6-47e4-9cbe-a706208812cf.jpg",
+        "memberType": "zone",
+        "name": "ปิยวัจน์ จุลลาย",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/1/3483ad62-9770-4d53-8954-f41f8e7e8087.jpg",
+        "memberType": "zone",
+        "name": "กิติพัฒน์ รอดอำพันธุ์",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/2/33c086eb-3367-4f42-94e5-5b7d0c7b25a1.jpg",
+        "memberType": "zone",
+        "name": "วรเทพ กระจ่างโพธิ์",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "CHONGMEK PATTANA COMPANY LIMITED",
+                "JP_NO": "0305547001420",
+                "JP_TNAME": "ช่องเม็กพัฒนา จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งผู้โดยสารทางบกอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายวรเทพ กระจ่างโพธิ์",
+                "_id": "0305547001420",
+                "activity_code": "49329",
+                "cpm": "1,400,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เลิก"
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/4/c20484cb-1b2b-4b63-9416-51eac37a9920.jpg",
+        "memberType": "zone",
+        "name": "วริยา ขานสันเทียะ",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/8/bb332752-c4db-4575-8551-d5909923a3f7.jpg",
+        "memberType": "zone",
+        "name": "สันติ สีโมรส",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "J.O.STAR STANDARD LIMITED PARTNERSHIP",
+                "JP_NO": "0303549003126",
+                "JP_TNAME": "เจ. โอ. สตาร์ สแตนดาร์ด",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ชนิดใช้ในครัวเรือน",
+                "PARTNER": " นายสันติ สีโมรส",
+                "_id": "0303549003126",
+                "activity_code": "46421",
+                "cpm": "200,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/10/04791e98-a558-4078-bec5-28a12808212a.jpg",
+        "memberType": "zone",
+        "name": "ธนากร ดิษบงค์",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "10"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 14)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/14/2ac952c1-5031-4fa2-bed8-e65ba6f49953.jpg",
+        "memberType": "zone",
+        "name": "อรรถกร อุดนอก",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "14"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/1/93cd9025-62e3-455f-b8cd-1df98a78c453.jpg",
+        "memberType": "zone",
+        "name": "กันญภัทร นครังสุ",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/3/fad29f48-4b4c-4398-85de-b165ea887f87.jpg",
+        "memberType": "zone",
+        "name": "พัชรินทร์ ประสพสุข",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/4/40162e31-d1c3-4f01-bc0b-e530ce72f444.jpg",
+        "memberType": "zone",
+        "name": "ณัฐรมณ์ ลิ้นลา",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/7/8261c6d6-fbe1-4418-ab03-435b4f40e692.jpg",
+        "memberType": "zone",
+        "name": "สันติ โอเงิน",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0743541000299",
+                "JP_TNAME": "ศิลามุมเอก การก่อสร้าง",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " พันโทสันติ โอเงิน",
+                "_id": "0743541000299",
+                "activity_code": "41002",
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "GOODLUCK ENERGY CO.,LTD.",
+                "JP_NO": "0105554091317",
+                "JP_TNAME": "กู๊ดลัค เอ็นเนอร์ยี่ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การผลิตผลิตภัณฑ์อื่น ๆ ที่ได้จากการกลั่นปิโตรเลียมซึ่งมิได้ จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายสันติ โอเงิน",
+                "_id": "0105554091317",
+                "activity_code": "19209",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "VANGHIN KASET INTREE   LIMITED PARTNERSHIP",
+                "JP_NO": "0333546001068",
+                "JP_TNAME": "วังหินเกษตรอินทรี",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การสีข้าว",
+                "PARTNER": " นายสันติ โอเงิน",
+                "_id": "0333546001068",
+                "activity_code": "10611",
+                "cpm": "1,500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "NUTPORN DESIGN LIMITED PARTNERSHIP",
+                "JP_NO": "0123528000464",
+                "JP_TNAME": "ณัฐพรดีไซน์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายสันติ โอเงิน",
+                "_id": "0123528000464",
+                "activity_code": "41002",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "BANPRAYADPHALUNGNGAN COMPANY LIMITED",
+                "JP_NO": "0105556023734",
+                "JP_TNAME": "บ้านประหยัดพลังงาน จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายสันติ โอเงิน",
+                "_id": "0105556023734",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "M POWER CHIANG MAI COMPANY LIMITED",
+                "JP_NO": "0505559011067",
+                "JP_TNAME": "เอ็มพาวเวอร์ เชียงใหม่ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ชนิดใช้ในครัวเรือน",
+                "PARTNER": " นายสันติ โอเงิน",
+                "_id": "0505559011067",
+                "activity_code": "46420",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/8/78cd6b4e-2fdd-4440-b1cf-b3d8dc92bc02.jpg",
+        "memberType": "zone",
+        "name": "ชัยนิวัตน์ แสนวันนา",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/9/0b013b1e-7384-4d1f-b927-e1975b245b51.jpg",
+        "memberType": "zone",
+        "name": "สมปอง เพิ่มพูล",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 11)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/11/524c4fa5-b209-459c-b945-6536348d5135.jpg",
+        "memberType": "zone",
+        "name": "กษาปณ์ บริบูรณ์",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "11"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 24)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/24/ab2f032a-1ac8-477f-bfd2-925d6ad26897.jpg",
+        "memberType": "zone",
+        "name": "ภัคภร บุณยเกียรติ",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "24"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. เขต (กรุงเทพมหานคร เขต 25)",
+        "image": "http://202.6.26.16/images/candidate/thumb/10/25/e913f1d1-6d5e-4804-94ff-a62ee3396d12.jpg",
+        "memberType": "zone",
+        "name": "มนัสนันท์ นพพิบูลย์",
+        "province_name": "กรุงเทพมหานคร",
+        "relatedTo": [],
+        "zone_number": "25"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/d5f3259c-f077-41ec-aea1-c4e9ebe633f0.jpg",
+        "memberType": "partylist",
+        "name": "อนันตร์ บุญรำไพ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/007a0fb2-1c2d-43fe-a326-7deb0dd6b3ae.jpg",
+        "memberType": "partylist",
+        "name": "ธัชพล อินทรวัฒนา",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/7b247783-0b98-40cd-8f98-36617a6b8cf2.jpg",
+        "memberType": "partylist",
+        "name": "พิศมัย เสนาวงค์",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "TONPAT LIMITED PARTNERSHIP",
+                "JP_NO": "0493549000070",
+                "JP_TNAME": "ต้นเพชร",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการก่อสร้างเฉพาะด้านอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นางสาวพิศมัย เสนาวงค์",
+                "_id": "0493549000070",
+                "activity_code": "43909",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/5c483ca7-8c4f-4dd4-99ad-3f5b87011972.jpg",
+        "memberType": "partylist",
+        "name": "จักรทิพย์ วงษ์งามสวย",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/d1d5771f-181b-45ab-b36d-6ecd9cc9b6c2.jpg",
+        "memberType": "partylist",
+        "name": "สุดใจ จุ้ยสุวรรณทัต",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/b2c24ba7-5b76-4b74-a2bc-49f78b534c6e.jpg",
+        "memberType": "partylist",
+        "name": "กันต์ณกฤต ยูนิพันธ์",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/d9ad6ea1-f02d-46fa-998a-f7374adacad7.jpg",
+        "memberType": "partylist",
+        "name": "โสภณ ผิวขำ",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "TONPAT LIMITED PARTNERSHIP",
+                "JP_NO": "0493549000070",
+                "JP_TNAME": "ต้นเพชร",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการก่อสร้างเฉพาะด้านอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายโสภณ ผิวขำ",
+                "_id": "0493549000070",
+                "activity_code": "43909",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "พลังศรัทธา",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/90/203767d4-2bd1-4a7c-bc29-562e978046df.jpg",
+        "memberType": "partylist",
+        "name": "พินิจ บุญรำไพ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    }
+]

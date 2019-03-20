@@ -1070,38 +1070,7 @@
         "memberType": "zone",
         "name": "เตียง โนนทิง",
         "province_name": "บุรีรัมย์",
-        "relatedTo": [
-            {
-                "JP_ENAME": "THO.THEERA CIVIL LIMITED PARTNERSHIP",
-                "JP_NO": "0403555002801",
-                "JP_TNAME": "ธ.ธีรา การโยธา",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "การก่อสร้างถนนสะพานและอุโมงค์",
-                "PARTNER": " นางสาวจิมเตียง โนนทิง",
-                "_id": "0403555002801",
-                "activity_code": "42101",
-                "avgPriceDiff": -0.011768105636812737,
-                "cpm": "5,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "ยังดำเนินกิจการอยู่",
-                "totalPriceAgree": 53378196.0,
-                "totalPriceBuild": 56972128.0,
-                "totalProjects": 100
-            },
-            {
-                "JP_ENAME": "HANG THONG KAMYUAWWARATH (2005) LIMITED PARTNERSHIP",
-                "JP_NO": "0403548002796",
-                "JP_TNAME": "ห้างทองคำเยาวราช (2005)",
-                "JP_TYPE_CODE": "3",
-                "OBJ_TNAME": "ร้านขายปลีกเครื่องประดับ",
-                "PARTNER": " นางสาวจิมเตียง โนนทิง",
-                "_id": "0403548002796",
-                "activity_code": "47732",
-                "cpm": "1,000,000.00",
-                "jptn": "ห้างหุ้นส่วนจำกัด",
-                "stn": "เลิก"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "4"
     },
     {

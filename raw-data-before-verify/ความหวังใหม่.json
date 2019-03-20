@@ -1,0 +1,639 @@
+[
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (พังงา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/82/1/8086fb45-7e0f-4e98-ac2e-4f456de9b1a5.jpg",
+        "memberType": "zone",
+        "name": "วสันต์ ศรีรัตน์",
+        "province_name": "พังงา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "WORLD WIDE SMART COMPANY LIMITED",
+                "JP_NO": "0115548003037",
+                "JP_TNAME": "เวิล์ด วาย สมาร์ท  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมงานวิศวกรรมและการให้คำปรึกษาทางด้านเทคนิค ที่เกี่ยวข้อง",
+                "PARTNER": " นายวสันต์ ศรีรัตน์",
+                "_id": "0115548003037",
+                "activity_code": "71102",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กระบี่ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/81/1/800de9b6-e508-4294-a934-6672456fcd8a.jpg",
+        "memberType": "zone",
+        "name": "อุษา สายเส็น",
+        "province_name": "กระบี่",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กระบี่ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/81/2/208c5287-443b-4b61-9265-4231a98120c7.jpg",
+        "memberType": "zone",
+        "name": "ลัดดา คงภักดี",
+        "province_name": "กระบี่",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (มุกดาหาร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/49/2/267e7b54-1cce-4786-b73e-103eb74b0c31.jpg",
+        "memberType": "zone",
+        "name": "สัญญา ด่านวันดี",
+        "province_name": "มุกดาหาร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (ตรัง เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/1/a61a3ade-283f-49d4-80bd-4f0ef3994986.jpg",
+        "memberType": "zone",
+        "name": "สุนทร ขวัญดี",
+        "province_name": "ตรัง",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (ตรัง เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/2/8f197f76-4929-431a-a155-fc3e232c447b.jpg",
+        "memberType": "zone",
+        "name": "อำนาจ วงศ์ดารากุล",
+        "province_name": "ตรัง",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (ตรัง เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/92/3/8083dfda-5980-42ca-870a-a53656a6a8ac.jpg",
+        "memberType": "zone",
+        "name": "พิน เบ็ญระเหม",
+        "province_name": "ตรัง",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/1/8802454b-69e9-4a2d-83c3-5e90d1f84ff1.jpg",
+        "memberType": "zone",
+        "name": "สริดา ทาบรรหาร",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/2/2675feff-64ac-4c9e-8838-03435da7558b.jpg",
+        "memberType": "zone",
+        "name": "ธวัช โพนชัย",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/3/e9e0856c-f62a-4131-af22-b8a0a11bb269.jpg",
+        "memberType": "zone",
+        "name": "ปริญญา ทองเสน",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/4/87ccc64f-8bdd-4d84-a294-f888e57142c8.jpg",
+        "memberType": "zone",
+        "name": "ณรงค์พล ศรีสองเมือง",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (กาฬสินธุ์ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/46/5/dfabbcf4-b9a4-44c4-b734-04cb903bb38b.jpg",
+        "memberType": "zone",
+        "name": "สุมาสิทธิ ศรีลำพัง",
+        "province_name": "กาฬสินธุ์",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/2/95a3a841-7725-4508-9965-636077d0a1fb.jpg",
+        "memberType": "zone",
+        "name": "เสรีพล ศรีอภัย",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/3/e0206fbf-6e11-44b2-9a59-cb6d4c3f8594.jpg",
+        "memberType": "zone",
+        "name": "สิงหา อินทร์ชู",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/4/697e1afb-350d-4831-85fa-affb299395bf.jpg",
+        "memberType": "zone",
+        "name": "ธรรศ ทองคง",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/5/a5e859c7-9107-482d-a9de-5ff26e688e80.jpg",
+        "memberType": "zone",
+        "name": "ธีร รัตนกุล",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สุราษฎร์ธานี เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/84/6/11a052b1-a814-40d8-adcc-6faf95cbb13b.jpg",
+        "memberType": "zone",
+        "name": "ธวัชชัย ทรัพย์เจริญ",
+        "province_name": "สุราษฎร์ธานี",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สงขลา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/2/197df9b7-8338-456b-b3cc-87877c48fd62.jpg",
+        "memberType": "zone",
+        "name": "จรงกรณ์ อัลรีอาห์ซุนหนี่",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สงขลา เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/5/6480a5d8-1f82-4154-82b2-6722bdf0e74a.jpg",
+        "memberType": "zone",
+        "name": "สายัญห์ แก้วไฟ",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (สงขลา เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/90/6/3774e7b4-ec69-4eeb-903c-21f439ec2818.jpg",
+        "memberType": "zone",
+        "name": "อารยา จันทวัลย์",
+        "province_name": "สงขลา",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/1/07a0dc01-de8e-49ee-8058-5b819b089d86.jpg",
+        "memberType": "zone",
+        "name": "พจน์ สารบรรณ",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/1/52fec00a-6242-47d4-b8a9-bef2b50b63d0.jpg",
+        "memberType": "zone",
+        "name": "สันทัด พันธ์พิบูลย์",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/3/51060ec4-e11c-4990-958f-2fd6e9fe4cc4.jpg",
+        "memberType": "zone",
+        "name": "พัฒนพงษ์ แก้ววงษา",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/4/320865ef-0bd0-4347-b4e7-beda078d52f5.jpg",
+        "memberType": "zone",
+        "name": "สัญจร ทาบุตดา",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/6/1e39fd11-2bc7-47ae-88e9-64e123f3770c.jpg",
+        "memberType": "zone",
+        "name": "ทองมา หนันต๊ะ",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/7/1a12c28f-68ed-4f54-81cb-362b37bc9f2d.jpg",
+        "memberType": "zone",
+        "name": "เติม มั่นสัตย์",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/8/e509b29d-9795-472b-aa4a-3d99374a04de.jpg",
+        "memberType": "zone",
+        "name": "กฤษดา วิรังษา",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/9/6a881055-3509-46a3-81f2-d50a06be9b0d.jpg",
+        "memberType": "zone",
+        "name": "นิภาวรรณ เสาธง",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (อุบลราชธานี เขต 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/34/10/4cd3b1c8-d4b4-4ff7-ac20-a7bbbcfe31d9.jpg",
+        "memberType": "zone",
+        "name": "จักรพันธ์ จันพวง",
+        "province_name": "อุบลราชธานี",
+        "relatedTo": [],
+        "zone_number": "10"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/1/ff7bd372-be23-4a8f-b004-87c936bceee8.jpg",
+        "memberType": "zone",
+        "name": "สุวัฒน์ชัย สวัสดี",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0303542001616",
+                "JP_TNAME": "เอส.เอส.พี มาร์เก็ตติ้ง แอนด์คอนส์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายส่งผลิตภัณฑ์นม",
+                "PARTNER": " นายสุวัฒน์ชัย สวัสดี",
+                "_id": "0303542001616",
+                "activity_code": "46314",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "SEMA INTER CONS CO., LTD.",
+                "JP_NO": "0305538000602",
+                "JP_TNAME": "เสมาอินเตอร์คอนส์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่พักอาศัย",
+                "PARTNER": " นายสุวัฒน์ชัย สวัสดี",
+                "_id": "0305538000602",
+                "activity_code": "41001",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "REANGSAVAITURAKIJ LIMITED PARTNERSHIP",
+                "JP_NO": "0303551002158",
+                "JP_TNAME": "เรืองไสวธุรกิจ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการรักษาความปลอดภัยส่วนบุคคล",
+                "PARTNER": " นายสุวัฒน์ชัย สวัสดี",
+                "_id": "0303551002158",
+                "activity_code": "80100",
+                "cpm": "500,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0303540000388",
+                "JP_TNAME": "ส.เมืองทอง คอนสตรัคชั่น",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายสุวัฒน์ชัย สวัสดี",
+                "_id": "0303540000388",
+                "activity_code": "41002",
+                "cpm": "3,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/2/deb6193b-db17-42bd-89b1-6f2e9c2b5637.jpg",
+        "memberType": "zone",
+        "name": "อโณทัย พินิจไชย",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/4/51939ab0-ec19-4253-8c20-821d88f5654b.jpg",
+        "memberType": "zone",
+        "name": "เสริมศักดิ์ ปลั่งประเสริฐ",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 12)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/12/1b7386ad-22a0-4b82-ad58-596959eaff13.jpg",
+        "memberType": "zone",
+        "name": "ณปภัส ชดกลาง",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "12"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/8d62e987-6a13-4aab-8abf-2faedfb462e0.jpg",
+        "memberType": "partylist",
+        "name": "ชิงชัย มงคลธรรม",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "THE AGRICULTURE AND LABOURS DEVELOPMENT CO., LTD.",
+                "JP_NO": "0415527000087",
+                "JP_TNAME": "พัฒนาการเกษตรและการแรงงาน จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งวัตถุดิบทางการเกษตรและสัตว์มีชีวิตโดยได้รับค่าตอบแทนหรือตามสัญญาจ้าง",
+                "PARTNER": " นายชิงชัย มงคลธรรม",
+                "_id": "0415527000087",
+                "activity_code": "46101",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/e7040eb7-961f-49a1-be54-11e44664ed7a.jpg",
+        "memberType": "partylist",
+        "name": "วิทยา ปราบภัย",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "V.S.C GUARD CO., LTD.",
+                "JP_NO": "0105541055805",
+                "JP_TNAME": "วี.เอส.ซี.การ์ด จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการรักษาความปลอดภัยส่วนบุคคล",
+                "PARTNER": " นายวิทยา ปราบภัย",
+                "_id": "0105541055805",
+                "activity_code": "80100",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/cb9b0e02-74b3-432a-a525-65c222d0cca6.jpg",
+        "memberType": "partylist",
+        "name": "วิเศษ สุริโย",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "K.S.CLEANING 2015 LIMITED PARTNERSHIP",
+                "JP_NO": "0103559001951",
+                "JP_TNAME": "เค.เอส.คลีนนิ่ง 2015",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การบริการทำความสะอาดทั่วไปของตัวอาคาร",
+                "PARTNER": " นายวิเศษ สุริโย",
+                "_id": "0103559001951",
+                "activity_code": "81210",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "STAR LIGHT FRAM IMPORT-EXPORT CO., LTD.",
+                "JP_NO": "0105530000613",
+                "JP_TNAME": "สตาร์ไลท์เฟรม อิมปอร์ต-เอ็กซ์ปอร์ต  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขายส่งน้ำตาลช็อกโกแลตและลูกกวาด",
+                "PARTNER": " นายวิเศษ สุริโย",
+                "_id": "0105530000613",
+                "activity_code": "46317",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/c7d5c052-2d1f-49ee-b416-7c63cffba6cd.jpg",
+        "memberType": "partylist",
+        "name": "เสกสรร ชดกลาง",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/e2060afb-bbc0-4db4-a01b-45b6751c0674.jpg",
+        "memberType": "partylist",
+        "name": "กฤติเดช ภักดีล้น",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/81fecae3-1a2f-4dce-8ed2-fbaceda06431.jpg",
+        "memberType": "partylist",
+        "name": "ประเสริฐ เสริมทรัพย์",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "P. SUPMONGKOL LTD., PART.",
+                "JP_NO": "0103543003380",
+                "JP_TNAME": "ป.ทรัพย์มงคล",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การทาสี",
+                "PARTNER": " นายประเสริฐ เสริมทรัพย์",
+                "_id": "0103543003380",
+                "activity_code": "43303",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/7c1d1d8e-3e9c-4857-a65a-f080251ba722.jpg",
+        "memberType": "partylist",
+        "name": "ชวลิต ภู่พัฒน์",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/3197dd9a-00ae-4e84-83cc-203d0acf85b7.jpg",
+        "memberType": "partylist",
+        "name": "ธัญณีย์ ศรีวรเรืองชัย",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/65feea54-218a-4e21-8483-a9ef381b7ac3.jpg",
+        "memberType": "partylist",
+        "name": "ณัฐรัชต์ ฉายวรภัทร",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "PANDA LOGISTICS COMPANY LIMITED",
+                "JP_NO": "0115557017371",
+                "JP_TNAME": "แพนด้า โลจิสติกส์  จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งและขนถ่ายสินค้า รวมถึงคนโดยสาร",
+                "PARTNER": " นายณัฐรัชต์ ฉายวรภัทร",
+                "_id": "0115557017371",
+                "activity_code": "49323",
+                "cpm": "5,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "PANDA INTERNATIONAL COMPANY LIMITED",
+                "JP_NO": "0115558022239",
+                "JP_TNAME": "แพนด้า อินเตอร์เนชั่นแนล จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การขนส่งและขนถ่ายสินค้า รวมถึงคนโดยสาร",
+                "PARTNER": " นายณัฐรัชต์ ฉายวรภัทร",
+                "_id": "0115558022239",
+                "activity_code": "49323",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/5ba600e5-810b-4dc5-a3d3-27a4363bd618.jpg",
+        "memberType": "partylist",
+        "name": "สุรชัย สุดรักษ์",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 11)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/bf5e2690-ecb1-44b8-8806-b665c8af61ac.jpg",
+        "memberType": "partylist",
+        "name": "ธนภัทร จันทร์เพ็ชร์บุรี",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 12)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/1ee06b16-5f23-4a88-ad07-b6f4c105a4bc.jpg",
+        "memberType": "partylist",
+        "name": "อรจิรา โกศลโชติชโลธร",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "CON'S SERVICE CENTER COMPANY LIMITED",
+                "JP_NO": "0105556106320",
+                "JP_TNAME": "คอนส์ เซอร์วิส เซ็นเตอร์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นางสาวอรจิรา โกศลโชติชโลธร",
+                "_id": "0105556106320",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "ความหวังใหม่",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 13)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/6/3a71ae75-ceba-4549-85bf-4ad564e1be05.jpg",
+        "memberType": "partylist",
+        "name": "นพสิทธิ์ ชุติพงศ์วัฒน์",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    }
+]

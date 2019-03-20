@@ -6881,21 +6881,7 @@
         "memberType": "zone",
         "name": "เจริญ แซ่เต็ง",
         "province_name": "ขอนแก่น",
-        "relatedTo": [
-            {
-                "JP_ENAME": "BILLION BUSINESS INTER TRAVEL CO., LTD.",
-                "JP_NO": "0105536123571",
-                "JP_TNAME": "บิลเลี่ยน บิสซิเนส อินเตอร์แทรเวล จำกัด",
-                "JP_TYPE_CODE": "5",
-                "OBJ_TNAME": "การขนส่งผู้โดยสารโดยรถยนต์รับจ้าง/แท็กซี่",
-                "PARTNER": " นายสมเจริญ แซ่เต็ง",
-                "_id": "0105536123571",
-                "activity_code": "49321",
-                "cpm": "1,000,000.00",
-                "jptn": "บริษัทจำกัด",
-                "stn": "ร้าง"
-            }
-        ],
+        "relatedTo": [],
         "zone_number": "10"
     },
     {
@@ -8854,7 +8840,21 @@
         "memberType": "partylist",
         "name": "วิรัช รัตนเศรษฐ",
         "province_name": "-",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0303525000321",
+                "JP_TNAME": "ราชสีมาธุรกิจโฆษณา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของบริษัทโฆษณา",
+                "PARTNER": " นายวิรัช รัตนเศรษฐ์",
+                "_id": "0303525000321",
+                "activity_code": "73101",
+                "cpm": "50,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
         "zone_number": "-"
     },
     {

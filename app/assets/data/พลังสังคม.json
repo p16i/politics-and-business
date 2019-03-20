@@ -1229,7 +1229,21 @@
         "memberType": "zone",
         "name": "จันทร์เพ็ญ อุปนัน",
         "province_name": "อุดรธานี",
-        "relatedTo": [],
+        "relatedTo": [
+            {
+                "JP_ENAME": "NAN NAKHON BAMBOO COMPANY LIMITED",
+                "JP_NO": "0555560000197",
+                "JP_TNAME": "น่านนคร แบมบู จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การผลิตผลิตภัณฑ์จากไม้และไม้ก๊อกซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นางจันทร์เพ็ญ อุปนันท์",
+                "_id": "0555560000197",
+                "activity_code": "16299",
+                "cpm": "2,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
         "zone_number": "6"
     },
     {

@@ -1,0 +1,1301 @@
+[
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ตราด เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/23/1/35f9e7a3-3efc-4002-b58c-2867f9e50a1d.jpg",
+        "memberType": "zone",
+        "name": "ลัดดา แขวงอุบล",
+        "province_name": "ตราด",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สิงห์บุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/17/1/560f60c1-715b-4c9f-99b7-28cdd1f61e02.jpg",
+        "memberType": "zone",
+        "name": "ชาญ น้ำใจสัตย์",
+        "province_name": "สิงห์บุรี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LOOKTHUNG 100 PERCEN LIMITED PARTNERSHIP",
+                "JP_NO": "0173555000691",
+                "JP_TNAME": "ลูกทุ่งร้อยเปอร์เซ็นต์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของตัวแทนขายสื่อโฆษณา",
+                "PARTNER": " นายชาญ น้ำใจสัตย์",
+                "_id": "0173555000691",
+                "activity_code": "73102",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (อ่างทอง เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/15/1/ac97f2be-59ba-41fe-85e4-3722451d254d.jpg",
+        "memberType": "zone",
+        "name": "เกรียงศักดิ์ อริยะฉัตรชัย",
+        "province_name": "อ่างทอง",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ชัยนาท เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/18/1/991763cc-f64d-4c3c-bc77-5fb00751d41b.jpg",
+        "memberType": "zone",
+        "name": "ทองเหมาะ สำราญบุญ",
+        "province_name": "ชัยนาท",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ชัยนาท เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/18/2/05e3333b-099c-441b-bbea-1ffa019e018d.jpg",
+        "memberType": "zone",
+        "name": "ดา ครคง",
+        "province_name": "ชัยนาท",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลำพูน เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/51/1/ed137ba4-9c92-4963-a7ce-b668d626f69c.jpg",
+        "memberType": "zone",
+        "name": "นพลกฤต พรหมโชติกาญ",
+        "province_name": "ลำพูน",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลำพูน เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/51/2/3b4dc970-fa7b-4775-9043-cf121db24d0f.jpg",
+        "memberType": "zone",
+        "name": "บัวลำ ยะแบน",
+        "province_name": "ลำพูน",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (อุทัยธานี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/61/1/64767c0a-2f60-499a-9887-fd34cd95ba2b.jpg",
+        "memberType": "zone",
+        "name": "อุกฤษณ์ เส็งหะพันธ์",
+        "province_name": "อุทัยธานี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (อุทัยธานี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/61/2/0629a218-538c-4487-9e9f-33f0b31d8cc4.jpg",
+        "memberType": "zone",
+        "name": "ราม พัสถาน",
+        "province_name": "อุทัยธานี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (จันทบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/22/1/4a5dce93-a7b2-436b-9de6-5447396613f9.jpg",
+        "memberType": "zone",
+        "name": "สมศร ผดุงพรรค",
+        "province_name": "จันทบุรี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (จันทบุรี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/22/2/2865dca8-cce8-4d84-aa46-d579c2ab0264.jpg",
+        "memberType": "zone",
+        "name": "สุรศักดิ์ ศิริชาตรี",
+        "province_name": "จันทบุรี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (จันทบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/22/3/51d7817d-a1f3-4bed-842e-af3ee09617e0.jpg",
+        "memberType": "zone",
+        "name": "วิเชียร โชติสำราญ",
+        "province_name": "จันทบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ประจวบคีรีขันธ์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/77/1/ee387d63-58be-40cf-95ea-5032ad7a7b4b.jpg",
+        "memberType": "zone",
+        "name": "ฉลอง อัดแสง",
+        "province_name": "ประจวบคีรีขันธ์",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ประจวบคีรีขันธ์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/77/2/edd29068-0995-4ed7-ab19-5260a708a50b.jpg",
+        "memberType": "zone",
+        "name": "จุฑา  แป้นทอง",
+        "province_name": "ประจวบคีรีขันธ์",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ประจวบคีรีขันธ์ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/77/3/0fb4aef1-2b74-456b-aee3-036ff54b9ddb.jpg",
+        "memberType": "zone",
+        "name": "เอนก น้อยแสง",
+        "province_name": "ประจวบคีรีขันธ์",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (พิจิตร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/66/2/aa26d3c2-4e46-4806-bb64-4a882625f330.jpg",
+        "memberType": "zone",
+        "name": "จิ๋ว งอนไทยสงค์",
+        "province_name": "พิจิตร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (พิจิตร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/66/3/16b9857b-d9d1-4401-8721-159e8a235ba9.jpg",
+        "memberType": "zone",
+        "name": "อำนวย พรมโคตร",
+        "province_name": "พิจิตร",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สมุทรสาคร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/74/1/3a41c4ec-215e-498e-825e-1ac1e5a1e3d4.jpg",
+        "memberType": "zone",
+        "name": "แพน โพธิ์ย้อย",
+        "province_name": "สมุทรสาคร",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สมุทรสาคร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/74/2/d0b90ed3-46a8-4434-9a20-472225be4836.jpg",
+        "memberType": "zone",
+        "name": "ประยุทธ สุดาแก้ว",
+        "province_name": "สมุทรสาคร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สมุทรสาคร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/74/3/afb5b197-decb-407d-bc38-f73a9f9905b7.jpg",
+        "memberType": "zone",
+        "name": "สมชาย เทพสุวรรณ",
+        "province_name": "สมุทรสาคร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "TAPTONG CHAI GARMENT LIMITED PARTNERSHIP",
+                "JP_NO": "0103553023715",
+                "JP_TNAME": "เทพทองชัยการ์เม้นท์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตเสื้อผ้าชั้นนอก",
+                "PARTNER": " นายสมชาย เทพสุวรรณ",
+                "_id": "0103553023715",
+                "activity_code": "14112",
+                "cpm": "1,250,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "SAPTHAWEETHEPSUWAN TRANSPORT LIMITED PARTNERSHIP",
+                "JP_NO": "0623561000040",
+                "JP_TNAME": "ทรัพย์ทวีเทพสุวรรณ์ ทรานสปอร์ต",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขนส่งสินค้าอื่นๆทางถนนซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายสมชาย เทพสุวรรณ์",
+                "_id": "0623561000040",
+                "activity_code": "49339",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สระบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/19/1/e302e467-16e0-4fa0-9243-955c97e9f9a4.jpg",
+        "memberType": "zone",
+        "name": "สุนันท์ งามวงศ์",
+        "province_name": "สระบุรี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สระบุรี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/19/2/8a14914c-b10b-4867-ba5f-b079a3e8eb8b.jpg",
+        "memberType": "zone",
+        "name": "สำลี นามปะเส",
+        "province_name": "สระบุรี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สระบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/19/3/940b6908-e537-4d40-9b14-547625446768.jpg",
+        "memberType": "zone",
+        "name": "วิชมัย คีรีเวช",
+        "province_name": "สระบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (หนองบัวลำภู เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/39/2/ea77459a-2eb0-421d-a27d-14c8b8a2873f.jpg",
+        "memberType": "zone",
+        "name": "สันตติ บุราณฤทธิ์",
+        "province_name": "หนองบัวลำภู",
+        "relatedTo": [
+            {
+                "JP_ENAME": "S. T. T. UDORN SERVICE LIMITED PARTNERSHIP",
+                "JP_NO": "0413528000160",
+                "JP_TNAME": "เอส.ที.ที.อุดรบริการ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่พักอาศัย",
+                "PARTNER": " นายสันตติ บุราณฤทธิ์",
+                "_id": "0413528000160",
+                "activity_code": "41001",
+                "cpm": "50,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กำแพงเพชร เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/62/1/23aebc20-1763-4e9f-8b8b-00624c0a797b.jpg",
+        "memberType": "zone",
+        "name": "เฉลียว ศรีทัศน์",
+        "province_name": "กำแพงเพชร",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กำแพงเพชร เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/62/2/70d527d6-15b9-4f03-9b59-740828cbd10f.jpg",
+        "memberType": "zone",
+        "name": "สุพัตรา ปารักษา",
+        "province_name": "กำแพงเพชร",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กำแพงเพชร เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/62/3/aedda565-b8d3-4097-bc63-9b2920af52ec.jpg",
+        "memberType": "zone",
+        "name": "สุนันทา ใจคล่องงาน",
+        "province_name": "กำแพงเพชร",
+        "relatedTo": [
+            {
+                "JP_ENAME": "PHETSUPANKARNYOTA LIMITED PARTNERSHIP",
+                "JP_NO": "0623550000337",
+                "JP_TNAME": "เพชรสุพรรณการโยธา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นางสุนันทา ใจคล่องงาน",
+                "_id": "0623550000337",
+                "activity_code": "41002",
+                "avgPriceDiff": -0.01,
+                "cpm": "3,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 148500.0,
+                "totalPriceBuild": 150000.0,
+                "totalProjects": 1
+            },
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0723541000213",
+                "JP_TNAME": "เทพเทียนการโยธา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นางสุนันทา ใจคล่องงาน",
+                "_id": "0723541000213",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กำแพงเพชร เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/62/4/283f2abd-55ae-4e91-887d-520277ce3f61.jpg",
+        "memberType": "zone",
+        "name": "ทองใบ นกน้อย",
+        "province_name": "กำแพงเพชร",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ฉะเชิงเทรา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/24/1/10664947-9fa2-413a-a728-7e06999417b0.jpg",
+        "memberType": "zone",
+        "name": "จรัญ สมนาค",
+        "province_name": "ฉะเชิงเทรา",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ฉะเชิงเทรา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/24/2/49acfa07-b3a0-4a8b-9577-c821de5cfa50.jpg",
+        "memberType": "zone",
+        "name": "มาลีกี มั่นคง",
+        "province_name": "ฉะเชิงเทรา",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ฉะเชิงเทรา เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/24/3/931787b0-3fdf-452b-93de-7b8f3874b4b9.jpg",
+        "memberType": "zone",
+        "name": "ทองหล่อ เทียนวงค์",
+        "province_name": "ฉะเชิงเทรา",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ฉะเชิงเทรา เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/24/4/9d4572fd-bb0b-49db-ad6d-5f1926cebb7a.jpg",
+        "memberType": "zone",
+        "name": "วิชัย คงเจริญ",
+        "province_name": "ฉะเชิงเทรา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "W.A. TRADING AND CONSTRUCTION COMPANY LIMITED",
+                "JP_NO": "0745547000641",
+                "JP_TNAME": "ดับบลิว.เอ.เทรดดิ้ง แอนด์ คอนสตรัคชั่น จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "ร้านขายปลีกวัสดุก่อสร้างอื่นๆ",
+                "PARTNER": " นายวิชัย คงเจริญ",
+                "_id": "0745547000641",
+                "activity_code": "47524",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "KHONGCHAROEN TARA LIMITED PARTNERSHIP",
+                "JP_NO": "0803555001101",
+                "JP_TNAME": "คงเจริญ ธารา",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตน้ำดื่มบริสุทธิ์และน้ำแร่บรรจุขวด",
+                "PARTNER": " นายวิชัย คงเจริญ",
+                "_id": "0803555001101",
+                "activity_code": "11041",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (พระนครศรีอยุธยา เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/14/1/7c68d033-e4cb-4b00-837f-7796cbf93a8c.jpg",
+        "memberType": "zone",
+        "name": "ณัฐวุฒิ วงษ์เพิก",
+        "province_name": "พระนครศรีอยุธยา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "BURAPHA CHANTHABURI SERVICE LIMITED PARTNERSHIP",
+                "JP_NO": "0223550000489",
+                "JP_TNAME": "บูรพา จันทบุรี บริการ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายณัฐวุฒิ วงษ์เพิก",
+                "_id": "0223550000489",
+                "activity_code": "41002",
+                "avgPriceDiff": 0.2637998272554679,
+                "cpm": "1,050,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 91478968.0,
+                "totalPriceBuild": 105442014.0,
+                "totalProjects": 100
+            }
+        ],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (พระนครศรีอยุธยา เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/14/2/6bebd06e-fe1c-4e14-b64d-9e14462c01ea.jpg",
+        "memberType": "zone",
+        "name": "กุลจิณัณท์ ผิวแดง",
+        "province_name": "พระนครศรีอยุธยา",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (พระนครศรีอยุธยา เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/14/3/9632725f-ca17-4638-a812-ffe449bb4029.jpg",
+        "memberType": "zone",
+        "name": "สมศักดิ์ โฉมจิตร์",
+        "province_name": "พระนครศรีอยุธยา",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (พระนครศรีอยุธยา เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/14/4/96cc242f-6d21-4cfb-aeed-8ef0533b38c1.jpg",
+        "memberType": "zone",
+        "name": "ฟาติเมาะ ศาสตร์ศิลป์",
+        "province_name": "พระนครศรีอยุธยา",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SARTSIL PANICH LIMITED PARTNERSHIP",
+                "JP_NO": "0103555045287",
+                "JP_TNAME": "ศาสตร์ศิลป์ พาณิชย์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการขายสลากกินแบ่ง",
+                "PARTNER": " นางฟาติเมาะ ศาสตร์ศิลป์",
+                "_id": "0103555045287",
+                "activity_code": "92001",
+                "cpm": "200,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "สิ้นสภาพ"
+            }
+        ],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/1/46c6a1fe-a488-4599-b36e-08665d3b4e50.jpg",
+        "memberType": "zone",
+        "name": "สุนิสา สีลา",
+        "province_name": "ลพบุรี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/2/359202f1-6aef-4cdc-9505-e670aedd3597.jpg",
+        "memberType": "zone",
+        "name": "ทิพย์วรรณ นุ้ยปลี",
+        "province_name": "ลพบุรี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/3/a498be38-90f7-40c6-811f-f410eb2d1a01.jpg",
+        "memberType": "zone",
+        "name": "บุญส่ง ขาวดี",
+        "province_name": "ลพบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลพบุรี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/16/4/0a25a476-122d-429b-95ac-93675a0070b6.jpg",
+        "memberType": "zone",
+        "name": "บุหงา สุวรรณอัมพร",
+        "province_name": "ลพบุรี",
+        "relatedTo": [
+            {
+                "JP_ENAME": "SURAPARSAK LIMITED PARTNERSHIP",
+                "JP_NO": "0163546000586",
+                "JP_TNAME": "สุราป่าสัก",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การผลิตสุราผลไม้ (ไวน์) ซึ่งมิได้จัดประเภทไว้ที่อื่น",
+                "PARTNER": " นางบุหงา สุวรรณอัมพร",
+                "_id": "0163546000586",
+                "activity_code": "11029",
+                "cpm": "90,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลำปาง เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/52/2/e33f10ac-94e0-4d6b-9dcd-da35c0c2d5db.jpg",
+        "memberType": "zone",
+        "name": "สอาด มุ่งคิด",
+        "province_name": "ลำปาง",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ลำปาง เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/52/4/6489b1cf-0287-471c-a7b9-316268fc8fef.jpg",
+        "memberType": "zone",
+        "name": "ทองอยู่ นันตี",
+        "province_name": "ลำปาง",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สุพรรณบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/72/1/345929f2-1710-461c-b78c-112b02c078ef.jpg",
+        "memberType": "zone",
+        "name": "ปั้น บุญศรี",
+        "province_name": "สุพรรณบุรี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สุพรรณบุรี เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/72/2/60bc8392-92ba-429f-8e43-c097e3664713.jpg",
+        "memberType": "zone",
+        "name": "ถนอม เจดีย์",
+        "province_name": "สุพรรณบุรี",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สุพรรณบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/72/3/567a23e1-5fd4-47d3-a92a-3022b9bc56b2.jpg",
+        "memberType": "zone",
+        "name": "เนติ สกุลพราหมณ์",
+        "province_name": "สุพรรณบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (สุพรรณบุรี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/72/4/addebecf-a884-487d-a1b8-00f4a76db8c5.jpg",
+        "memberType": "zone",
+        "name": "ประยูร คนสูงดี",
+        "province_name": "สุพรรณบุรี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กาญจนบุรี เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/71/1/8ee6d6c6-a4e2-40c6-8581-0d783d1a3a23.jpg",
+        "memberType": "zone",
+        "name": "ณรงค์ เรืองขจร",
+        "province_name": "กาญจนบุรี",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กาญจนบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/71/3/fa392f1b-8e7c-4ea9-94d1-dbbdf7719129.jpg",
+        "memberType": "zone",
+        "name": "เปี๊ยก เชื้องาม",
+        "province_name": "กาญจนบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กาญจนบุรี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/71/4/ebf34e35-0a88-4897-a5be-9839127d76e8.jpg",
+        "memberType": "zone",
+        "name": "คามิน ปั้นแหน่งเพ็ชร",
+        "province_name": "กาญจนบุรี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (กาญจนบุรี เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/71/5/1f54add2-224c-42fb-ae7d-6cb9e2a2978e.jpg",
+        "memberType": "zone",
+        "name": "ฉัตรชัย สอาดเอี่ยม",
+        "province_name": "กาญจนบุรี",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครปฐม เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/73/1/08ef1d70-def6-4c95-a4b4-c690769201d5.jpg",
+        "memberType": "zone",
+        "name": "ดวงเดือน มณีสุข",
+        "province_name": "นครปฐม",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครปฐม เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/73/2/844df6a0-6520-47ad-95ba-e120249cfcd4.jpg",
+        "memberType": "zone",
+        "name": "ทองสุข หมื่นณรงค์",
+        "province_name": "นครปฐม",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครปฐม เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/73/3/f0db822b-dadb-43a2-bb25-dc19808e8645.jpg",
+        "memberType": "zone",
+        "name": "ประสิทธิ์ ปิ่นเกล้า",
+        "province_name": "นครปฐม",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครปฐม เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/73/4/688e99d0-cafe-41b2-a3a9-6333618c60bb.jpg",
+        "memberType": "zone",
+        "name": "รุ่งอรุณ สารภาพ",
+        "province_name": "นครปฐม",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครปฐม เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/73/5/ce9f18e6-f9c3-447e-b073-45bf6ba9596f.jpg",
+        "memberType": "zone",
+        "name": "กาญจนา หุราหะนนท์",
+        "province_name": "นครปฐม",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (มหาสารคาม เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/44/2/e129f81e-1fba-46d4-a11f-19ed475f68aa.jpg",
+        "memberType": "zone",
+        "name": "พลลักษณ์ สิงห์กลาง",
+        "province_name": "มหาสารคาม",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (มหาสารคาม เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/44/4/a27fc6e0-d872-46ee-a97b-02d48e733d9f.jpg",
+        "memberType": "zone",
+        "name": "มนตรี ทัพขวา",
+        "province_name": "มหาสารคาม",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครสวรรค์ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/60/1/132a6b9e-4049-4758-8193-3192b89c2ff4.jpg",
+        "memberType": "zone",
+        "name": "ยุวดี อ่อนเลิศ",
+        "province_name": "นครสวรรค์",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครสวรรค์ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/60/2/8279aef3-f9b2-4011-8a90-d550a2545ee4.jpg",
+        "memberType": "zone",
+        "name": "ศรัณรัตน์ ฉ่ำจิต",
+        "province_name": "นครสวรรค์",
+        "relatedTo": [],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครสวรรค์ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/60/3/8749aae7-e2ce-4cb4-b1fb-c58ce210c629.jpg",
+        "memberType": "zone",
+        "name": "เทียน อินทร์กล่ำ",
+        "province_name": "นครสวรรค์",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครสวรรค์ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/60/4/5c9a5bc9-3eef-4413-a980-26a8acddaf1b.jpg",
+        "memberType": "zone",
+        "name": "อวยพร แสงสม",
+        "province_name": "นครสวรรค์",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครสวรรค์ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/60/5/a448d7ed-f193-4349-a2b6-af206d91a907.jpg",
+        "memberType": "zone",
+        "name": "วุฒชริน แสนสะอาด",
+        "province_name": "นครสวรรค์",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครสวรรค์ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/60/6/a6055d33-00e2-4613-bc1d-1bc4a0e5ea39.jpg",
+        "memberType": "zone",
+        "name": "จักทพันธ์ แสนสะอาด",
+        "province_name": "นครสวรรค์",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ปทุมธานี เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/13/5/3a43fe58-24c4-47e0-aab7-510e41e728aa.jpg",
+        "memberType": "zone",
+        "name": "สุชล สินผดุง",
+        "province_name": "ปทุมธานี",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ปทุมธานี เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/13/6/35b6646b-7ac4-4c6c-a8f1-0bf75a0bf1a8.jpg",
+        "memberType": "zone",
+        "name": "สม บุญยม",
+        "province_name": "ปทุมธานี",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ชลบุรี เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/20/3/1f9c1274-71a3-4fae-9243-b51cd8cd8b27.jpg",
+        "memberType": "zone",
+        "name": "โฆษิต อิทธิรัตนกุล",
+        "province_name": "ชลบุรี",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ชลบุรี เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/20/4/783f3be5-2936-4ec5-b413-06117cfd6c14.jpg",
+        "memberType": "zone",
+        "name": "กิมยิ่ง ชลพนารักษ์",
+        "province_name": "ชลบุรี",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/1/57a94151-ccc4-475f-b295-335372ffe09c.jpg",
+        "memberType": "zone",
+        "name": "กิตติศักดิ์ เขื่อนแก้ว",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/2/73fe4cd3-2cf5-4f92-97c1-65e7b948ceb9.jpg",
+        "memberType": "zone",
+        "name": "ประชัน แปงปวน",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0505536001871",
+                "JP_TNAME": "เชียงใหม่สุขเกษมวิลล่า จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การซื้อและการขายอสังหาริมทรัพย์ที่เป็นของตนเองที่ไม่ใช่ เพื่อเป็นที่พักอาศัย",
+                "PARTNER": " นายประชัน แปงปวน",
+                "_id": "0505536001871",
+                "activity_code": "68102",
+                "cpm": "3,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "2"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/3/bb8e869c-966f-4e87-86fc-670321682c9b.jpg",
+        "memberType": "zone",
+        "name": "ปัญญา ธรรมเจริญ",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/4/13ad5e22-b6a8-4b27-8c7c-cfb2f7634945.jpg",
+        "memberType": "zone",
+        "name": "สิทธัญ วงค์ปั๋น",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "4"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/5/127ed63d-bb65-4365-87ab-d73bdcf608ae.jpg",
+        "memberType": "zone",
+        "name": "นิคม ติภาวัง",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "5"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/6/681aab1c-b07b-40df-892f-c0cabb70e2d0.jpg",
+        "memberType": "zone",
+        "name": "สาคร หอมช่วง",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "6"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/7/09a61160-5d80-4f32-aa45-13a2f10600f6.jpg",
+        "memberType": "zone",
+        "name": "นิกร สุรินรังษี",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [
+            {
+                "JP_ENAME": "PRANEEMEDIA LIMITED PARTNERSHIP",
+                "JP_NO": "0503555006598",
+                "JP_TNAME": "ปราณีมีเดีย",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการผลิตรายการโทรทัศน์",
+                "PARTNER": " นายนิกร สุรินรังษี",
+                "_id": "0503555006598",
+                "activity_code": "59112",
+                "cpm": "310,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/8/6a1753ca-c18f-4a88-b850-e0151a17d01c.jpg",
+        "memberType": "zone",
+        "name": "พรชัย ต๊ะวันวงค์",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (เชียงใหม่ เขต 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/50/9/52510960-31ea-41af-8a04-38d6acdb343d.jpg",
+        "memberType": "zone",
+        "name": "หล้า ปันศิริ",
+        "province_name": "เชียงใหม่",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/1/6664c391-01f1-4959-9e72-e31af56f1b43.jpg",
+        "memberType": "zone",
+        "name": "โกวิท คลังอุดม",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "1"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/7/7cee5e67-670a-404e-9a91-db90a1344678.jpg",
+        "memberType": "zone",
+        "name": "กันตวิชญ์ ตีมูลลา",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "7"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/8/c0a5cdc7-cdb7-4ab5-b1f1-2f702f94df80.jpg",
+        "memberType": "zone",
+        "name": "สุรัตน์ รูปสูง",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "8"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (ขอนแก่น เขต 10)",
+        "image": "http://202.6.26.16/images/candidate/thumb/40/10/8c12fe01-143e-47c2-8409-3a3c16e8b8fc.jpg",
+        "memberType": "zone",
+        "name": "วิชิต เศษมา",
+        "province_name": "ขอนแก่น",
+        "relatedTo": [],
+        "zone_number": "10"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/3/5e9fe50c-9622-4057-abe4-eb9bcf8c85e2.jpg",
+        "memberType": "zone",
+        "name": "อุทัยรัชต์ ปรีชา",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "3"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. เขต (นครราชสีมา เขต 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/30/9/5cba2084-a3f9-4926-97fa-ed66dca10a2d.jpg",
+        "memberType": "zone",
+        "name": "สุนทร เวียงสีมา",
+        "province_name": "นครราชสีมา",
+        "relatedTo": [],
+        "zone_number": "9"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 1)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/87f63194-3c60-4f84-b3b1-0b00337c660f.jpg",
+        "memberType": "partylist",
+        "name": "วชิร ศุภรมย์",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 2)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/d4eea439-a622-4c7e-a20e-f7d9720cffc5.jpg",
+        "memberType": "partylist",
+        "name": "ชรินทร์ ดวงดารา",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LEGAL LINE  COMPANY LIMITED",
+                "JP_NO": "0105547018979",
+                "JP_TNAME": "ลีกัล ไลน์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมทางกฎหมาย",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0105547018979",
+                "activity_code": "69100",
+                "cpm": "500,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "RETAIL RECOVERY COMPANY LIMITED",
+                "JP_NO": "0105542072061",
+                "JP_TNAME": "ราชประสงค์ แอ็ดไวเซอรี่ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การให้สินเชื่ออื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0105542072061",
+                "activity_code": "64929",
+                "cpm": "100,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "PERMSIN STEEL WORKS PUBLIC COMPANY LIMITED",
+                "JP_NO": "0107548000196",
+                "JP_TNAME": "เพิ่มสินสตีลเวิคส์ จำกัด (มหาชน)",
+                "JP_TYPE_CODE": "7",
+                "OBJ_TNAME": "การผลิตเหล็กและเหล็กกล้าขั้นมูลฐานอื่น ๆ ซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0107548000196",
+                "activity_code": "24109",
+                "cpm": "500,000,000.00",
+                "jptn": "บริษัทมหาชนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "CHU KAI PUBLIC COMPANY LIMITED",
+                "JP_NO": "0107548000412",
+                "JP_TNAME": "ชูไก จำกัด (มหาชน)",
+                "JP_TYPE_CODE": "7",
+                "OBJ_TNAME": "การขายส่งเครื่องจักรและอุปกรณ์งานวิศวกรรมโยธางานเหมืองแร่และงานก่อสร้าง",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0107548000412",
+                "activity_code": "46592",
+                "avgPriceDiff": 0.0,
+                "cpm": "1,044,637,027.00",
+                "jptn": "บริษัทมหาชนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่",
+                "totalPriceAgree": 449692.0,
+                "totalPriceBuild": 449692.0,
+                "totalProjects": 1
+            },
+            {
+                "JP_ENAME": "SEANIT RESEARCH & MANAGEMENT COMPANY LIMITED",
+                "JP_NO": "0115541004054",
+                "JP_TNAME": "ซีนิธ รีเสิร์ช แอนด์ แมเนจเม้นท์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การวิจัยตลาดและการสำรวจความคิดเห็นของประชาชน (ประชามติ)",
+                "PARTNER": " นายชรินทร์ ดวงดารา",
+                "_id": "0115541004054",
+                "activity_code": "73200",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "BILLIONTHAI CO., LTD.",
+                "JP_NO": "0105528019035",
+                "JP_TNAME": "บริลเลียนซไทย จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การก่อสร้างอาคารที่ไม่ใช่ที่พักอาศัย",
+                "PARTNER": " นายชรินทร์ ดวงดารา",
+                "_id": "0105528019035",
+                "activity_code": "41002",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "CAPITAL SERVICING PLUS COMPANY LIMITED",
+                "JP_NO": "0105548032576",
+                "JP_TNAME": "แคปปิตอล เซอร์วิสซิ่ง พลัส จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการประมวลผลและการเรียกชำระเงินสำหรับธุรกรรม ทางการเงิน",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0105548032576",
+                "activity_code": "66192",
+                "cpm": "1,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            },
+            {
+                "JP_ENAME": "AJ ADVANCE TECHNOLOGY PUBLIC COMPANY LIMITED",
+                "JP_NO": "0107554000135",
+                "JP_TNAME": "เอเจ แอดวานซ์ เทคโนโลยี จำกัด (มหาชน)",
+                "JP_TYPE_CODE": "7",
+                "OBJ_TNAME": "การขายส่งเครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ชนิดใช้ในครัวเรือน",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0107554000135",
+                "activity_code": "46421",
+                "cpm": "526,925,023.00",
+                "jptn": "บริษัทมหาชนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "EKACHART FINANCE AND SECURITIES CO., LTD.",
+                "JP_NO": "0105515000691",
+                "JP_TNAME": "เงินทุนหลักทรัพย์เอกชาติ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมการจัดการหลักทรัพย์การลงทุนและกองทุน (ยกเว้น กองทุนบำเหน็จบำนาญ)",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0105515000691",
+                "activity_code": "66301",
+                "cpm": "525,000,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "แปรสภาพ"
+            },
+            {
+                "JP_ENAME": "J.S.P.PROPERTY PUBLIC COMPANY LIMITED",
+                "JP_NO": "0107557000012",
+                "JP_TNAME": "เจ.เอส.พี. พร็อพเพอร์ตี้ จำกัด (มหาชน)",
+                "JP_TYPE_CODE": "7",
+                "OBJ_TNAME": "การซื้อและการขายอสังหาริมทรัพย์ที่เป็นของตนเองที่ไม่ใช่ เพื่อเป็นที่พักอาศัย",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0107557000012",
+                "activity_code": "68102",
+                "cpm": "2,100,000,000.00",
+                "jptn": "บริษัทมหาชนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "PROFESSIONAL MAXIMUM TRAINING & TRADING CO., LTD.",
+                "JP_NO": "0105538150339",
+                "JP_TNAME": "โปรเฟสชั่นนัล แม็กซิมั่ม เทรนนิ่ง แอนด์ เทรดดิ้ง จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "กิจกรรมให้คำปรึกษาด้านการบริหารจัดการอื่นๆซึ่งมิได้จัด ประเภทไว้ในที่อื่น",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0105538150339",
+                "activity_code": "70209",
+                "cpm": "120,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            },
+            {
+                "JP_ENAME": "MASS AND MATE LIMITED PARTNERSHIP",
+                "JP_NO": "0103526020280",
+                "JP_TNAME": "แมส แอนด์ เมท",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมการบริการอื่นๆเพื่อสนับสนุนธุรกิจซึ่งมิได้จัดประเภทไว้ ในที่อื่น",
+                "PARTNER": " นายชรินทร์ ดวงดารา",
+                "_id": "0103526020280",
+                "activity_code": "82990",
+                "cpm": "1,000,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            },
+            {
+                "JP_ENAME": "THAI RECOVERY MANAGEMENT CO., LTD.",
+                "JP_NO": "0105542071596",
+                "JP_TNAME": "รีคอฟเวอรี่ แมเนจเม้นท์ จำกัด",
+                "JP_TYPE_CODE": "5",
+                "OBJ_TNAME": "การให้สินเชื่ออื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+                "PARTNER": " นายวัชรินทร์ ดวงดารา",
+                "_id": "0105542071596",
+                "activity_code": "64929",
+                "cpm": "200,000.00",
+                "jptn": "บริษัทจำกัด",
+                "stn": "เสร็จการชำระบัญชี"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 3)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/92dc3c74-4903-4256-9987-a402f529645f.jpg",
+        "memberType": "partylist",
+        "name": "ปิ่นแก้ว แก้วสุกแท้",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 4)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/2c476d32-97f7-4ab2-9966-4318b3399548.jpg",
+        "memberType": "partylist",
+        "name": "วิเชียร ควรเอี่ยม",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "NON",
+                "JP_NO": "0243527000010",
+                "JP_TNAME": "ก้องหล้า บริการ",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "การขายปลีกเชื้อเพลิงยานยนต์ในร้านค้าเฉพาะ สถานี ปั๊ม",
+                "PARTNER": " นายวิเชียร ควรเอี่ยม",
+                "_id": "0243527000010",
+                "activity_code": "47300",
+                "cpm": "400,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ร้าง"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 5)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/5ce3ff63-2014-47a7-b856-9ddd9810250b.jpg",
+        "memberType": "partylist",
+        "name": "สุวรรณ เหรียญทอง",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 6)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/06563afc-4f33-4633-8fa7-5c100b7481b5.jpg",
+        "memberType": "partylist",
+        "name": "เตือนใจ น้ำใจสัตย์",
+        "province_name": "-",
+        "relatedTo": [
+            {
+                "JP_ENAME": "LOOKTHUNG 100 PERCEN LIMITED PARTNERSHIP",
+                "JP_NO": "0173555000691",
+                "JP_TNAME": "ลูกทุ่งร้อยเปอร์เซ็นต์",
+                "JP_TYPE_CODE": "3",
+                "OBJ_TNAME": "กิจกรรมของตัวแทนขายสื่อโฆษณา",
+                "PARTNER": " นางเตือนใจ น้ำใจสัตย์",
+                "_id": "0173555000691",
+                "activity_code": "73102",
+                "cpm": "100,000.00",
+                "jptn": "ห้างหุ้นส่วนจำกัด",
+                "stn": "ยังดำเนินกิจการอยู่"
+            }
+        ],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 7)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/d8d76a0a-f493-4a07-8a1b-2f254f618484.jpg",
+        "memberType": "partylist",
+        "name": "วัชรพงศ์ ชำนาญเวช",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 8)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/0b10f615-b40b-43f3-9953-40bde931a070.jpg",
+        "memberType": "partylist",
+        "name": "วันชัย ปารมีกาศ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    },
+    {
+        "PartyName": "เครือข่ายชาวนาแห่งประเทศไทย",
+        "desc": "ส.ส. บัญชีรายชื่อ (ลำดับที่ 9)",
+        "image": "http://202.6.26.16/images/candidate/thumb/00/7/a209deeb-7261-4b11-bd55-4d209375e6fd.jpg",
+        "memberType": "partylist",
+        "name": "วรินทร เสมอใจ",
+        "province_name": "-",
+        "relatedTo": [],
+        "zone_number": "-"
+    }
+]
