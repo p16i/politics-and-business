@@ -12,7 +12,8 @@
 
 
 ### Deployment URLs
-||Environment||URL||
+|Environment|URL|
+|---|---|
 |Staging|[link](https://master--admiring-ride-6b1173.netlify.com)
 |Production|[link](https://elect.in.th/politics-and-business/)
 
@@ -23,4 +24,4 @@ $ script/deploy.sh prod
 
 ## Acknowledgement
 - This project is built on top of [Webpack & React - Skeleton](https://github.com/keathley/webpack-react-skeleton).
-- We're appreciated help from Creden.co's crew and ... for supporting us in using APIs and increasing request allowance.
+- We appreciate help from Creden.co and ... for supporting us in using APIs and increasing request allowance.
