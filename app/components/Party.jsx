@@ -187,7 +187,7 @@ class Party extends React.Component {
         <div className={partyStyle.descBox}>
           <div>
             <h2>
-              ประวัติเกี่ยวข้องกับธุรกิจของผู้สมัคร ส.ส. พรรค
+              ประวัติเกี่ยวข้องกับธุรกิจของผู้สมัคร ส.ส. พรรค ปปป
             </h2>
             <h1 className={partyStyle.title} onClick={() => this.setState({isSearchingNewParty: true})}>
               <span>{this.props.params.partyName}</span>
