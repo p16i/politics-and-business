@@ -15,7 +15,7 @@
 ### Deployment 
 |Environment|URL|Command|
 |---|---|---|
-|Staging|[link](https://master--admiring-ride-6b1173.netlify.com)| CD Deployment|
+|Staging|[link](https://master--admiring-ride-6b1173.netlify.com)| automatic deployment for *master* |
 |Production|[link](https://elect.in.th/politics-and-business/)| `$ scripts/deploy.sh prod`|
 
 ## Acknowledgement
