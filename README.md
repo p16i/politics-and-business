@@ -8,20 +8,24 @@
 ## Description
 The goal of this visualization is to reveal business activities of each politician. From the visualisation, one can see the relationships between political parties and companies that support them. Moreover, integrating with Thailand's government spending data allows us to see the connections between producement campaigns and those companies.
 
-We hope this project will pave a foundation towards the country's political transparency and showing the importance of open data.
-
-## Project Overview
-
-## Site Statistics
-TBD.
+We hope this project has demonstated the importance of open data and paved the foundation towards the country's political transparency.
 
 ## Development
+Development of this project contains 2 parts: 1) Data Preparation and 2) Web and Visualisation development.
 
-### Deployment 
+### Data Preparation
+
+### Web and Visualisation Development
+
+## Deployment 
 |Environment|URL|Command|
 |---|---|---|
 |Staging|[link](https://master--admiring-ride-6b1173.netlify.com)| automatic deployment for *master* branch|
 |Production|[link](https://elect.in.th/politics-and-business/)| `$ scripts/deploy.sh prod`|
+
+### Site Statistics
+TBD.
+
 
 ## Acknowledgement
 - This project is built on top of [Webpack & React - Skeleton](https://github.com/keathley/webpack-react-skeleton).
