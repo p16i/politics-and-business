@@ -84,7 +84,7 @@ class Party extends React.Component {
               o['cpm'] = cpm 
 
               if(o['totalProjects']){
-                o['colorScale'] = o['totalPriceBuild']  //TODO: change this to project budget
+                o['colorScale'] = o['totalPriceBuild']
               } else {
                 o['colorScale'] = 0
               }
