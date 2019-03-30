@@ -10,6 +10,7 @@
 
 ## Development
 
+### Components
 
 ### Deployment URLs
 |Environment|URL|
@@ -24,4 +25,4 @@ $ script/deploy.sh prod
 
 ## Acknowledgement
 - This project is built on top of [Webpack & React - Skeleton](https://github.com/keathley/webpack-react-skeleton).
-- We appreciate help from Creden.co and ... for supporting us in using APIs and increasing request allowance.
+- We appreciate help from [Creden.co](https://creden.co) and Thailand's [Digital Government Development Agency (DGA)](https://www.dga.or.th) for providing us APIs and increasing request allowance.
