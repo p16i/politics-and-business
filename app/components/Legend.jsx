@@ -21,7 +21,6 @@ const pColor = config.colorSchemes.polColorRange;
 const oColor = config.colorSchemes.orgColorRange;
 const shareIconSize = 32;
 
-// @todo #2:15m This is something to do later
 class Legend extends React.Component {
 
   constructor(props) {
