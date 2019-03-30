@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83666036-80b0-483e-be7d-31d113f350d0/deploy-status)](https://app.netlify.com/sites/admiring-ride-6b1173/deploys)
 
 <div style="center">
-    <img src="https://i.imgur.com/VbvGDhs.png"/>
+    <a href="https://elect.in.th/politics-and-business/"><img src="https://i.imgur.com/VbvGDhs.png"/></a>
 </div>
 
 ## Description
