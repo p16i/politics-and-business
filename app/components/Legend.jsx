@@ -76,6 +76,7 @@ class Legend extends React.Component {
           </div>
         </div>
         <div className={style.footerContainer}>
+          {/* @todo #1 add remarks for govspending data */}
           {/* ร่วมพัฒนาโดย <a href="//www.boonmeelab.com/">บุญมีแล็บ</a> & <a href="//pat.chormai.org">ภัทรวัต ช่อไม้</a> */}
           {/* <span className={style.footerSeparator}>/</span> */}
           <br/>
