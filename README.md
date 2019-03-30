@@ -1,39 +1,26 @@
-# Webpack & React - Skeleton
+# Thailand's Politics and Business 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83666036-80b0-483e-be7d-31d113f350d0/deploy-status)](https://app.netlify.com/sites/admiring-ride-6b1173/deploys)
 
-<img src="https://travis-ci.org/keathley/webpack-react-skeleton.svg?branch=master" />
+<div style="center">
+    <img src="https://i.imgur.com/VbvGDhs.png">
+</div>
 
-This is just the basic skeleton that I use to create a new react apps.  I've included all of the things that I like:
+## Project Description
 
-* React
-* Webpack
-* PostCSS
-* CSS Modules
-* React-Router
-* Babel support
-* Hot reloading and push state
-* ESLint
-* Mocha + Chai + Enzyme
 
-and more!
+## Development
 
-## Getting started
 
-To get started you just need to run the following:
+### Deployment URLs
+||Environment||URL||
+|Staging|[link](https://master--admiring-ride-6b1173.netlify.com)
+|Production|[link](https://elect.in.th/politics-and-business/)
 
-    $ npm install
-    $ webpack
-    $ npm start
+### Production Deployment
+```
+$ script/deploy.sh prod
+```
 
-Running `npm start` will start webpack and the webpack hot reload server.
-
-## Production Builds
-
-If you want to deploy your assets then run this:
-
-    $ npm run deploy
-
-You'll now have a minified and hashed version of all of your assets.  By default vendor files and css are split out of the main bundle and cached separately.  If you add more vendor files and want them to be split out then make sure you add them to the vendor entrypoint.
-
-## Contributing
-
-If you have something that you think goes in here then feel free to open an issue, PR, or message me directly at @ChrisKeathley.
+## Acknowledgement
+- This project is built on top of [Webpack & React - Skeleton](https://github.com/keathley/webpack-react-skeleton).
+- We're appreciated help from Creden.co's crew and ... for supporting us in using APIs and increasing request allowance.
