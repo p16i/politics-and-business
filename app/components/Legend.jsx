@@ -21,7 +21,7 @@ const pColor = config.colorSchemes.polColorRange;
 const oColor = config.colorSchemes.orgColorRange;
 const shareIconSize = 32;
 
-// @todo #234:15m/DEV This is something to do later
+// @todo #2:15m This is something to do later
 class Legend extends React.Component {
 
   constructor(props) {
@@ -77,7 +77,7 @@ class Legend extends React.Component {
           </div>
         </div>
         <div className={style.footerContainer}>
-          {/* @todo #1 add remarks for govspending data */}
+          {/* @todo #2 add remarks for govspending data */}
           {/* ร่วมพัฒนาโดย <a href="//www.boonmeelab.com/">บุญมีแล็บ</a> & <a href="//pat.chormai.org">ภัทรวัต ช่อไม้</a> */}
           {/* <span className={style.footerSeparator}>/</span> */}
           <br/>
